@@ -1,0 +1,1001 @@
+date,incident_type,severity,status,description,reported_by
+2023-05-03,SQL Injection,Low,Resolved,Phishing incident detected.,security_team
+2023-06-12,Malware,Critical,Resolved,Malware incident detected.,charlie
+2024-05-13,Bruteforce Attack,Critical,Investigating,Unauthorized Access incident detected.,charlie
+2024-01-25,SQL Injection,Critical,Open,Data Leak incident detected.,alice
+2024-10-14,Data Leak,Critical,Resolved,Bruteforce Attack incident detected.,admin
+2024-06-04,DDoS,Low,Resolved,Ransomware incident detected.,security_team
+2023-04-30,Phishing,High,Open,DDoS incident detected.,security_team
+2024-09-27,Ransomware,Medium,Investigating,DDoS incident detected.,security_team
+2024-10-29,Ransomware,High,Closed,SQL Injection incident detected.,alice
+2024-07-29,Unauthorized Access,Low,Closed,Unauthorized Access incident detected.,charlie
+2023-05-04,SQL Injection,Low,Open,SQL Injection incident detected.,admin
+2023-06-24,Data Leak,Medium,Closed,Phishing incident detected.,security_team
+2024-04-07,Ransomware,Low,Open,Data Leak incident detected.,bob
+2024-08-14,Ransomware,Low,Open,SQL Injection incident detected.,system
+2024-11-05,DDoS,Critical,Investigating,Unauthorized Access incident detected.,charlie
+2023-09-23,DDoS,High,Investigating,Ransomware incident detected.,bob
+2024-05-31,Malware,Critical,Resolved,Ransomware incident detected.,system
+2024-01-03,Ransomware,High,Closed,Malware incident detected.,bob
+2023-01-31,SQL Injection,Low,Open,Ransomware incident detected.,system
+2023-04-09,DDoS,Critical,Closed,DDoS incident detected.,alice
+2023-09-19,Unauthorized Access,Medium,Investigating,Unauthorized Access incident detected.,bob
+2024-01-21,Data Leak,High,Resolved,SQL Injection incident detected.,bob
+2024-04-24,Phishing,Medium,Closed,Bruteforce Attack incident detected.,charlie
+2023-05-30,Unauthorized Access,Low,Investigating,Ransomware incident detected.,alice
+2023-11-02,Ransomware,High,Closed,Phishing incident detected.,charlie
+2024-06-29,Phishing,Medium,Resolved,SQL Injection incident detected.,charlie
+2023-09-29,Bruteforce Attack,Critical,Investigating,SQL Injection incident detected.,system
+2024-06-23,Phishing,Low,Resolved,Phishing incident detected.,bob
+2024-03-09,Phishing,Critical,Closed,Bruteforce Attack incident detected.,charlie
+2024-11-05,Unauthorized Access,High,Investigating,Unauthorized Access incident detected.,admin
+2024-07-24,SQL Injection,High,Closed,SQL Injection incident detected.,charlie
+2024-04-02,Unauthorized Access,Critical,Resolved,Unauthorized Access incident detected.,system
+2024-02-20,Ransomware,Critical,Closed,Bruteforce Attack incident detected.,system
+2023-10-20,Malware,Medium,Closed,Phishing incident detected.,system
+2024-08-31,SQL Injection,High,Closed,SQL Injection incident detected.,charlie
+2023-10-28,DDoS,High,Resolved,Ransomware incident detected.,security_team
+2023-11-11,SQL Injection,Low,Closed,Ransomware incident detected.,bob
+2023-08-10,Malware,Medium,Closed,SQL Injection incident detected.,admin
+2023-10-30,Phishing,Medium,Closed,Ransomware incident detected.,system
+2024-01-20,Data Leak,Medium,Closed,Data Leak incident detected.,security_team
+2024-03-04,SQL Injection,High,Open,Ransomware incident detected.,charlie
+2024-11-14,Unauthorized Access,High,Investigating,SQL Injection incident detected.,admin
+2023-11-07,Phishing,Medium,Open,Phishing incident detected.,admin
+2023-05-05,DDoS,Medium,Closed,Data Leak incident detected.,alice
+2023-10-08,SQL Injection,High,Resolved,Data Leak incident detected.,alice
+2023-09-01,SQL Injection,Critical,Open,Malware incident detected.,system
+2024-07-17,Unauthorized Access,High,Resolved,Unauthorized Access incident detected.,charlie
+2024-08-29,Ransomware,Low,Open,Data Leak incident detected.,admin
+2024-08-01,Bruteforce Attack,Critical,Resolved,Data Leak incident detected.,system
+2024-10-06,Unauthorized Access,Medium,Open,Bruteforce Attack incident detected.,security_team
+2024-08-03,Data Leak,Medium,Closed,Malware incident detected.,charlie
+2023-03-03,DDoS,High,Closed,Unauthorized Access incident detected.,charlie
+2023-01-23,Phishing,Critical,Closed,Malware incident detected.,admin
+2024-04-09,Bruteforce Attack,Critical,Closed,Data Leak incident detected.,alice
+2023-12-25,Phishing,Critical,Investigating,Malware incident detected.,system
+2024-10-02,Data Leak,Low,Resolved,Malware incident detected.,alice
+2024-01-30,Phishing,Medium,Open,Malware incident detected.,bob
+2024-04-09,Bruteforce Attack,Critical,Closed,Phishing incident detected.,charlie
+2024-02-12,Unauthorized Access,Medium,Closed,Ransomware incident detected.,admin
+2023-03-21,Data Leak,Low,Resolved,Data Leak incident detected.,charlie
+2023-02-13,Ransomware,Medium,Resolved,Data Leak incident detected.,bob
+2023-02-24,DDoS,Low,Investigating,SQL Injection incident detected.,bob
+2024-07-08,Unauthorized Access,Low,Open,Malware incident detected.,bob
+2023-01-25,DDoS,Medium,Resolved,Data Leak incident detected.,security_team
+2023-03-29,Data Leak,Critical,Closed,Bruteforce Attack incident detected.,charlie
+2024-08-04,Phishing,Critical,Closed,Bruteforce Attack incident detected.,bob
+2023-10-03,Malware,Critical,Open,SQL Injection incident detected.,alice
+2024-03-09,SQL Injection,Low,Resolved,Malware incident detected.,charlie
+2024-08-11,Phishing,Medium,Open,Bruteforce Attack incident detected.,charlie
+2024-01-13,SQL Injection,Low,Closed,Unauthorized Access incident detected.,bob
+2023-07-26,Bruteforce Attack,Low,Investigating,DDoS incident detected.,charlie
+2023-03-27,Phishing,Critical,Open,Phishing incident detected.,charlie
+2023-11-11,Ransomware,Low,Resolved,DDoS incident detected.,security_team
+2023-04-04,Bruteforce Attack,Medium,Resolved,Ransomware incident detected.,system
+2024-01-11,Unauthorized Access,Medium,Resolved,Bruteforce Attack incident detected.,alice
+2024-06-04,DDoS,Low,Resolved,Ransomware incident detected.,security_team
+2023-04-17,Unauthorized Access,Low,Resolved,Unauthorized Access incident detected.,charlie
+2023-10-22,Malware,High,Investigating,Phishing incident detected.,alice
+2024-03-04,SQL Injection,Low,Open,Ransomware incident detected.,bob
+2024-02-09,Ransomware,Critical,Open,Unauthorized Access incident detected.,security_team
+2024-08-30,Phishing,High,Open,Phishing incident detected.,bob
+2024-11-04,Ransomware,Medium,Investigating,Bruteforce Attack incident detected.,admin
+2023-10-23,SQL Injection,High,Open,SQL Injection incident detected.,charlie
+2023-02-27,DDoS,Critical,Investigating,Phishing incident detected.,security_team
+2024-08-16,Ransomware,Critical,Investigating,Phishing incident detected.,alice
+2023-05-23,Malware,Critical,Investigating,Unauthorized Access incident detected.,charlie
+2024-11-04,DDoS,High,Resolved,Ransomware incident detected.,alice
+2024-04-11,Data Leak,Medium,Investigating,Data Leak incident detected.,charlie
+2024-02-18,DDoS,Low,Resolved,SQL Injection incident detected.,security_team
+2023-11-04,Data Leak,High,Closed,SQL Injection incident detected.,alice
+2024-05-02,SQL Injection,High,Investigating,Bruteforce Attack incident detected.,charlie
+2023-03-25,Phishing,Critical,Open,Phishing incident detected.,admin
+2023-03-04,Phishing,Critical,Resolved,Ransomware incident detected.,alice
+2023-12-07,Ransomware,Low,Investigating,Ransomware incident detected.,bob
+2023-05-29,Ransomware,High,Closed,DDoS incident detected.,charlie
+2023-10-03,Unauthorized Access,Medium,Closed,Malware incident detected.,security_team
+2024-11-10,SQL Injection,Medium,Resolved,Unauthorized Access incident detected.,system
+2023-04-04,DDoS,Critical,Investigating,Malware incident detected.,security_team
+2024-04-06,SQL Injection,High,Investigating,Malware incident detected.,bob
+2024-09-09,Bruteforce Attack,Medium,Investigating,Data Leak incident detected.,admin
+2023-07-29,SQL Injection,Low,Open,SQL Injection incident detected.,security_team
+2023-01-19,Malware,High,Resolved,Bruteforce Attack incident detected.,charlie
+2024-07-02,Bruteforce Attack,Low,Investigating,Ransomware incident detected.,bob
+2024-02-04,Phishing,Low,Resolved,Data Leak incident detected.,alice
+2023-07-18,Malware,Low,Resolved,Bruteforce Attack incident detected.,security_team
+2023-12-31,SQL Injection,High,Closed,Bruteforce Attack incident detected.,admin
+2023-03-06,DDoS,Critical,Investigating,Unauthorized Access incident detected.,alice
+2024-01-05,Phishing,Critical,Closed,Phishing incident detected.,system
+2024-02-07,Data Leak,High,Resolved,Bruteforce Attack incident detected.,system
+2024-03-19,Malware,Medium,Resolved,SQL Injection incident detected.,bob
+2023-08-30,Ransomware,Medium,Resolved,Phishing incident detected.,charlie
+2023-12-16,Malware,High,Investigating,Bruteforce Attack incident detected.,admin
+2023-05-02,Data Leak,Low,Resolved,Ransomware incident detected.,security_team
+2024-02-17,Unauthorized Access,Critical,Closed,Bruteforce Attack incident detected.,security_team
+2024-09-25,Unauthorized Access,High,Resolved,SQL Injection incident detected.,alice
+2023-11-29,SQL Injection,High,Resolved,Ransomware incident detected.,system
+2023-12-20,DDoS,Critical,Investigating,Ransomware incident detected.,system
+2024-05-26,Malware,Medium,Investigating,Data Leak incident detected.,system
+2024-06-10,Phishing,High,Open,SQL Injection incident detected.,bob
+2023-05-26,Unauthorized Access,High,Open,Bruteforce Attack incident detected.,charlie
+2024-07-15,Bruteforce Attack,Medium,Investigating,DDoS incident detected.,system
+2024-11-14,Phishing,Medium,Investigating,Bruteforce Attack incident detected.,admin
+2024-02-08,Phishing,Medium,Resolved,Phishing incident detected.,alice
+2023-05-09,Malware,High,Investigating,DDoS incident detected.,admin
+2023-11-10,Bruteforce Attack,Low,Resolved,DDoS incident detected.,admin
+2023-10-04,Ransomware,Low,Investigating,Malware incident detected.,charlie
+2024-01-15,Data Leak,Critical,Investigating,Bruteforce Attack incident detected.,security_team
+2024-11-20,DDoS,High,Investigating,Malware incident detected.,security_team
+2024-02-01,Phishing,Medium,Investigating,SQL Injection incident detected.,security_team
+2023-10-02,DDoS,Low,Open,Ransomware incident detected.,admin
+2024-07-23,Bruteforce Attack,Low,Investigating,Data Leak incident detected.,bob
+2023-07-30,Ransomware,High,Open,SQL Injection incident detected.,admin
+2023-04-25,Unauthorized Access,Critical,Resolved,Ransomware incident detected.,security_team
+2024-05-20,Ransomware,Low,Resolved,Malware incident detected.,bob
+2023-06-17,DDoS,Critical,Investigating,Bruteforce Attack incident detected.,admin
+2024-08-13,Bruteforce Attack,Critical,Closed,SQL Injection incident detected.,charlie
+2023-06-13,Bruteforce Attack,Medium,Closed,Data Leak incident detected.,alice
+2024-06-17,DDoS,Low,Closed,Malware incident detected.,security_team
+2024-05-18,SQL Injection,Medium,Open,DDoS incident detected.,admin
+2023-08-04,Phishing,Low,Resolved,Data Leak incident detected.,bob
+2024-07-01,SQL Injection,High,Resolved,Unauthorized Access incident detected.,alice
+2023-07-17,Phishing,Critical,Open,Unauthorized Access incident detected.,bob
+2024-05-10,Unauthorized Access,Medium,Investigating,DDoS incident detected.,charlie
+2024-07-26,Phishing,Medium,Open,Data Leak incident detected.,charlie
+2023-03-12,DDoS,Critical,Resolved,SQL Injection incident detected.,security_team
+2024-06-22,Malware,High,Closed,Data Leak incident detected.,charlie
+2023-05-31,Ransomware,Low,Resolved,Data Leak incident detected.,system
+2023-08-05,Bruteforce Attack,High,Investigating,Data Leak incident detected.,bob
+2023-02-27,SQL Injection,Low,Resolved,Malware incident detected.,admin
+2024-08-23,Bruteforce Attack,Low,Investigating,SQL Injection incident detected.,charlie
+2024-05-05,Unauthorized Access,Medium,Closed,Unauthorized Access incident detected.,alice
+2023-03-30,Unauthorized Access,Medium,Investigating,Data Leak incident detected.,security_team
+2023-12-28,SQL Injection,Critical,Open,Ransomware incident detected.,admin
+2023-10-14,Data Leak,Critical,Open,Data Leak incident detected.,security_team
+2023-09-30,Malware,High,Open,SQL Injection incident detected.,system
+2024-08-12,Phishing,High,Closed,Phishing incident detected.,alice
+2023-12-23,Data Leak,Critical,Open,Phishing incident detected.,charlie
+2024-11-17,Ransomware,Low,Resolved,Data Leak incident detected.,system
+2024-02-01,Ransomware,Critical,Resolved,Bruteforce Attack incident detected.,system
+2023-12-02,Phishing,Critical,Investigating,Bruteforce Attack incident detected.,charlie
+2024-08-09,Bruteforce Attack,Medium,Open,SQL Injection incident detected.,security_team
+2023-08-06,SQL Injection,Medium,Closed,Malware incident detected.,system
+2024-06-04,DDoS,Medium,Resolved,Ransomware incident detected.,admin
+2024-06-08,Ransomware,Medium,Closed,Phishing incident detected.,admin
+2023-07-10,Phishing,Critical,Resolved,Unauthorized Access incident detected.,alice
+2023-08-05,DDoS,Medium,Resolved,Ransomware incident detected.,alice
+2023-09-08,SQL Injection,High,Open,Phishing incident detected.,system
+2023-08-18,DDoS,High,Open,Malware incident detected.,system
+2023-08-26,Malware,Critical,Open,Phishing incident detected.,bob
+2024-04-13,Ransomware,High,Open,Malware incident detected.,alice
+2023-01-23,Unauthorized Access,Critical,Closed,Bruteforce Attack incident detected.,system
+2024-11-19,Unauthorized Access,High,Open,DDoS incident detected.,admin
+2023-08-25,DDoS,Medium,Resolved,Malware incident detected.,charlie
+2024-09-14,Unauthorized Access,High,Resolved,Phishing incident detected.,security_team
+2023-03-11,Unauthorized Access,Low,Open,Phishing incident detected.,admin
+2024-05-22,Malware,Medium,Open,Bruteforce Attack incident detected.,admin
+2023-06-06,Phishing,High,Open,Phishing incident detected.,bob
+2023-07-30,Phishing,High,Closed,Bruteforce Attack incident detected.,system
+2023-10-11,SQL Injection,High,Resolved,Phishing incident detected.,admin
+2024-02-25,Ransomware,Medium,Closed,Data Leak incident detected.,admin
+2023-04-29,SQL Injection,Medium,Open,Data Leak incident detected.,alice
+2024-10-27,DDoS,High,Open,Malware incident detected.,admin
+2024-04-16,Phishing,Medium,Resolved,Ransomware incident detected.,bob
+2024-09-25,Ransomware,Medium,Closed,DDoS incident detected.,admin
+2024-09-02,DDoS,High,Open,Unauthorized Access incident detected.,security_team
+2023-02-24,Phishing,Low,Investigating,Malware incident detected.,alice
+2024-09-05,Unauthorized Access,Critical,Closed,Data Leak incident detected.,alice
+2023-08-23,Unauthorized Access,High,Investigating,DDoS incident detected.,charlie
+2024-03-09,SQL Injection,Medium,Resolved,Ransomware incident detected.,security_team
+2023-01-16,DDoS,High,Closed,Unauthorized Access incident detected.,alice
+2024-07-10,Data Leak,Critical,Closed,Data Leak incident detected.,system
+2023-05-25,Malware,Low,Open,DDoS incident detected.,system
+2023-12-02,SQL Injection,Critical,Investigating,Malware incident detected.,security_team
+2023-08-31,SQL Injection,Critical,Open,Ransomware incident detected.,charlie
+2023-08-17,Data Leak,Critical,Open,DDoS incident detected.,admin
+2024-06-21,Malware,Low,Investigating,SQL Injection incident detected.,charlie
+2023-12-06,SQL Injection,Critical,Open,Data Leak incident detected.,system
+2023-05-31,SQL Injection,Medium,Resolved,DDoS incident detected.,system
+2024-03-06,SQL Injection,Critical,Resolved,SQL Injection incident detected.,security_team
+2023-12-06,Data Leak,High,Closed,Data Leak incident detected.,security_team
+2024-03-17,Malware,Medium,Investigating,Malware incident detected.,alice
+2023-08-04,Data Leak,High,Open,DDoS incident detected.,security_team
+2024-04-19,SQL Injection,High,Open,SQL Injection incident detected.,system
+2024-05-24,Bruteforce Attack,Low,Investigating,Malware incident detected.,security_team
+2023-06-22,Malware,Critical,Open,Phishing incident detected.,system
+2023-11-26,Data Leak,Critical,Investigating,Bruteforce Attack incident detected.,bob
+2024-02-08,DDoS,High,Open,DDoS incident detected.,system
+2023-01-09,Data Leak,Critical,Open,Ransomware incident detected.,alice
+2023-10-20,Data Leak,Critical,Investigating,Unauthorized Access incident detected.,system
+2024-03-06,Phishing,Medium,Open,SQL Injection incident detected.,bob
+2024-08-19,Malware,Critical,Closed,DDoS incident detected.,security_team
+2024-11-13,Phishing,Critical,Open,Ransomware incident detected.,system
+2024-02-25,Phishing,Medium,Open,Ransomware incident detected.,alice
+2024-02-01,SQL Injection,Critical,Investigating,Malware incident detected.,system
+2024-02-15,Unauthorized Access,Critical,Investigating,Malware incident detected.,bob
+2024-09-15,SQL Injection,Medium,Closed,Bruteforce Attack incident detected.,alice
+2023-07-29,Malware,Critical,Investigating,Data Leak incident detected.,system
+2023-05-13,DDoS,Low,Open,Phishing incident detected.,alice
+2024-10-18,DDoS,Medium,Investigating,Phishing incident detected.,charlie
+2024-01-02,Bruteforce Attack,Critical,Resolved,Ransomware incident detected.,alice
+2023-11-18,Ransomware,Critical,Resolved,Unauthorized Access incident detected.,charlie
+2024-10-15,DDoS,Low,Investigating,Phishing incident detected.,system
+2023-07-11,Malware,Critical,Investigating,Data Leak incident detected.,security_team
+2023-11-16,SQL Injection,High,Closed,Ransomware incident detected.,admin
+2023-06-16,DDoS,Critical,Resolved,SQL Injection incident detected.,system
+2023-07-03,Malware,Critical,Closed,Bruteforce Attack incident detected.,alice
+2024-09-08,Unauthorized Access,Critical,Resolved,DDoS incident detected.,bob
+2023-04-13,Unauthorized Access,High,Open,Ransomware incident detected.,charlie
+2024-03-08,Data Leak,Medium,Investigating,Data Leak incident detected.,system
+2024-06-05,Bruteforce Attack,High,Closed,SQL Injection incident detected.,bob
+2024-03-29,Unauthorized Access,Critical,Investigating,SQL Injection incident detected.,alice
+2023-08-03,SQL Injection,Low,Open,DDoS incident detected.,charlie
+2024-03-22,DDoS,Medium,Open,Bruteforce Attack incident detected.,charlie
+2024-09-24,Phishing,Critical,Investigating,Bruteforce Attack incident detected.,system
+2023-10-30,Ransomware,Low,Open,Phishing incident detected.,alice
+2023-02-24,Malware,High,Closed,Bruteforce Attack incident detected.,charlie
+2024-03-04,Phishing,High,Resolved,Bruteforce Attack incident detected.,admin
+2024-10-03,Phishing,High,Closed,Malware incident detected.,alice
+2024-02-26,Phishing,Low,Resolved,Data Leak incident detected.,charlie
+2024-10-01,Ransomware,High,Investigating,Malware incident detected.,security_team
+2023-08-05,Data Leak,Medium,Resolved,SQL Injection incident detected.,system
+2023-05-04,Malware,High,Closed,Bruteforce Attack incident detected.,alice
+2023-01-15,Ransomware,Low,Resolved,Unauthorized Access incident detected.,admin
+2024-04-18,Phishing,Critical,Closed,Data Leak incident detected.,alice
+2023-10-17,Bruteforce Attack,High,Investigating,Data Leak incident detected.,bob
+2023-04-17,Ransomware,Medium,Open,SQL Injection incident detected.,security_team
+2023-11-30,Unauthorized Access,Medium,Open,Malware incident detected.,bob
+2024-06-26,Data Leak,Low,Resolved,Malware incident detected.,security_team
+2024-02-25,Malware,Low,Closed,Phishing incident detected.,system
+2024-11-30,Malware,Low,Open,DDoS incident detected.,bob
+2023-04-25,Ransomware,High,Closed,Phishing incident detected.,bob
+2023-08-20,Data Leak,Critical,Closed,Phishing incident detected.,bob
+2023-10-22,Data Leak,Medium,Investigating,Unauthorized Access incident detected.,charlie
+2023-11-04,SQL Injection,Low,Resolved,Ransomware incident detected.,bob
+2023-06-01,DDoS,Critical,Resolved,Bruteforce Attack incident detected.,bob
+2024-07-31,Bruteforce Attack,Medium,Investigating,SQL Injection incident detected.,admin
+2023-08-21,Phishing,Critical,Closed,Ransomware incident detected.,bob
+2024-10-05,Phishing,Medium,Resolved,Phishing incident detected.,system
+2023-07-11,Phishing,Medium,Investigating,DDoS incident detected.,bob
+2023-04-16,DDoS,Critical,Investigating,DDoS incident detected.,system
+2023-03-05,Malware,Critical,Closed,Bruteforce Attack incident detected.,charlie
+2024-01-25,Data Leak,Low,Open,Data Leak incident detected.,alice
+2024-01-04,Bruteforce Attack,High,Investigating,Data Leak incident detected.,charlie
+2023-07-14,Ransomware,Low,Resolved,DDoS incident detected.,alice
+2024-03-25,Bruteforce Attack,Critical,Investigating,Phishing incident detected.,charlie
+2023-10-12,Malware,Critical,Resolved,Unauthorized Access incident detected.,alice
+2024-07-05,Malware,Medium,Open,DDoS incident detected.,bob
+2024-10-25,SQL Injection,Low,Closed,Malware incident detected.,system
+2023-05-25,Malware,Low,Open,SQL Injection incident detected.,system
+2024-02-06,Malware,Critical,Investigating,SQL Injection incident detected.,system
+2023-08-13,Unauthorized Access,Low,Resolved,DDoS incident detected.,security_team
+2023-12-27,Bruteforce Attack,Medium,Resolved,Ransomware incident detected.,alice
+2023-03-24,Unauthorized Access,Medium,Resolved,Ransomware incident detected.,bob
+2023-03-31,Phishing,Low,Resolved,Bruteforce Attack incident detected.,charlie
+2023-03-12,DDoS,Medium,Open,Unauthorized Access incident detected.,alice
+2024-04-23,Bruteforce Attack,Low,Closed,Phishing incident detected.,charlie
+2023-02-09,Phishing,High,Closed,Bruteforce Attack incident detected.,admin
+2023-03-29,Unauthorized Access,Medium,Open,DDoS incident detected.,charlie
+2024-04-15,Malware,Low,Open,Bruteforce Attack incident detected.,charlie
+2024-03-14,Unauthorized Access,Medium,Investigating,Phishing incident detected.,bob
+2024-06-24,Malware,Medium,Open,Unauthorized Access incident detected.,security_team
+2024-06-11,Malware,High,Investigating,DDoS incident detected.,bob
+2024-08-24,DDoS,High,Investigating,DDoS incident detected.,system
+2024-11-13,DDoS,Critical,Closed,Phishing incident detected.,bob
+2023-06-02,Bruteforce Attack,Medium,Open,DDoS incident detected.,security_team
+2023-07-03,SQL Injection,Medium,Resolved,Ransomware incident detected.,charlie
+2023-12-31,Phishing,Critical,Resolved,DDoS incident detected.,admin
+2023-03-08,Ransomware,Medium,Resolved,Malware incident detected.,charlie
+2024-10-30,SQL Injection,Low,Resolved,Malware incident detected.,security_team
+2023-07-06,Phishing,Critical,Resolved,DDoS incident detected.,bob
+2024-11-08,Phishing,Critical,Resolved,DDoS incident detected.,system
+2024-08-23,DDoS,Low,Investigating,DDoS incident detected.,security_team
+2024-08-06,Ransomware,Low,Open,Ransomware incident detected.,alice
+2024-10-30,Ransomware,High,Resolved,Data Leak incident detected.,bob
+2023-11-04,DDoS,Low,Resolved,Bruteforce Attack incident detected.,admin
+2023-09-12,DDoS,Critical,Open,DDoS incident detected.,bob
+2024-05-11,Bruteforce Attack,High,Resolved,SQL Injection incident detected.,security_team
+2024-02-07,Malware,Critical,Closed,Data Leak incident detected.,alice
+2023-07-26,Bruteforce Attack,Medium,Investigating,Unauthorized Access incident detected.,security_team
+2024-10-14,Malware,Medium,Closed,Ransomware incident detected.,security_team
+2024-01-16,DDoS,High,Resolved,SQL Injection incident detected.,system
+2024-02-24,Malware,Critical,Investigating,Ransomware incident detected.,charlie
+2023-12-14,Unauthorized Access,Low,Open,Bruteforce Attack incident detected.,charlie
+2024-11-29,Ransomware,Medium,Investigating,Data Leak incident detected.,alice
+2023-04-14,SQL Injection,Critical,Open,Data Leak incident detected.,admin
+2024-10-11,Malware,High,Investigating,Unauthorized Access incident detected.,security_team
+2024-11-24,SQL Injection,Critical,Closed,Data Leak incident detected.,bob
+2024-06-09,Malware,Medium,Resolved,SQL Injection incident detected.,system
+2023-11-03,Unauthorized Access,Low,Investigating,Data Leak incident detected.,bob
+2023-04-05,Phishing,Critical,Closed,Phishing incident detected.,charlie
+2023-04-04,DDoS,Critical,Investigating,Unauthorized Access incident detected.,bob
+2023-09-02,Bruteforce Attack,Low,Closed,DDoS incident detected.,bob
+2024-03-22,Unauthorized Access,High,Open,Phishing incident detected.,security_team
+2023-05-31,Unauthorized Access,Low,Open,Phishing incident detected.,bob
+2024-01-30,Unauthorized Access,Low,Resolved,DDoS incident detected.,admin
+2023-12-29,Unauthorized Access,Medium,Closed,Ransomware incident detected.,alice
+2023-10-05,Unauthorized Access,High,Closed,Phishing incident detected.,security_team
+2023-05-04,Malware,Low,Resolved,Phishing incident detected.,bob
+2023-08-29,SQL Injection,Medium,Closed,Unauthorized Access incident detected.,alice
+2023-07-22,Unauthorized Access,Medium,Open,Bruteforce Attack incident detected.,alice
+2023-09-25,SQL Injection,Low,Closed,Ransomware incident detected.,security_team
+2023-02-12,Unauthorized Access,High,Investigating,DDoS incident detected.,alice
+2023-11-08,Data Leak,High,Resolved,Malware incident detected.,security_team
+2024-03-27,Ransomware,Low,Investigating,Ransomware incident detected.,system
+2023-05-13,SQL Injection,Medium,Resolved,SQL Injection incident detected.,charlie
+2024-03-11,Unauthorized Access,Critical,Closed,Malware incident detected.,security_team
+2024-01-28,SQL Injection,High,Open,Unauthorized Access incident detected.,security_team
+2023-10-12,Unauthorized Access,Critical,Resolved,Ransomware incident detected.,alice
+2023-07-31,DDoS,Low,Open,Unauthorized Access incident detected.,system
+2024-05-28,DDoS,Medium,Open,Data Leak incident detected.,security_team
+2024-07-14,Malware,Low,Resolved,DDoS incident detected.,admin
+2023-10-14,SQL Injection,Low,Open,Unauthorized Access incident detected.,bob
+2024-04-01,SQL Injection,Low,Investigating,Malware incident detected.,bob
+2024-03-01,Bruteforce Attack,High,Closed,Unauthorized Access incident detected.,security_team
+2024-01-03,DDoS,Medium,Resolved,Ransomware incident detected.,charlie
+2023-07-30,Bruteforce Attack,High,Closed,Malware incident detected.,alice
+2023-10-21,SQL Injection,Low,Resolved,Phishing incident detected.,alice
+2024-10-29,Phishing,Low,Investigating,Data Leak incident detected.,bob
+2024-11-09,Data Leak,Low,Closed,SQL Injection incident detected.,security_team
+2024-11-07,Unauthorized Access,Medium,Closed,Ransomware incident detected.,bob
+2024-09-21,Phishing,Critical,Open,Phishing incident detected.,admin
+2024-03-17,Bruteforce Attack,High,Resolved,Unauthorized Access incident detected.,bob
+2023-08-29,Unauthorized Access,Low,Open,Unauthorized Access incident detected.,bob
+2023-03-25,Bruteforce Attack,Medium,Closed,DDoS incident detected.,security_team
+2024-06-21,Ransomware,Low,Open,Data Leak incident detected.,alice
+2023-09-27,Unauthorized Access,Low,Open,Phishing incident detected.,admin
+2023-10-09,Bruteforce Attack,Medium,Open,Malware incident detected.,security_team
+2023-09-27,Data Leak,Critical,Investigating,DDoS incident detected.,security_team
+2024-10-08,DDoS,Low,Open,Ransomware incident detected.,alice
+2024-01-05,Unauthorized Access,Critical,Investigating,DDoS incident detected.,charlie
+2024-08-06,Phishing,Medium,Open,SQL Injection incident detected.,security_team
+2024-05-29,Malware,Low,Closed,DDoS incident detected.,charlie
+2024-10-11,Bruteforce Attack,Medium,Open,Malware incident detected.,alice
+2023-09-14,Phishing,Medium,Investigating,Malware incident detected.,charlie
+2023-04-10,Data Leak,Low,Closed,Bruteforce Attack incident detected.,alice
+2024-10-13,Malware,Critical,Resolved,SQL Injection incident detected.,charlie
+2023-11-03,Ransomware,Low,Open,DDoS incident detected.,bob
+2023-03-21,Data Leak,Critical,Resolved,Ransomware incident detected.,charlie
+2024-05-08,Data Leak,Medium,Resolved,Phishing incident detected.,security_team
+2024-07-24,Unauthorized Access,High,Investigating,Malware incident detected.,bob
+2024-08-13,Data Leak,Medium,Investigating,SQL Injection incident detected.,admin
+2024-11-16,Malware,Critical,Closed,Phishing incident detected.,bob
+2023-11-25,Ransomware,Medium,Investigating,Bruteforce Attack incident detected.,bob
+2023-07-13,Ransomware,Critical,Open,Unauthorized Access incident detected.,alice
+2023-08-14,SQL Injection,High,Resolved,DDoS incident detected.,system
+2024-11-22,Unauthorized Access,Medium,Closed,Bruteforce Attack incident detected.,security_team
+2024-06-25,Bruteforce Attack,Low,Resolved,Phishing incident detected.,security_team
+2024-09-12,Malware,High,Open,Ransomware incident detected.,admin
+2024-03-09,DDoS,Medium,Resolved,Unauthorized Access incident detected.,bob
+2023-12-28,DDoS,High,Open,Malware incident detected.,admin
+2024-02-29,Phishing,Medium,Resolved,SQL Injection incident detected.,system
+2023-06-29,Unauthorized Access,Medium,Closed,Phishing incident detected.,security_team
+2023-03-18,Bruteforce Attack,High,Closed,Malware incident detected.,bob
+2023-10-08,SQL Injection,Medium,Resolved,Ransomware incident detected.,admin
+2024-03-01,SQL Injection,Critical,Investigating,Bruteforce Attack incident detected.,system
+2023-02-27,Data Leak,High,Closed,Data Leak incident detected.,bob
+2024-06-02,SQL Injection,Low,Open,SQL Injection incident detected.,admin
+2023-10-26,SQL Injection,Critical,Investigating,Malware incident detected.,bob
+2024-02-08,DDoS,Medium,Closed,Ransomware incident detected.,bob
+2024-07-11,DDoS,High,Closed,Malware incident detected.,system
+2024-10-14,Unauthorized Access,Medium,Open,SQL Injection incident detected.,security_team
+2024-07-20,Unauthorized Access,Low,Open,Bruteforce Attack incident detected.,admin
+2023-04-19,DDoS,Medium,Closed,Bruteforce Attack incident detected.,charlie
+2023-11-22,Unauthorized Access,Low,Closed,SQL Injection incident detected.,charlie
+2023-11-25,Bruteforce Attack,Low,Investigating,Phishing incident detected.,alice
+2023-01-26,Ransomware,High,Resolved,Unauthorized Access incident detected.,security_team
+2023-10-03,Data Leak,Low,Closed,SQL Injection incident detected.,charlie
+2023-01-02,Phishing,High,Closed,Unauthorized Access incident detected.,alice
+2023-04-29,Ransomware,Medium,Resolved,DDoS incident detected.,security_team
+2023-12-18,Unauthorized Access,High,Resolved,Ransomware incident detected.,admin
+2024-01-24,Malware,Medium,Investigating,DDoS incident detected.,bob
+2023-12-17,Bruteforce Attack,High,Resolved,Bruteforce Attack incident detected.,system
+2024-10-22,Bruteforce Attack,Medium,Closed,Unauthorized Access incident detected.,bob
+2024-11-24,Malware,Medium,Open,SQL Injection incident detected.,system
+2024-01-13,Malware,High,Closed,Ransomware incident detected.,security_team
+2023-06-12,Bruteforce Attack,Medium,Open,Malware incident detected.,charlie
+2024-08-20,Malware,Critical,Closed,SQL Injection incident detected.,admin
+2024-03-02,Bruteforce Attack,High,Investigating,Malware incident detected.,security_team
+2024-05-01,Malware,Low,Investigating,Phishing incident detected.,system
+2023-07-30,Data Leak,Medium,Investigating,Ransomware incident detected.,charlie
+2024-11-08,Malware,Critical,Open,Ransomware incident detected.,charlie
+2023-11-10,DDoS,High,Resolved,SQL Injection incident detected.,security_team
+2023-04-05,Ransomware,Medium,Resolved,Malware incident detected.,alice
+2024-03-17,DDoS,High,Resolved,Data Leak incident detected.,admin
+2023-04-27,Ransomware,Low,Resolved,Phishing incident detected.,bob
+2023-11-02,Bruteforce Attack,Critical,Closed,Malware incident detected.,bob
+2023-06-11,Ransomware,Critical,Resolved,DDoS incident detected.,alice
+2023-12-03,Phishing,High,Investigating,SQL Injection incident detected.,alice
+2024-08-30,Malware,Medium,Resolved,SQL Injection incident detected.,system
+2023-05-05,Malware,Low,Closed,Unauthorized Access incident detected.,alice
+2024-07-13,DDoS,High,Investigating,Phishing incident detected.,bob
+2024-06-10,SQL Injection,Critical,Investigating,Phishing incident detected.,admin
+2023-08-22,Unauthorized Access,High,Closed,Bruteforce Attack incident detected.,alice
+2023-08-13,Data Leak,Critical,Resolved,Phishing incident detected.,system
+2023-06-09,Malware,Medium,Closed,SQL Injection incident detected.,alice
+2024-11-05,SQL Injection,Critical,Open,Malware incident detected.,charlie
+2023-10-26,SQL Injection,Medium,Closed,Data Leak incident detected.,security_team
+2024-01-02,Ransomware,Critical,Open,Data Leak incident detected.,security_team
+2024-11-05,Unauthorized Access,Low,Closed,Bruteforce Attack incident detected.,admin
+2024-03-10,DDoS,High,Closed,Ransomware incident detected.,admin
+2024-03-19,DDoS,Medium,Closed,Data Leak incident detected.,alice
+2024-04-24,Malware,Medium,Open,Data Leak incident detected.,security_team
+2023-03-23,Malware,Critical,Investigating,SQL Injection incident detected.,admin
+2024-04-04,DDoS,High,Open,Bruteforce Attack incident detected.,alice
+2023-12-31,DDoS,High,Open,Phishing incident detected.,admin
+2023-02-02,Phishing,Medium,Open,Unauthorized Access incident detected.,bob
+2023-05-29,DDoS,Medium,Investigating,Phishing incident detected.,charlie
+2023-07-04,Malware,Low,Resolved,Ransomware incident detected.,charlie
+2024-07-11,Malware,Medium,Resolved,SQL Injection incident detected.,security_team
+2023-11-08,Phishing,Critical,Investigating,Phishing incident detected.,bob
+2023-12-13,SQL Injection,Low,Investigating,Unauthorized Access incident detected.,alice
+2024-07-05,DDoS,Low,Closed,DDoS incident detected.,charlie
+2023-08-14,Bruteforce Attack,Critical,Open,Unauthorized Access incident detected.,charlie
+2023-04-07,Phishing,Low,Resolved,DDoS incident detected.,alice
+2023-03-04,Unauthorized Access,Low,Open,Unauthorized Access incident detected.,alice
+2023-12-04,Ransomware,Critical,Resolved,Phishing incident detected.,alice
+2023-12-21,Ransomware,Medium,Resolved,Unauthorized Access incident detected.,security_team
+2024-08-24,DDoS,High,Resolved,SQL Injection incident detected.,security_team
+2023-05-13,SQL Injection,Low,Closed,Unauthorized Access incident detected.,system
+2024-05-06,Phishing,Critical,Resolved,DDoS incident detected.,security_team
+2023-09-08,Phishing,Critical,Closed,Unauthorized Access incident detected.,alice
+2024-01-16,Malware,Critical,Closed,Malware incident detected.,alice
+2023-03-26,Data Leak,Critical,Investigating,Bruteforce Attack incident detected.,charlie
+2024-03-25,DDoS,High,Closed,DDoS incident detected.,security_team
+2023-06-30,Unauthorized Access,Critical,Resolved,Malware incident detected.,charlie
+2023-01-11,Ransomware,Low,Resolved,SQL Injection incident detected.,admin
+2024-02-18,DDoS,Low,Investigating,Malware incident detected.,security_team
+2024-06-24,Data Leak,Low,Closed,Data Leak incident detected.,alice
+2024-11-24,SQL Injection,Low,Open,SQL Injection incident detected.,admin
+2024-01-07,Data Leak,Medium,Closed,Bruteforce Attack incident detected.,alice
+2023-01-09,Bruteforce Attack,Medium,Closed,Bruteforce Attack incident detected.,alice
+2024-01-19,Unauthorized Access,Low,Resolved,Bruteforce Attack incident detected.,admin
+2023-02-03,Phishing,High,Open,DDoS incident detected.,system
+2023-10-05,Bruteforce Attack,Medium,Closed,Unauthorized Access incident detected.,alice
+2024-08-27,DDoS,Medium,Investigating,Malware incident detected.,system
+2023-12-27,Phishing,High,Open,Unauthorized Access incident detected.,system
+2024-10-14,SQL Injection,Low,Open,DDoS incident detected.,security_team
+2023-06-15,Phishing,Low,Closed,Unauthorized Access incident detected.,bob
+2024-08-02,SQL Injection,Low,Investigating,Unauthorized Access incident detected.,bob
+2024-03-10,Data Leak,Critical,Investigating,Bruteforce Attack incident detected.,alice
+2023-03-31,SQL Injection,Low,Resolved,Phishing incident detected.,system
+2024-07-30,Bruteforce Attack,Low,Closed,Ransomware incident detected.,charlie
+2024-11-01,SQL Injection,Medium,Closed,SQL Injection incident detected.,alice
+2023-11-05,DDoS,Medium,Resolved,Data Leak incident detected.,admin
+2023-01-15,Ransomware,Low,Closed,Unauthorized Access incident detected.,admin
+2023-09-09,DDoS,Medium,Open,SQL Injection incident detected.,alice
+2023-12-31,Unauthorized Access,Critical,Closed,Unauthorized Access incident detected.,security_team
+2023-12-26,Phishing,Low,Open,DDoS incident detected.,charlie
+2024-04-21,Unauthorized Access,Medium,Resolved,Malware incident detected.,bob
+2023-08-05,Phishing,High,Resolved,Data Leak incident detected.,bob
+2023-01-01,SQL Injection,Medium,Investigating,DDoS incident detected.,security_team
+2024-11-26,Bruteforce Attack,High,Investigating,Bruteforce Attack incident detected.,admin
+2023-04-24,Malware,Critical,Resolved,Unauthorized Access incident detected.,admin
+2023-05-23,Malware,Critical,Closed,DDoS incident detected.,alice
+2024-10-15,DDoS,Low,Open,DDoS incident detected.,security_team
+2024-06-12,Data Leak,Medium,Investigating,Bruteforce Attack incident detected.,alice
+2024-04-13,Unauthorized Access,High,Resolved,Bruteforce Attack incident detected.,alice
+2024-12-01,Data Leak,High,Investigating,Unauthorized Access incident detected.,system
+2023-07-31,Bruteforce Attack,Medium,Investigating,Malware incident detected.,system
+2024-01-27,Data Leak,Low,Closed,Ransomware incident detected.,admin
+2023-11-29,Ransomware,Medium,Resolved,Phishing incident detected.,system
+2024-02-18,DDoS,High,Closed,Ransomware incident detected.,admin
+2023-12-08,SQL Injection,High,Resolved,DDoS incident detected.,alice
+2023-11-20,Bruteforce Attack,Medium,Investigating,DDoS incident detected.,system
+2024-05-31,SQL Injection,Medium,Resolved,Ransomware incident detected.,security_team
+2023-07-13,Ransomware,Medium,Open,SQL Injection incident detected.,alice
+2024-04-07,DDoS,Critical,Closed,SQL Injection incident detected.,bob
+2024-05-07,DDoS,Low,Open,SQL Injection incident detected.,bob
+2024-07-04,Phishing,Medium,Closed,Bruteforce Attack incident detected.,system
+2024-06-10,Data Leak,Critical,Closed,Unauthorized Access incident detected.,alice
+2023-01-28,Ransomware,Medium,Investigating,SQL Injection incident detected.,system
+2024-09-20,Data Leak,High,Investigating,Phishing incident detected.,alice
+2024-04-13,Unauthorized Access,Medium,Resolved,Malware incident detected.,alice
+2023-02-13,Unauthorized Access,Low,Resolved,Bruteforce Attack incident detected.,charlie
+2023-10-17,Data Leak,Low,Investigating,Phishing incident detected.,security_team
+2023-01-01,Phishing,Low,Open,Data Leak incident detected.,admin
+2024-03-06,Unauthorized Access,Critical,Closed,Bruteforce Attack incident detected.,admin
+2023-03-05,Data Leak,Low,Closed,Ransomware incident detected.,admin
+2024-07-18,DDoS,Medium,Closed,Malware incident detected.,alice
+2023-03-27,Unauthorized Access,Low,Open,DDoS incident detected.,admin
+2023-09-09,Unauthorized Access,High,Investigating,Bruteforce Attack incident detected.,admin
+2023-09-10,DDoS,Medium,Resolved,SQL Injection incident detected.,admin
+2023-08-26,Phishing,High,Closed,SQL Injection incident detected.,admin
+2024-10-25,Phishing,High,Closed,Unauthorized Access incident detected.,alice
+2024-06-21,Bruteforce Attack,Critical,Investigating,Unauthorized Access incident detected.,charlie
+2024-07-09,Phishing,Low,Closed,Ransomware incident detected.,system
+2023-12-11,SQL Injection,Critical,Investigating,Malware incident detected.,alice
+2024-05-15,Malware,Critical,Closed,SQL Injection incident detected.,bob
+2023-03-01,DDoS,Medium,Closed,Phishing incident detected.,admin
+2023-04-29,Malware,High,Resolved,Bruteforce Attack incident detected.,bob
+2023-08-03,Bruteforce Attack,Medium,Closed,Malware incident detected.,admin
+2024-08-06,Ransomware,High,Closed,SQL Injection incident detected.,charlie
+2024-01-08,SQL Injection,Medium,Resolved,Bruteforce Attack incident detected.,charlie
+2023-08-30,Unauthorized Access,Critical,Investigating,SQL Injection incident detected.,bob
+2024-05-24,Bruteforce Attack,Critical,Resolved,Malware incident detected.,system
+2023-06-17,Phishing,Medium,Closed,Malware incident detected.,bob
+2024-02-10,Bruteforce Attack,Medium,Resolved,Malware incident detected.,system
+2023-12-30,SQL Injection,Medium,Investigating,Bruteforce Attack incident detected.,admin
+2024-04-29,DDoS,Medium,Resolved,Bruteforce Attack incident detected.,charlie
+2023-05-20,Data Leak,Critical,Open,DDoS incident detected.,alice
+2023-08-15,Phishing,Low,Closed,Unauthorized Access incident detected.,bob
+2023-04-28,Phishing,Low,Closed,Malware incident detected.,security_team
+2023-09-20,Data Leak,High,Investigating,DDoS incident detected.,bob
+2024-11-29,Bruteforce Attack,Critical,Closed,Data Leak incident detected.,alice
+2024-04-20,Ransomware,High,Investigating,Ransomware incident detected.,charlie
+2023-07-16,Unauthorized Access,Medium,Closed,Unauthorized Access incident detected.,system
+2024-07-17,Ransomware,Critical,Investigating,SQL Injection incident detected.,system
+2023-02-25,Data Leak,High,Investigating,Phishing incident detected.,alice
+2023-05-10,Malware,Critical,Closed,Data Leak incident detected.,charlie
+2024-10-04,DDoS,Medium,Open,DDoS incident detected.,security_team
+2024-04-10,SQL Injection,High,Investigating,Ransomware incident detected.,admin
+2023-12-26,Ransomware,High,Resolved,Data Leak incident detected.,bob
+2024-07-26,Bruteforce Attack,Critical,Resolved,Phishing incident detected.,alice
+2023-04-25,Ransomware,High,Resolved,Data Leak incident detected.,system
+2024-07-31,Data Leak,Medium,Investigating,Data Leak incident detected.,charlie
+2023-03-03,Data Leak,Medium,Resolved,Bruteforce Attack incident detected.,alice
+2024-11-04,Unauthorized Access,Critical,Open,Bruteforce Attack incident detected.,bob
+2024-06-25,SQL Injection,Low,Closed,Ransomware incident detected.,security_team
+2023-07-23,SQL Injection,Low,Closed,Ransomware incident detected.,charlie
+2024-04-10,Ransomware,Critical,Resolved,DDoS incident detected.,admin
+2023-03-05,Phishing,High,Closed,Ransomware incident detected.,security_team
+2024-03-21,Ransomware,High,Resolved,Phishing incident detected.,charlie
+2024-10-27,Malware,Low,Investigating,Bruteforce Attack incident detected.,system
+2023-06-26,DDoS,Critical,Investigating,SQL Injection incident detected.,alice
+2023-10-09,Unauthorized Access,Medium,Investigating,Malware incident detected.,admin
+2023-03-04,SQL Injection,Low,Open,Data Leak incident detected.,alice
+2024-04-27,SQL Injection,High,Resolved,Phishing incident detected.,system
+2024-09-05,SQL Injection,Low,Investigating,Unauthorized Access incident detected.,security_team
+2023-05-21,Bruteforce Attack,Low,Investigating,Bruteforce Attack incident detected.,alice
+2023-04-06,Bruteforce Attack,Critical,Closed,SQL Injection incident detected.,system
+2023-02-07,Data Leak,Low,Investigating,Bruteforce Attack incident detected.,admin
+2024-10-17,Phishing,High,Closed,Bruteforce Attack incident detected.,alice
+2024-05-16,SQL Injection,High,Investigating,DDoS incident detected.,charlie
+2023-10-25,Data Leak,Low,Closed,Bruteforce Attack incident detected.,admin
+2023-04-22,SQL Injection,Critical,Closed,Unauthorized Access incident detected.,charlie
+2023-04-12,DDoS,High,Closed,Phishing incident detected.,bob
+2023-02-19,DDoS,High,Open,Data Leak incident detected.,alice
+2023-02-13,Data Leak,Critical,Closed,Unauthorized Access incident detected.,bob
+2023-03-14,Unauthorized Access,Medium,Resolved,Ransomware incident detected.,security_team
+2023-04-25,Data Leak,Medium,Investigating,Malware incident detected.,charlie
+2024-03-09,Data Leak,Critical,Investigating,Data Leak incident detected.,alice
+2023-11-01,Ransomware,Medium,Investigating,SQL Injection incident detected.,bob
+2023-08-10,Ransomware,Critical,Investigating,Ransomware incident detected.,bob
+2024-06-09,SQL Injection,Low,Open,Unauthorized Access incident detected.,bob
+2023-10-03,Data Leak,Critical,Resolved,Malware incident detected.,security_team
+2024-10-31,Malware,Medium,Investigating,DDoS incident detected.,admin
+2023-03-19,Ransomware,High,Open,Data Leak incident detected.,alice
+2024-08-27,Bruteforce Attack,Low,Resolved,Phishing incident detected.,system
+2023-10-06,SQL Injection,Critical,Resolved,Data Leak incident detected.,admin
+2024-04-18,Phishing,Critical,Closed,DDoS incident detected.,security_team
+2023-01-18,DDoS,Medium,Closed,DDoS incident detected.,charlie
+2024-10-26,Bruteforce Attack,Medium,Open,Malware incident detected.,security_team
+2024-09-02,Bruteforce Attack,Medium,Investigating,DDoS incident detected.,security_team
+2024-06-08,Data Leak,Low,Open,Data Leak incident detected.,charlie
+2023-03-13,DDoS,High,Resolved,DDoS incident detected.,admin
+2023-07-28,SQL Injection,Medium,Investigating,SQL Injection incident detected.,admin
+2024-05-04,DDoS,Low,Open,Malware incident detected.,alice
+2024-10-20,Ransomware,Medium,Closed,Bruteforce Attack incident detected.,bob
+2023-03-20,Data Leak,Medium,Investigating,Unauthorized Access incident detected.,security_team
+2023-06-12,Unauthorized Access,Critical,Closed,DDoS incident detected.,system
+2023-05-15,Bruteforce Attack,High,Investigating,Unauthorized Access incident detected.,alice
+2024-03-11,DDoS,Medium,Open,Unauthorized Access incident detected.,security_team
+2024-03-23,DDoS,High,Investigating,Bruteforce Attack incident detected.,system
+2024-06-27,Ransomware,High,Investigating,Malware incident detected.,alice
+2024-05-17,DDoS,Low,Open,Phishing incident detected.,system
+2024-03-22,SQL Injection,High,Closed,SQL Injection incident detected.,bob
+2024-04-30,DDoS,Critical,Open,Malware incident detected.,system
+2024-03-04,Phishing,Critical,Closed,Unauthorized Access incident detected.,bob
+2024-06-26,Bruteforce Attack,Critical,Investigating,Data Leak incident detected.,security_team
+2023-01-12,Ransomware,Low,Investigating,Ransomware incident detected.,security_team
+2024-02-08,Unauthorized Access,Medium,Open,Unauthorized Access incident detected.,system
+2024-11-17,Bruteforce Attack,Medium,Resolved,Phishing incident detected.,security_team
+2024-10-24,Phishing,High,Closed,Unauthorized Access incident detected.,charlie
+2024-11-15,Data Leak,High,Closed,Phishing incident detected.,alice
+2024-08-27,Phishing,High,Resolved,Data Leak incident detected.,alice
+2024-08-20,Malware,High,Closed,Bruteforce Attack incident detected.,admin
+2024-11-07,Unauthorized Access,High,Investigating,Ransomware incident detected.,admin
+2024-02-03,Unauthorized Access,Critical,Closed,SQL Injection incident detected.,admin
+2023-08-30,DDoS,Critical,Resolved,Unauthorized Access incident detected.,admin
+2024-06-08,Phishing,Low,Open,Ransomware incident detected.,alice
+2023-12-19,Malware,Low,Open,DDoS incident detected.,security_team
+2023-05-20,Bruteforce Attack,Low,Closed,Ransomware incident detected.,system
+2023-05-01,Malware,Low,Closed,Phishing incident detected.,charlie
+2024-01-29,Unauthorized Access,Low,Investigating,Unauthorized Access incident detected.,admin
+2024-09-21,Malware,Medium,Investigating,Malware incident detected.,charlie
+2023-07-29,Unauthorized Access,Medium,Investigating,Data Leak incident detected.,system
+2024-03-15,Unauthorized Access,High,Open,Phishing incident detected.,bob
+2023-12-25,Unauthorized Access,High,Open,Malware incident detected.,alice
+2023-04-19,SQL Injection,Low,Closed,Phishing incident detected.,bob
+2024-01-23,Bruteforce Attack,Low,Open,Phishing incident detected.,charlie
+2024-04-07,Bruteforce Attack,High,Investigating,SQL Injection incident detected.,charlie
+2024-06-28,SQL Injection,Critical,Open,Unauthorized Access incident detected.,security_team
+2024-09-15,Unauthorized Access,Low,Closed,DDoS incident detected.,bob
+2024-03-22,DDoS,Critical,Closed,DDoS incident detected.,bob
+2023-11-18,Unauthorized Access,Low,Investigating,Phishing incident detected.,admin
+2023-08-31,Ransomware,Critical,Investigating,Phishing incident detected.,alice
+2023-12-30,Data Leak,Critical,Resolved,Ransomware incident detected.,admin
+2023-08-28,Ransomware,Medium,Open,Unauthorized Access incident detected.,charlie
+2023-05-26,Ransomware,Critical,Resolved,Unauthorized Access incident detected.,charlie
+2024-10-31,Ransomware,Critical,Investigating,Malware incident detected.,charlie
+2024-07-28,Unauthorized Access,High,Investigating,Phishing incident detected.,system
+2024-04-16,Malware,High,Resolved,Data Leak incident detected.,alice
+2024-08-08,DDoS,Critical,Open,DDoS incident detected.,admin
+2023-06-06,Data Leak,High,Resolved,Phishing incident detected.,system
+2024-04-02,Malware,Critical,Investigating,Phishing incident detected.,security_team
+2023-07-30,Phishing,Medium,Closed,Bruteforce Attack incident detected.,alice
+2024-05-16,Bruteforce Attack,High,Closed,Phishing incident detected.,alice
+2023-09-01,Bruteforce Attack,Critical,Resolved,Malware incident detected.,bob
+2024-09-19,Malware,High,Resolved,SQL Injection incident detected.,alice
+2023-06-25,SQL Injection,High,Closed,SQL Injection incident detected.,alice
+2023-10-28,Bruteforce Attack,Critical,Open,SQL Injection incident detected.,bob
+2024-11-06,Ransomware,Critical,Closed,SQL Injection incident detected.,bob
+2023-03-10,Unauthorized Access,Medium,Investigating,Phishing incident detected.,alice
+2024-09-24,Phishing,Critical,Resolved,Data Leak incident detected.,bob
+2023-06-02,SQL Injection,Medium,Investigating,Bruteforce Attack incident detected.,charlie
+2024-06-06,Malware,High,Investigating,DDoS incident detected.,system
+2023-01-10,Bruteforce Attack,Critical,Resolved,Bruteforce Attack incident detected.,charlie
+2024-08-10,DDoS,Critical,Closed,SQL Injection incident detected.,alice
+2024-06-18,DDoS,High,Investigating,Bruteforce Attack incident detected.,bob
+2024-01-17,Unauthorized Access,Low,Investigating,DDoS incident detected.,charlie
+2023-03-31,Data Leak,Low,Resolved,Phishing incident detected.,charlie
+2024-10-06,Phishing,Low,Closed,Malware incident detected.,security_team
+2023-08-25,Unauthorized Access,Low,Investigating,Bruteforce Attack incident detected.,alice
+2024-01-04,Ransomware,Critical,Investigating,Bruteforce Attack incident detected.,system
+2023-07-31,Phishing,High,Investigating,SQL Injection incident detected.,alice
+2023-11-30,Phishing,Medium,Open,Unauthorized Access incident detected.,alice
+2024-01-27,Malware,Medium,Open,Ransomware incident detected.,charlie
+2023-12-28,SQL Injection,Medium,Investigating,Unauthorized Access incident detected.,security_team
+2024-07-21,Bruteforce Attack,High,Closed,Malware incident detected.,charlie
+2024-06-04,Unauthorized Access,Critical,Investigating,Bruteforce Attack incident detected.,system
+2023-05-30,Malware,High,Investigating,Ransomware incident detected.,bob
+2024-08-12,DDoS,Medium,Investigating,Bruteforce Attack incident detected.,charlie
+2023-06-17,Malware,Low,Closed,Ransomware incident detected.,alice
+2024-11-11,Phishing,High,Investigating,Malware incident detected.,security_team
+2023-10-03,Data Leak,Low,Investigating,DDoS incident detected.,bob
+2023-01-18,Ransomware,High,Open,Ransomware incident detected.,charlie
+2023-05-11,Ransomware,Medium,Resolved,Ransomware incident detected.,admin
+2023-12-31,Data Leak,Critical,Closed,SQL Injection incident detected.,admin
+2023-07-21,Ransomware,Critical,Closed,Bruteforce Attack incident detected.,charlie
+2023-07-30,Bruteforce Attack,Low,Resolved,Malware incident detected.,security_team
+2024-01-29,Phishing,High,Closed,Ransomware incident detected.,charlie
+2023-06-03,Malware,Critical,Open,Unauthorized Access incident detected.,admin
+2023-04-28,Data Leak,Medium,Closed,Unauthorized Access incident detected.,security_team
+2023-02-04,SQL Injection,Medium,Resolved,Ransomware incident detected.,alice
+2024-01-20,Malware,Medium,Open,Unauthorized Access incident detected.,system
+2024-03-11,Unauthorized Access,Critical,Closed,Data Leak incident detected.,admin
+2024-04-28,Unauthorized Access,High,Open,Malware incident detected.,alice
+2023-03-07,Phishing,Low,Closed,Phishing incident detected.,charlie
+2023-11-22,Malware,Low,Closed,Data Leak incident detected.,system
+2023-04-25,Unauthorized Access,Critical,Open,Data Leak incident detected.,security_team
+2023-06-30,Bruteforce Attack,Medium,Investigating,Ransomware incident detected.,security_team
+2023-04-23,Unauthorized Access,Medium,Resolved,DDoS incident detected.,alice
+2024-10-12,Data Leak,Medium,Resolved,Data Leak incident detected.,charlie
+2024-05-20,Malware,Medium,Open,Malware incident detected.,admin
+2023-08-16,SQL Injection,Low,Open,Data Leak incident detected.,security_team
+2024-04-10,Bruteforce Attack,Critical,Open,DDoS incident detected.,bob
+2023-02-07,Data Leak,Low,Resolved,DDoS incident detected.,system
+2024-06-04,Phishing,High,Closed,Malware incident detected.,admin
+2023-02-08,Unauthorized Access,Low,Open,Malware incident detected.,admin
+2023-01-05,Bruteforce Attack,Low,Resolved,Data Leak incident detected.,alice
+2024-04-25,Ransomware,Low,Open,DDoS incident detected.,security_team
+2024-08-19,Ransomware,Low,Resolved,SQL Injection incident detected.,system
+2024-08-31,Malware,Medium,Resolved,Data Leak incident detected.,security_team
+2023-03-11,Phishing,Medium,Resolved,DDoS incident detected.,system
+2024-03-03,Bruteforce Attack,Low,Resolved,Unauthorized Access incident detected.,admin
+2024-01-22,Phishing,Low,Resolved,DDoS incident detected.,system
+2024-04-27,Unauthorized Access,Medium,Investigating,Ransomware incident detected.,bob
+2023-12-28,Malware,High,Resolved,Malware incident detected.,admin
+2024-06-13,Bruteforce Attack,Low,Investigating,Bruteforce Attack incident detected.,charlie
+2023-11-18,Malware,High,Open,Ransomware incident detected.,bob
+2024-03-29,Data Leak,Critical,Resolved,Unauthorized Access incident detected.,bob
+2024-04-26,Malware,Critical,Open,DDoS incident detected.,alice
+2024-11-20,Data Leak,Medium,Resolved,Unauthorized Access incident detected.,admin
+2024-10-14,Bruteforce Attack,Low,Resolved,SQL Injection incident detected.,alice
+2023-08-29,Unauthorized Access,High,Closed,SQL Injection incident detected.,bob
+2024-09-05,Phishing,High,Resolved,DDoS incident detected.,bob
+2023-07-11,DDoS,Low,Resolved,Malware incident detected.,system
+2024-05-07,DDoS,Medium,Open,Phishing incident detected.,system
+2024-10-27,Ransomware,Medium,Open,Malware incident detected.,alice
+2024-02-23,Bruteforce Attack,Critical,Closed,Phishing incident detected.,bob
+2023-10-24,Malware,Medium,Open,Malware incident detected.,security_team
+2023-07-09,Malware,Medium,Closed,Data Leak incident detected.,bob
+2023-01-10,Ransomware,Medium,Open,Ransomware incident detected.,bob
+2024-01-07,Bruteforce Attack,Critical,Investigating,Unauthorized Access incident detected.,system
+2023-10-09,Unauthorized Access,Medium,Open,Ransomware incident detected.,charlie
+2024-08-10,SQL Injection,Medium,Investigating,Malware incident detected.,admin
+2024-03-31,Malware,Medium,Investigating,Ransomware incident detected.,bob
+2024-01-01,Ransomware,High,Open,Bruteforce Attack incident detected.,bob
+2024-09-07,Bruteforce Attack,Critical,Closed,SQL Injection incident detected.,admin
+2024-05-13,Ransomware,Medium,Investigating,Ransomware incident detected.,security_team
+2023-12-04,Ransomware,Critical,Resolved,Malware incident detected.,alice
+2023-03-31,Malware,Low,Closed,Ransomware incident detected.,charlie
+2024-03-01,SQL Injection,Medium,Open,DDoS incident detected.,bob
+2023-03-16,SQL Injection,High,Closed,DDoS incident detected.,charlie
+2024-07-07,DDoS,Medium,Investigating,Bruteforce Attack incident detected.,charlie
+2024-05-30,SQL Injection,High,Open,DDoS incident detected.,charlie
+2024-02-27,Ransomware,High,Resolved,Ransomware incident detected.,system
+2023-01-23,Data Leak,High,Closed,Unauthorized Access incident detected.,system
+2024-03-02,Malware,Medium,Closed,Phishing incident detected.,alice
+2023-12-12,Unauthorized Access,High,Open,Malware incident detected.,alice
+2024-06-26,Malware,Low,Investigating,Unauthorized Access incident detected.,security_team
+2024-06-18,Bruteforce Attack,Low,Closed,Data Leak incident detected.,bob
+2023-03-18,Phishing,Low,Closed,Phishing incident detected.,alice
+2024-02-29,Unauthorized Access,Medium,Closed,Data Leak incident detected.,admin
+2023-12-11,Bruteforce Attack,Medium,Open,SQL Injection incident detected.,admin
+2023-11-12,Ransomware,Medium,Resolved,Unauthorized Access incident detected.,admin
+2023-08-09,Ransomware,Critical,Closed,DDoS incident detected.,charlie
+2024-10-10,Unauthorized Access,Critical,Closed,DDoS incident detected.,system
+2024-06-12,Phishing,Critical,Closed,Malware incident detected.,charlie
+2023-07-25,Bruteforce Attack,High,Investigating,Bruteforce Attack incident detected.,security_team
+2024-10-09,Data Leak,Low,Investigating,DDoS incident detected.,charlie
+2024-09-24,SQL Injection,Critical,Open,Unauthorized Access incident detected.,bob
+2023-07-26,SQL Injection,Medium,Open,Malware incident detected.,bob
+2023-02-07,Ransomware,High,Open,Bruteforce Attack incident detected.,system
+2023-07-19,Unauthorized Access,Critical,Investigating,Unauthorized Access incident detected.,admin
+2023-06-05,Ransomware,Medium,Resolved,Unauthorized Access incident detected.,charlie
+2023-09-12,DDoS,Low,Open,Malware incident detected.,charlie
+2024-08-30,SQL Injection,Critical,Investigating,Bruteforce Attack incident detected.,charlie
+2024-11-16,Ransomware,Low,Resolved,Malware incident detected.,bob
+2024-03-26,Ransomware,High,Closed,Ransomware incident detected.,alice
+2023-09-17,Phishing,High,Resolved,Ransomware incident detected.,charlie
+2023-04-06,DDoS,Critical,Investigating,Malware incident detected.,alice
+2023-10-29,Data Leak,High,Open,Ransomware incident detected.,security_team
+2024-01-13,Data Leak,Low,Investigating,SQL Injection incident detected.,charlie
+2023-10-14,Phishing,High,Open,Unauthorized Access incident detected.,system
+2024-08-30,Data Leak,Critical,Investigating,Data Leak incident detected.,security_team
+2023-09-22,Phishing,Critical,Investigating,Phishing incident detected.,charlie
+2024-02-02,Data Leak,Low,Closed,Bruteforce Attack incident detected.,bob
+2023-01-27,Data Leak,Medium,Open,Data Leak incident detected.,alice
+2024-07-31,Data Leak,Medium,Resolved,Malware incident detected.,bob
+2023-08-01,SQL Injection,Medium,Investigating,Bruteforce Attack incident detected.,alice
+2024-05-18,Bruteforce Attack,Low,Open,Data Leak incident detected.,admin
+2024-03-05,Bruteforce Attack,Critical,Investigating,Malware incident detected.,admin
+2023-01-15,SQL Injection,Critical,Open,Phishing incident detected.,admin
+2024-01-24,Bruteforce Attack,High,Closed,SQL Injection incident detected.,admin
+2024-06-20,DDoS,Critical,Resolved,DDoS incident detected.,alice
+2024-01-13,Ransomware,Medium,Investigating,Bruteforce Attack incident detected.,bob
+2024-10-18,Data Leak,Medium,Resolved,Ransomware incident detected.,system
+2024-02-04,Ransomware,High,Investigating,Data Leak incident detected.,system
+2024-08-11,Unauthorized Access,Medium,Investigating,Ransomware incident detected.,bob
+2024-06-07,SQL Injection,Medium,Closed,DDoS incident detected.,charlie
+2023-04-17,SQL Injection,Medium,Closed,Phishing incident detected.,security_team
+2023-09-06,Malware,Low,Open,Unauthorized Access incident detected.,bob
+2024-03-24,Phishing,Low,Investigating,SQL Injection incident detected.,security_team
+2023-11-06,SQL Injection,Critical,Open,Ransomware incident detected.,charlie
+2023-05-29,DDoS,Critical,Open,Ransomware incident detected.,bob
+2024-06-25,DDoS,High,Investigating,Phishing incident detected.,admin
+2024-02-26,SQL Injection,Medium,Resolved,Unauthorized Access incident detected.,security_team
+2024-10-14,DDoS,Medium,Open,Phishing incident detected.,alice
+2023-12-22,Data Leak,Medium,Investigating,SQL Injection incident detected.,charlie
+2024-02-07,Data Leak,High,Open,SQL Injection incident detected.,charlie
+2023-03-25,Phishing,High,Open,Bruteforce Attack incident detected.,charlie
+2023-11-03,Unauthorized Access,Medium,Resolved,Malware incident detected.,security_team
+2024-02-06,DDoS,High,Investigating,Phishing incident detected.,charlie
+2024-10-22,Malware,Critical,Resolved,DDoS incident detected.,charlie
+2023-02-08,DDoS,Medium,Resolved,Unauthorized Access incident detected.,admin
+2023-05-08,DDoS,High,Resolved,Malware incident detected.,security_team
+2024-05-23,Data Leak,Low,Closed,Ransomware incident detected.,security_team
+2023-10-02,Unauthorized Access,Medium,Open,Unauthorized Access incident detected.,admin
+2023-05-05,Malware,High,Investigating,Malware incident detected.,admin
+2024-07-04,Unauthorized Access,Low,Closed,Ransomware incident detected.,security_team
+2023-02-17,Unauthorized Access,Medium,Open,SQL Injection incident detected.,admin
+2023-10-28,Data Leak,Low,Closed,Ransomware incident detected.,alice
+2024-08-03,Malware,High,Closed,Malware incident detected.,alice
+2023-06-14,Phishing,Low,Open,Data Leak incident detected.,admin
+2024-09-21,Unauthorized Access,High,Open,Malware incident detected.,admin
+2024-04-15,Malware,Critical,Closed,Unauthorized Access incident detected.,security_team
+2024-08-30,Unauthorized Access,High,Investigating,Data Leak incident detected.,charlie
+2023-10-16,Data Leak,High,Investigating,Phishing incident detected.,security_team
+2023-09-09,Data Leak,Critical,Investigating,Phishing incident detected.,alice
+2023-04-17,Phishing,Critical,Resolved,Unauthorized Access incident detected.,security_team
+2024-05-20,Unauthorized Access,Critical,Closed,Phishing incident detected.,alice
+2024-04-30,SQL Injection,High,Closed,Malware incident detected.,charlie
+2024-01-30,Unauthorized Access,High,Investigating,Phishing incident detected.,security_team
+2023-01-17,DDoS,High,Closed,Data Leak incident detected.,system
+2023-06-15,DDoS,High,Resolved,SQL Injection incident detected.,alice
+2024-08-31,Data Leak,Low,Closed,Phishing incident detected.,system
+2024-11-27,Phishing,Critical,Investigating,DDoS incident detected.,charlie
+2024-05-04,Bruteforce Attack,High,Resolved,Ransomware incident detected.,admin
+2024-07-30,SQL Injection,Critical,Open,Phishing incident detected.,system
+2023-04-02,Data Leak,Critical,Resolved,DDoS incident detected.,security_team
+2024-05-05,DDoS,Medium,Open,Malware incident detected.,system
+2024-11-05,Ransomware,Critical,Investigating,Ransomware incident detected.,charlie
+2023-03-05,Malware,Critical,Open,DDoS incident detected.,alice
+2023-04-26,SQL Injection,Medium,Investigating,Malware incident detected.,bob
+2024-03-22,Data Leak,Critical,Open,Data Leak incident detected.,security_team
+2024-05-08,Data Leak,Low,Closed,Data Leak incident detected.,admin
+2023-08-27,Bruteforce Attack,Low,Open,DDoS incident detected.,bob
+2023-02-14,Phishing,Critical,Resolved,Ransomware incident detected.,alice
+2023-12-27,DDoS,Medium,Open,Malware incident detected.,security_team
+2023-03-08,SQL Injection,Medium,Resolved,Ransomware incident detected.,charlie
+2024-02-20,Data Leak,Critical,Closed,Phishing incident detected.,alice
+2024-01-19,Malware,Low,Resolved,Bruteforce Attack incident detected.,system
+2024-06-06,Bruteforce Attack,High,Investigating,Data Leak incident detected.,bob
+2023-08-16,Malware,High,Investigating,Ransomware incident detected.,system
+2023-05-16,Unauthorized Access,High,Open,Data Leak incident detected.,bob
+2024-09-28,Bruteforce Attack,Medium,Closed,Phishing incident detected.,charlie
+2024-03-04,Malware,Critical,Investigating,Bruteforce Attack incident detected.,system
+2023-03-04,Ransomware,High,Investigating,SQL Injection incident detected.,security_team
+2024-11-12,Bruteforce Attack,High,Resolved,SQL Injection incident detected.,admin
+2024-04-07,Bruteforce Attack,High,Open,SQL Injection incident detected.,charlie
+2024-10-18,Malware,Low,Investigating,Bruteforce Attack incident detected.,security_team
+2024-06-06,SQL Injection,Medium,Resolved,Ransomware incident detected.,bob
+2024-02-06,Malware,Critical,Investigating,SQL Injection incident detected.,alice
+2024-09-29,DDoS,High,Investigating,Data Leak incident detected.,alice
+2023-06-05,Phishing,Medium,Resolved,DDoS incident detected.,alice
+2024-05-02,Data Leak,Low,Resolved,Bruteforce Attack incident detected.,alice
+2023-09-08,Phishing,Critical,Closed,SQL Injection incident detected.,system
+2024-11-18,Malware,High,Investigating,SQL Injection incident detected.,alice
+2024-06-17,Unauthorized Access,High,Closed,DDoS incident detected.,alice
+2023-11-15,DDoS,Critical,Resolved,SQL Injection incident detected.,security_team
+2023-07-09,Unauthorized Access,Low,Investigating,Ransomware incident detected.,bob
+2024-10-14,DDoS,Low,Resolved,Phishing incident detected.,admin
+2023-01-14,SQL Injection,Low,Resolved,Phishing incident detected.,bob
+2024-03-20,Malware,High,Resolved,Unauthorized Access incident detected.,system
+2024-01-25,Unauthorized Access,Medium,Resolved,Bruteforce Attack incident detected.,system
+2024-04-06,SQL Injection,Critical,Investigating,Malware incident detected.,charlie
+2024-04-21,DDoS,Low,Closed,DDoS incident detected.,bob
+2024-01-12,SQL Injection,High,Resolved,Malware incident detected.,system
+2024-07-31,Phishing,High,Closed,Data Leak incident detected.,alice
+2023-05-25,Phishing,High,Closed,SQL Injection incident detected.,system
+2024-04-19,Unauthorized Access,High,Investigating,DDoS incident detected.,alice
+2024-04-18,Bruteforce Attack,Medium,Open,Data Leak incident detected.,alice
+2023-05-15,Malware,Low,Resolved,Unauthorized Access incident detected.,security_team
+2023-09-22,Bruteforce Attack,High,Closed,Unauthorized Access incident detected.,security_team
+2023-10-22,Bruteforce Attack,High,Investigating,DDoS incident detected.,system
+2023-10-20,Phishing,High,Closed,Malware incident detected.,bob
+2024-10-22,Malware,Medium,Open,SQL Injection incident detected.,alice
+2024-05-08,Data Leak,Medium,Open,DDoS incident detected.,charlie
+2023-04-18,Bruteforce Attack,Critical,Investigating,Phishing incident detected.,system
+2023-07-16,Data Leak,Medium,Closed,Data Leak incident detected.,charlie
+2023-06-15,Phishing,Medium,Investigating,Data Leak incident detected.,admin
+2023-02-28,Data Leak,High,Investigating,Unauthorized Access incident detected.,admin
+2024-11-20,Phishing,Medium,Open,Ransomware incident detected.,admin
+2023-07-03,Phishing,Medium,Investigating,DDoS incident detected.,security_team
+2024-01-28,Malware,Critical,Open,DDoS incident detected.,bob
+2023-10-10,Ransomware,High,Resolved,Unauthorized Access incident detected.,system
+2024-02-13,Unauthorized Access,Critical,Resolved,Phishing incident detected.,security_team
+2023-06-12,Malware,High,Investigating,Bruteforce Attack incident detected.,alice
+2023-05-31,Phishing,Medium,Closed,DDoS incident detected.,system
+2024-09-01,Phishing,High,Open,SQL Injection incident detected.,admin
+2023-02-20,Data Leak,Medium,Open,Bruteforce Attack incident detected.,bob
+2023-10-13,Malware,Critical,Investigating,SQL Injection incident detected.,admin
+2023-09-17,Data Leak,Critical,Open,Bruteforce Attack incident detected.,charlie
+2023-07-09,Bruteforce Attack,Low,Investigating,Unauthorized Access incident detected.,security_team
+2024-05-08,Ransomware,Critical,Investigating,DDoS incident detected.,alice
+2024-09-18,Bruteforce Attack,Medium,Resolved,Ransomware incident detected.,system
+2023-11-13,DDoS,Low,Investigating,Bruteforce Attack incident detected.,bob
+2023-06-08,DDoS,Medium,Resolved,Data Leak incident detected.,security_team
+2023-04-12,DDoS,Medium,Open,SQL Injection incident detected.,charlie
+2024-01-12,Malware,Medium,Investigating,SQL Injection incident detected.,admin
+2024-04-01,Ransomware,High,Resolved,Ransomware incident detected.,admin
+2023-11-21,Data Leak,Critical,Closed,Ransomware incident detected.,security_team
+2023-10-20,Phishing,High,Resolved,Malware incident detected.,charlie
+2023-09-11,DDoS,High,Investigating,DDoS incident detected.,alice
+2023-06-15,Ransomware,High,Investigating,Ransomware incident detected.,security_team
+2023-05-25,Malware,High,Open,Ransomware incident detected.,charlie
+2024-08-23,Ransomware,High,Open,SQL Injection incident detected.,system
+2024-06-12,Malware,Critical,Resolved,DDoS incident detected.,alice
+2024-01-14,Unauthorized Access,Medium,Investigating,Malware incident detected.,charlie
+2023-09-20,Phishing,High,Investigating,DDoS incident detected.,admin
+2023-06-30,Malware,Critical,Investigating,Ransomware incident detected.,system
+2024-06-30,Bruteforce Attack,Low,Closed,SQL Injection incident detected.,alice
+2024-08-26,Phishing,Medium,Resolved,Bruteforce Attack incident detected.,admin
+2023-02-04,SQL Injection,Medium,Open,Ransomware incident detected.,charlie
+2024-06-24,Phishing,Medium,Open,Unauthorized Access incident detected.,security_team
+2024-05-30,Malware,Medium,Closed,Phishing incident detected.,admin
+2024-09-27,Ransomware,Critical,Resolved,Malware incident detected.,admin
+2023-06-22,Bruteforce Attack,High,Closed,SQL Injection incident detected.,bob
+2024-09-02,Bruteforce Attack,Critical,Open,Bruteforce Attack incident detected.,security_team
+2023-12-10,Phishing,Medium,Investigating,Data Leak incident detected.,security_team
+2023-01-16,Data Leak,High,Closed,SQL Injection incident detected.,security_team
+2023-03-17,SQL Injection,Low,Resolved,SQL Injection incident detected.,bob
+2024-10-10,Ransomware,Critical,Resolved,Phishing incident detected.,charlie
+2024-02-14,Malware,Critical,Resolved,Data Leak incident detected.,alice
+2024-06-11,Data Leak,Medium,Closed,Phishing incident detected.,charlie
+2023-06-04,Bruteforce Attack,Medium,Resolved,Data Leak incident detected.,charlie
+2023-08-19,Unauthorized Access,Critical,Resolved,DDoS incident detected.,alice
+2023-01-10,SQL Injection,Low,Open,Ransomware incident detected.,security_team
+2023-10-15,Data Leak,Critical,Investigating,Malware incident detected.,system
+2023-01-06,Malware,Low,Investigating,Data Leak incident detected.,admin
+2023-03-03,Unauthorized Access,Low,Resolved,DDoS incident detected.,alice
+2023-11-13,Malware,Low,Closed,Bruteforce Attack incident detected.,admin
+2023-01-26,Data Leak,Medium,Open,DDoS incident detected.,security_team
+2023-04-26,SQL Injection,High,Open,Data Leak incident detected.,alice
+2023-02-27,Phishing,Low,Open,Bruteforce Attack incident detected.,bob
+2024-02-15,Bruteforce Attack,Critical,Resolved,SQL Injection incident detected.,admin
+2024-11-12,DDoS,Low,Investigating,Bruteforce Attack incident detected.,bob
+2023-02-25,Data Leak,Low,Open,Unauthorized Access incident detected.,alice
+2023-03-02,Ransomware,Low,Resolved,Phishing incident detected.,alice
+2024-09-09,Unauthorized Access,Medium,Closed,Phishing incident detected.,bob
+2023-07-04,Data Leak,High,Closed,DDoS incident detected.,security_team
+2023-02-09,Data Leak,High,Resolved,Ransomware incident detected.,admin
+2023-09-29,SQL Injection,Low,Open,Phishing incident detected.,bob
+2023-05-01,Unauthorized Access,Low,Closed,Unauthorized Access incident detected.,charlie
+2024-08-13,Unauthorized Access,High,Open,Unauthorized Access incident detected.,security_team
+2024-06-12,Malware,High,Closed,Data Leak incident detected.,security_team
+2023-06-30,DDoS,High,Open,SQL Injection incident detected.,admin
+2024-03-28,SQL Injection,Low,Open,SQL Injection incident detected.,bob
+2023-05-08,Phishing,Low,Resolved,Unauthorized Access incident detected.,security_team
+2023-12-09,Bruteforce Attack,Medium,Closed,Bruteforce Attack incident detected.,system
+2024-10-02,Unauthorized Access,Low,Open,SQL Injection incident detected.,admin
+2024-09-20,Data Leak,Critical,Investigating,Malware incident detected.,admin
+2023-10-04,Bruteforce Attack,High,Investigating,Ransomware incident detected.,bob
+2023-10-19,Phishing,Medium,Closed,Malware incident detected.,system
+2024-03-20,Phishing,Low,Investigating,Bruteforce Attack incident detected.,bob
+2024-07-28,DDoS,Critical,Open,SQL Injection incident detected.,security_team
+2024-07-24,Unauthorized Access,Critical,Closed,Data Leak incident detected.,system
+2024-03-04,DDoS,Medium,Open,Phishing incident detected.,charlie
+2024-11-11,Phishing,Critical,Closed,DDoS incident detected.,admin
+2023-04-02,Unauthorized Access,Medium,Closed,Ransomware incident detected.,bob
+2024-03-16,DDoS,Low,Open,Bruteforce Attack incident detected.,alice
+2024-07-20,DDoS,High,Resolved,Phishing incident detected.,admin
+2023-10-09,Data Leak,Low,Closed,Bruteforce Attack incident detected.,charlie
+2024-09-26,Data Leak,Low,Open,Ransomware incident detected.,system
+2023-09-10,DDoS,Medium,Resolved,Malware incident detected.,system
+2024-11-29,Phishing,Medium,Closed,SQL Injection incident detected.,charlie
+2024-08-24,Unauthorized Access,Critical,Closed,Ransomware incident detected.,security_team
+2023-07-03,Phishing,Low,Closed,Phishing incident detected.,security_team
+2024-09-19,Ransomware,High,Resolved,Bruteforce Attack incident detected.,alice
+2024-04-18,Data Leak,High,Closed,Bruteforce Attack incident detected.,security_team
+2023-03-19,Ransomware,Low,Closed,DDoS incident detected.,admin
+2024-11-25,SQL Injection,Critical,Open,Bruteforce Attack incident detected.,security_team
+2023-07-31,DDoS,Low,Closed,Bruteforce Attack incident detected.,charlie
+2023-06-22,SQL Injection,Medium,Investigating,Data Leak incident detected.,system
+2024-06-02,Unauthorized Access,Low,Resolved,Data Leak incident detected.,alice
+2024-06-14,Malware,Medium,Resolved,Data Leak incident detected.,charlie
+2023-02-26,DDoS,Medium,Investigating,Phishing incident detected.,alice
+2024-06-09,SQL Injection,Low,Closed,Malware incident detected.,bob
+2023-10-07,DDoS,High,Closed,Phishing incident detected.,charlie
+2023-09-10,Unauthorized Access,Critical,Investigating,SQL Injection incident detected.,security_team
+2024-11-01,Unauthorized Access,Critical,Resolved,Phishing incident detected.,system
+2024-06-01,SQL Injection,Medium,Resolved,DDoS incident detected.,charlie
+2024-01-11,Malware,High,Closed,SQL Injection incident detected.,alice
+2024-03-25,Bruteforce Attack,Critical,Open,SQL Injection incident detected.,bob
+2023-10-26,SQL Injection,Low,Open,Phishing incident detected.,security_team
+2023-07-08,Bruteforce Attack,Critical,Investigating,DDoS incident detected.,system
+2023-02-15,SQL Injection,Low,Resolved,Ransomware incident detected.,bob
+2024-10-25,Unauthorized Access,High,Investigating,Phishing incident detected.,bob
+2024-05-24,Bruteforce Attack,Critical,Investigating,Malware incident detected.,admin
+2023-04-29,Unauthorized Access,Critical,Closed,SQL Injection incident detected.,charlie
+2023-03-15,Malware,Critical,Closed,DDoS incident detected.,admin
+2023-02-02,SQL Injection,High,Closed,Malware incident detected.,charlie
+2023-02-01,Malware,Medium,Investigating,DDoS incident detected.,charlie
+2024-04-01,SQL Injection,Medium,Resolved,Data Leak incident detected.,alice
+2023-09-17,SQL Injection,High,Investigating,Unauthorized Access incident detected.,admin
+2023-07-02,Data Leak,Low,Resolved,Unauthorized Access incident detected.,bob
+2024-07-02,Phishing,Medium,Closed,DDoS incident detected.,security_team
+2024-11-19,Unauthorized Access,High,Investigating,DDoS incident detected.,admin
+2023-05-01,Ransomware,Medium,Investigating,Bruteforce Attack incident detected.,bob
+2023-11-14,Malware,Medium,Open,Data Leak incident detected.,admin
+2024-07-29,Phishing,High,Investigating,Bruteforce Attack incident detected.,charlie
+2023-12-24,Bruteforce Attack,Low,Resolved,Ransomware incident detected.,alice
+2024-11-07,Ransomware,Medium,Resolved,Malware incident detected.,alice
+2024-11-03,Bruteforce Attack,Critical,Resolved,Phishing incident detected.,charlie
+2023-02-15,SQL Injection,High,Open,Data Leak incident detected.,alice
+2024-01-20,Unauthorized Access,Low,Closed,DDoS incident detected.,admin
+2024-10-14,DDoS,Medium,Closed,Unauthorized Access incident detected.,security_team
+2023-07-25,Malware,Low,Open,Unauthorized Access incident detected.,bob
+2023-09-27,Malware,Critical,Investigating,SQL Injection incident detected.,alice
+2023-08-20,Malware,Medium,Closed,Malware incident detected.,alice
+2023-12-30,Unauthorized Access,Critical,Investigating,Ransomware incident detected.,system
+2024-07-21,Unauthorized Access,Low,Resolved,Malware incident detected.,alice
+2023-03-15,Malware,High,Investigating,Malware incident detected.,admin
+2023-02-02,Ransomware,Critical,Open,Phishing incident detected.,system
+2023-06-03,Ransomware,Critical,Closed,SQL Injection incident detected.,charlie
+2024-02-01,DDoS,Low,Open,Phishing incident detected.,alice
+2024-03-08,SQL Injection,Low,Open,SQL Injection incident detected.,bob
+2023-04-23,DDoS,Medium,Open,Bruteforce Attack incident detected.,security_team
+2023-04-15,Phishing,Low,Resolved,Phishing incident detected.,bob
+2023-12-14,SQL Injection,Low,Closed,Unauthorized Access incident detected.,system
+2023-06-03,Bruteforce Attack,Medium,Open,Phishing incident detected.,bob
+2024-10-28,Unauthorized Access,Medium,Resolved,SQL Injection incident detected.,admin
+2023-09-20,Bruteforce Attack,Medium,Resolved,Ransomware incident detected.,admin
+2023-03-13,Phishing,High,Closed,Ransomware incident detected.,system
+2023-02-08,DDoS,High,Closed,Unauthorized Access incident detected.,charlie
+2024-04-15,Malware,Medium,Investigating,Unauthorized Access incident detected.,charlie
+2024-01-29,Data Leak,High,Investigating,Malware incident detected.,system
+2024-11-27,Unauthorized Access,Low,Open,Unauthorized Access incident detected.,charlie
+2023-06-30,Phishing,Low,Closed,Malware incident detected.,alice

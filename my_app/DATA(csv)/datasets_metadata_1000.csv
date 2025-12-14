@@ -1,0 +1,1001 @@
+date,dataset_type,severity,status,description,reported_by
+2023-04-21,HR,Low,Deprecated,IT Logs dataset record.,analyst01
+2022-11-13,Security Reports,Critical,Deprecated,Customer Data dataset record.,data_engineer
+2024-05-08,HR,High,Archived,HR dataset record.,analyst01
+2022-11-26,IT Logs,Critical,Deprecated,Sales dataset record.,system
+2022-08-11,Sales,Critical,Active,IT Logs dataset record.,admin
+2024-04-20,Customer Data,Medium,Under Review,HR dataset record.,data_engineer
+2023-06-17,Financial,Critical,Under Review,IT Logs dataset record.,system
+2024-02-01,HR,Low,Under Review,Sales dataset record.,system
+2022-02-02,Sales,Low,Active,Customer Data dataset record.,data_engineer
+2023-06-29,Financial,Low,Archived,Customer Data dataset record.,analyst01
+2023-09-24,Customer Data,Critical,Deprecated,Customer Data dataset record.,data_engineer
+2024-01-05,Financial,Low,Archived,Customer Data dataset record.,analyst01
+2022-07-27,HR,Medium,Active,HR dataset record.,admin
+2022-10-14,Security Reports,Critical,Archived,Sales dataset record.,system
+2023-10-02,Financial,Medium,Archived,Customer Data dataset record.,admin
+2023-10-15,Sales,Low,Archived,HR dataset record.,system
+2024-04-19,Security Reports,High,Under Review,Customer Data dataset record.,system
+2024-05-25,HR,Medium,Archived,HR dataset record.,data_engineer
+2022-10-24,IT Logs,Critical,Under Review,Customer Data dataset record.,data_engineer
+2023-09-03,Financial,Critical,Deprecated,IT Logs dataset record.,qa_team
+2023-03-07,Customer Data,Medium,Active,Security Reports dataset record.,data_engineer
+2022-06-10,Sales,High,Active,Security Reports dataset record.,admin
+2022-08-29,Security Reports,Medium,Deprecated,Sales dataset record.,qa_team
+2023-01-17,Security Reports,High,Deprecated,HR dataset record.,qa_team
+2022-10-14,Sales,Medium,Archived,IT Logs dataset record.,data_engineer
+2022-06-11,HR,Low,Under Review,Security Reports dataset record.,analyst01
+2022-06-22,Security Reports,Medium,Active,Financial dataset record.,qa_team
+2023-11-30,IT Logs,Low,Deprecated,Financial dataset record.,data_engineer
+2023-10-16,HR,Critical,Deprecated,HR dataset record.,data_engineer
+2022-11-13,Customer Data,Critical,Active,Security Reports dataset record.,admin
+2023-11-17,Customer Data,Low,Archived,IT Logs dataset record.,admin
+2023-01-04,IT Logs,Low,Deprecated,IT Logs dataset record.,data_engineer
+2022-05-05,Sales,Low,Archived,Sales dataset record.,admin
+2022-02-11,Sales,Low,Deprecated,HR dataset record.,system
+2022-07-16,Sales,Medium,Under Review,Sales dataset record.,analyst01
+2022-07-30,Financial,High,Deprecated,Security Reports dataset record.,qa_team
+2023-02-13,Security Reports,Critical,Archived,Financial dataset record.,data_engineer
+2024-02-10,HR,Critical,Archived,HR dataset record.,qa_team
+2024-02-24,Sales,Medium,Archived,Sales dataset record.,admin
+2023-05-14,IT Logs,Medium,Active,Financial dataset record.,data_engineer
+2023-04-23,Sales,Low,Active,HR dataset record.,qa_team
+2022-02-02,IT Logs,Critical,Deprecated,HR dataset record.,qa_team
+2024-01-22,Customer Data,High,Archived,HR dataset record.,qa_team
+2024-06-12,Sales,Medium,Active,Security Reports dataset record.,data_engineer
+2023-03-25,Customer Data,Critical,Under Review,Financial dataset record.,admin
+2024-04-09,Security Reports,Low,Deprecated,IT Logs dataset record.,admin
+2023-10-14,Customer Data,Critical,Under Review,Financial dataset record.,analyst01
+2024-02-29,Customer Data,Critical,Archived,Customer Data dataset record.,admin
+2022-03-08,Customer Data,Low,Archived,Customer Data dataset record.,analyst01
+2022-11-24,IT Logs,Critical,Active,Customer Data dataset record.,data_engineer
+2022-05-22,Sales,Critical,Archived,IT Logs dataset record.,analyst01
+2023-02-21,Financial,Low,Active,Customer Data dataset record.,admin
+2023-03-22,HR,Critical,Active,Customer Data dataset record.,qa_team
+2023-12-31,Sales,High,Archived,Financial dataset record.,analyst01
+2023-04-10,HR,Critical,Archived,IT Logs dataset record.,data_engineer
+2022-08-07,HR,Low,Active,Sales dataset record.,analyst01
+2023-08-17,IT Logs,Low,Active,IT Logs dataset record.,analyst01
+2024-02-16,Sales,High,Deprecated,IT Logs dataset record.,qa_team
+2022-08-15,Security Reports,High,Deprecated,Sales dataset record.,admin
+2023-08-14,Financial,Critical,Under Review,Financial dataset record.,analyst01
+2023-10-24,Sales,Medium,Archived,Financial dataset record.,qa_team
+2022-09-20,Customer Data,High,Archived,HR dataset record.,analyst01
+2022-10-19,HR,Medium,Active,IT Logs dataset record.,qa_team
+2022-04-23,HR,Low,Deprecated,Customer Data dataset record.,system
+2024-03-02,IT Logs,Medium,Active,HR dataset record.,system
+2022-07-02,Security Reports,High,Archived,Sales dataset record.,system
+2024-02-01,IT Logs,Critical,Active,Sales dataset record.,admin
+2022-07-21,HR,Critical,Deprecated,HR dataset record.,data_engineer
+2022-07-15,Sales,Critical,Deprecated,HR dataset record.,data_engineer
+2023-11-16,Security Reports,Medium,Active,Financial dataset record.,admin
+2022-07-06,IT Logs,Medium,Active,Customer Data dataset record.,data_engineer
+2022-02-20,Security Reports,Low,Archived,HR dataset record.,system
+2022-02-04,Customer Data,High,Deprecated,Customer Data dataset record.,admin
+2023-12-02,Financial,Medium,Archived,Sales dataset record.,analyst01
+2023-06-14,HR,Low,Deprecated,HR dataset record.,system
+2023-07-14,IT Logs,High,Under Review,Financial dataset record.,analyst01
+2023-12-21,Sales,Medium,Archived,HR dataset record.,qa_team
+2023-11-30,Security Reports,Critical,Active,IT Logs dataset record.,admin
+2024-02-06,HR,Critical,Archived,Security Reports dataset record.,system
+2023-01-11,Customer Data,Critical,Active,Financial dataset record.,analyst01
+2023-09-07,Financial,Low,Active,HR dataset record.,admin
+2022-12-16,Sales,Critical,Active,Customer Data dataset record.,qa_team
+2022-05-23,Security Reports,Critical,Under Review,IT Logs dataset record.,analyst01
+2022-02-18,Sales,Critical,Deprecated,Financial dataset record.,qa_team
+2023-03-31,IT Logs,Low,Active,IT Logs dataset record.,analyst01
+2022-11-07,Customer Data,High,Under Review,Financial dataset record.,system
+2023-05-06,HR,Low,Deprecated,Customer Data dataset record.,admin
+2022-03-27,Financial,Critical,Deprecated,Customer Data dataset record.,admin
+2023-12-12,Customer Data,Critical,Archived,Sales dataset record.,analyst01
+2022-01-09,Security Reports,High,Active,Financial dataset record.,data_engineer
+2022-09-28,Financial,Medium,Active,Sales dataset record.,analyst01
+2024-02-27,HR,Critical,Under Review,Financial dataset record.,data_engineer
+2023-05-02,IT Logs,High,Archived,Customer Data dataset record.,qa_team
+2023-04-23,HR,Critical,Active,Customer Data dataset record.,qa_team
+2023-12-14,Financial,High,Active,HR dataset record.,data_engineer
+2022-10-21,Financial,Medium,Active,Financial dataset record.,qa_team
+2023-06-17,Sales,Critical,Active,Security Reports dataset record.,admin
+2022-06-20,HR,Critical,Deprecated,HR dataset record.,system
+2022-03-03,Financial,Medium,Active,Security Reports dataset record.,system
+2023-12-11,Financial,Medium,Under Review,HR dataset record.,system
+2022-01-10,Financial,Low,Under Review,HR dataset record.,system
+2022-10-10,Security Reports,Critical,Active,HR dataset record.,qa_team
+2024-05-25,Security Reports,Critical,Deprecated,IT Logs dataset record.,analyst01
+2023-12-24,IT Logs,Critical,Archived,HR dataset record.,system
+2024-05-15,Financial,High,Active,HR dataset record.,analyst01
+2023-06-20,IT Logs,Critical,Archived,HR dataset record.,data_engineer
+2024-02-16,HR,Medium,Archived,IT Logs dataset record.,system
+2024-02-24,HR,Critical,Deprecated,Security Reports dataset record.,analyst01
+2022-06-26,Sales,Medium,Active,Financial dataset record.,system
+2023-12-04,Sales,High,Deprecated,HR dataset record.,admin
+2022-07-24,Security Reports,Medium,Archived,IT Logs dataset record.,admin
+2023-12-06,HR,Medium,Archived,Sales dataset record.,qa_team
+2022-07-24,Security Reports,Medium,Under Review,Security Reports dataset record.,data_engineer
+2023-07-31,HR,High,Under Review,Sales dataset record.,system
+2023-12-27,Customer Data,Medium,Archived,Customer Data dataset record.,qa_team
+2023-10-10,Security Reports,High,Deprecated,Customer Data dataset record.,qa_team
+2024-04-10,Financial,Critical,Deprecated,Customer Data dataset record.,admin
+2023-09-13,Financial,Low,Deprecated,Customer Data dataset record.,data_engineer
+2024-04-28,Customer Data,Medium,Deprecated,HR dataset record.,admin
+2022-04-15,Financial,Low,Deprecated,HR dataset record.,data_engineer
+2022-05-08,IT Logs,Low,Under Review,HR dataset record.,admin
+2024-05-07,Security Reports,Medium,Under Review,Sales dataset record.,system
+2023-11-15,Customer Data,Critical,Archived,Security Reports dataset record.,data_engineer
+2024-05-30,Financial,Critical,Under Review,Customer Data dataset record.,admin
+2023-02-11,Customer Data,Low,Under Review,IT Logs dataset record.,data_engineer
+2024-01-23,Security Reports,Low,Active,Sales dataset record.,system
+2023-11-27,Financial,Critical,Active,IT Logs dataset record.,system
+2022-06-10,Financial,Low,Archived,HR dataset record.,qa_team
+2023-06-25,Financial,Medium,Active,Customer Data dataset record.,system
+2022-10-19,Customer Data,High,Archived,HR dataset record.,system
+2022-07-03,Financial,High,Active,Financial dataset record.,admin
+2023-11-14,HR,Critical,Archived,Security Reports dataset record.,analyst01
+2024-06-14,Customer Data,Medium,Deprecated,Security Reports dataset record.,qa_team
+2022-07-24,IT Logs,Medium,Active,IT Logs dataset record.,analyst01
+2024-01-21,IT Logs,Low,Archived,Financial dataset record.,system
+2023-09-26,Sales,High,Deprecated,Financial dataset record.,analyst01
+2022-11-25,Security Reports,High,Deprecated,Financial dataset record.,admin
+2024-03-28,Financial,Medium,Archived,Sales dataset record.,analyst01
+2024-02-04,Security Reports,Medium,Deprecated,Security Reports dataset record.,admin
+2022-07-04,HR,Medium,Deprecated,Financial dataset record.,system
+2022-08-19,Sales,Medium,Archived,HR dataset record.,analyst01
+2023-10-11,HR,Medium,Active,Customer Data dataset record.,system
+2022-09-26,Financial,Critical,Active,Security Reports dataset record.,analyst01
+2022-06-27,HR,High,Active,Security Reports dataset record.,analyst01
+2022-06-29,Sales,High,Deprecated,Customer Data dataset record.,data_engineer
+2023-01-06,Sales,Critical,Active,IT Logs dataset record.,qa_team
+2024-04-17,IT Logs,Medium,Deprecated,Financial dataset record.,system
+2022-05-06,Customer Data,Medium,Deprecated,IT Logs dataset record.,system
+2024-05-09,IT Logs,High,Deprecated,Security Reports dataset record.,analyst01
+2022-01-27,Customer Data,Low,Archived,Security Reports dataset record.,analyst01
+2023-12-15,Financial,Low,Under Review,IT Logs dataset record.,data_engineer
+2022-10-17,Sales,High,Archived,Financial dataset record.,admin
+2024-03-10,Sales,Low,Under Review,Financial dataset record.,system
+2024-05-24,Sales,Critical,Archived,Sales dataset record.,qa_team
+2024-05-01,Sales,Low,Under Review,Sales dataset record.,analyst01
+2023-08-31,Sales,Low,Under Review,IT Logs dataset record.,system
+2022-12-31,Customer Data,Low,Active,Financial dataset record.,analyst01
+2023-01-18,IT Logs,Critical,Archived,Sales dataset record.,qa_team
+2022-07-15,HR,Low,Archived,Security Reports dataset record.,analyst01
+2023-03-01,Financial,Medium,Active,HR dataset record.,admin
+2022-08-03,Financial,Critical,Under Review,Financial dataset record.,data_engineer
+2023-04-06,Security Reports,Low,Archived,Financial dataset record.,system
+2024-04-01,IT Logs,High,Active,HR dataset record.,qa_team
+2022-12-31,Customer Data,Low,Under Review,HR dataset record.,analyst01
+2022-07-24,IT Logs,Critical,Active,Financial dataset record.,admin
+2024-01-07,Sales,High,Active,Sales dataset record.,qa_team
+2022-02-12,Sales,High,Under Review,Sales dataset record.,qa_team
+2022-10-10,Customer Data,Medium,Under Review,Customer Data dataset record.,analyst01
+2022-01-17,Customer Data,High,Archived,HR dataset record.,admin
+2022-07-25,HR,Low,Archived,Sales dataset record.,data_engineer
+2022-08-08,Sales,Medium,Active,Customer Data dataset record.,analyst01
+2024-03-08,Financial,High,Active,Security Reports dataset record.,qa_team
+2023-05-14,Customer Data,High,Archived,Sales dataset record.,system
+2023-11-28,HR,Critical,Active,Sales dataset record.,admin
+2024-01-14,IT Logs,High,Under Review,HR dataset record.,admin
+2023-12-20,IT Logs,High,Archived,IT Logs dataset record.,data_engineer
+2023-07-31,IT Logs,Medium,Deprecated,Customer Data dataset record.,qa_team
+2023-08-09,Customer Data,Medium,Deprecated,Financial dataset record.,system
+2022-09-01,HR,Medium,Under Review,Financial dataset record.,analyst01
+2022-10-14,Financial,Critical,Active,Customer Data dataset record.,admin
+2024-05-03,Security Reports,High,Under Review,Sales dataset record.,admin
+2022-05-14,Financial,Medium,Archived,Financial dataset record.,analyst01
+2022-04-26,Security Reports,Low,Deprecated,IT Logs dataset record.,admin
+2023-09-19,Security Reports,Medium,Active,Security Reports dataset record.,admin
+2022-10-03,Sales,Medium,Under Review,Security Reports dataset record.,qa_team
+2023-10-10,Financial,High,Active,Security Reports dataset record.,qa_team
+2022-06-19,Customer Data,Low,Deprecated,Customer Data dataset record.,analyst01
+2022-05-25,Sales,Medium,Archived,IT Logs dataset record.,system
+2022-08-07,Financial,High,Deprecated,Financial dataset record.,qa_team
+2022-10-16,Security Reports,Critical,Under Review,Financial dataset record.,system
+2023-04-27,Sales,Low,Archived,HR dataset record.,qa_team
+2024-05-04,Financial,High,Archived,IT Logs dataset record.,admin
+2022-10-06,Customer Data,Critical,Archived,Financial dataset record.,qa_team
+2023-06-13,Financial,Critical,Archived,Sales dataset record.,analyst01
+2024-04-15,Security Reports,Critical,Archived,Financial dataset record.,qa_team
+2022-02-20,Security Reports,Low,Active,HR dataset record.,data_engineer
+2023-08-23,Sales,High,Archived,IT Logs dataset record.,system
+2023-08-27,Sales,Medium,Archived,Sales dataset record.,qa_team
+2023-12-12,HR,High,Archived,IT Logs dataset record.,admin
+2022-11-01,Financial,Low,Under Review,IT Logs dataset record.,analyst01
+2023-06-06,Security Reports,Medium,Active,Sales dataset record.,admin
+2022-08-22,IT Logs,Medium,Under Review,HR dataset record.,qa_team
+2022-04-22,IT Logs,Low,Deprecated,Financial dataset record.,analyst01
+2022-10-30,HR,Low,Archived,Financial dataset record.,data_engineer
+2022-02-28,Security Reports,High,Archived,IT Logs dataset record.,admin
+2024-02-19,IT Logs,Critical,Active,Sales dataset record.,qa_team
+2023-10-16,HR,Low,Active,Sales dataset record.,admin
+2023-07-09,Security Reports,Medium,Under Review,HR dataset record.,analyst01
+2022-03-21,Security Reports,Critical,Active,HR dataset record.,qa_team
+2024-03-11,Security Reports,Low,Under Review,Security Reports dataset record.,analyst01
+2024-03-24,HR,Medium,Active,Customer Data dataset record.,data_engineer
+2023-07-07,HR,Low,Under Review,Security Reports dataset record.,system
+2023-03-25,IT Logs,Low,Under Review,Sales dataset record.,system
+2024-04-18,HR,High,Archived,Security Reports dataset record.,admin
+2023-01-06,IT Logs,Low,Under Review,Security Reports dataset record.,admin
+2024-06-03,Financial,Low,Active,Customer Data dataset record.,analyst01
+2024-03-31,Sales,Medium,Under Review,IT Logs dataset record.,data_engineer
+2024-05-02,Financial,Low,Deprecated,IT Logs dataset record.,system
+2023-10-08,HR,High,Under Review,Sales dataset record.,system
+2024-02-28,Sales,Critical,Active,Customer Data dataset record.,data_engineer
+2024-03-28,HR,Critical,Under Review,Security Reports dataset record.,qa_team
+2024-06-17,Security Reports,High,Deprecated,IT Logs dataset record.,analyst01
+2022-04-16,HR,Critical,Deprecated,Customer Data dataset record.,qa_team
+2022-12-24,Financial,Low,Deprecated,Sales dataset record.,system
+2023-09-02,Customer Data,Critical,Active,Financial dataset record.,analyst01
+2022-06-25,IT Logs,Critical,Under Review,Financial dataset record.,qa_team
+2024-02-29,Financial,High,Deprecated,IT Logs dataset record.,system
+2024-04-11,Security Reports,Low,Active,Sales dataset record.,data_engineer
+2023-11-15,Sales,Critical,Active,Customer Data dataset record.,analyst01
+2022-01-31,HR,High,Active,HR dataset record.,admin
+2023-04-23,HR,High,Active,Security Reports dataset record.,system
+2023-11-29,HR,High,Deprecated,Customer Data dataset record.,system
+2023-12-21,Sales,Critical,Deprecated,Security Reports dataset record.,data_engineer
+2023-05-08,IT Logs,Critical,Archived,Security Reports dataset record.,system
+2022-01-13,IT Logs,High,Deprecated,Financial dataset record.,qa_team
+2024-05-30,Customer Data,High,Under Review,IT Logs dataset record.,system
+2024-03-27,Customer Data,Low,Active,Sales dataset record.,data_engineer
+2022-07-16,Customer Data,Critical,Active,Security Reports dataset record.,analyst01
+2022-02-21,Financial,Medium,Archived,Sales dataset record.,qa_team
+2022-01-06,Sales,Critical,Deprecated,IT Logs dataset record.,analyst01
+2023-07-30,Customer Data,Critical,Archived,Financial dataset record.,system
+2022-05-20,HR,High,Under Review,Financial dataset record.,admin
+2023-09-09,Financial,High,Archived,Security Reports dataset record.,qa_team
+2022-08-05,Customer Data,High,Deprecated,IT Logs dataset record.,system
+2023-12-12,IT Logs,High,Deprecated,HR dataset record.,admin
+2022-05-25,HR,Medium,Active,Customer Data dataset record.,data_engineer
+2022-08-29,Security Reports,Low,Active,Sales dataset record.,admin
+2022-03-06,Customer Data,Low,Active,Customer Data dataset record.,system
+2024-02-29,Security Reports,Critical,Deprecated,Sales dataset record.,data_engineer
+2023-04-16,IT Logs,Low,Archived,Sales dataset record.,system
+2023-11-14,Security Reports,Critical,Under Review,Security Reports dataset record.,admin
+2022-12-08,HR,High,Active,IT Logs dataset record.,admin
+2022-05-03,Financial,Critical,Deprecated,Customer Data dataset record.,admin
+2023-03-31,Sales,High,Under Review,Sales dataset record.,system
+2024-05-13,IT Logs,Critical,Deprecated,IT Logs dataset record.,qa_team
+2023-11-08,Security Reports,Critical,Under Review,IT Logs dataset record.,qa_team
+2024-02-26,Security Reports,Low,Deprecated,Sales dataset record.,data_engineer
+2022-02-25,Financial,High,Active,IT Logs dataset record.,data_engineer
+2024-03-13,HR,Low,Under Review,Customer Data dataset record.,analyst01
+2022-02-13,Customer Data,High,Deprecated,Financial dataset record.,system
+2023-04-12,Financial,Critical,Archived,HR dataset record.,system
+2024-03-26,Customer Data,High,Under Review,Sales dataset record.,data_engineer
+2024-02-26,Security Reports,High,Under Review,Financial dataset record.,admin
+2023-01-26,Sales,Medium,Active,Financial dataset record.,analyst01
+2024-02-10,Sales,Low,Deprecated,Customer Data dataset record.,system
+2022-06-10,HR,Medium,Under Review,IT Logs dataset record.,analyst01
+2022-11-30,Customer Data,Critical,Active,Financial dataset record.,admin
+2023-03-28,HR,Low,Under Review,HR dataset record.,admin
+2022-06-06,Sales,Medium,Archived,Sales dataset record.,qa_team
+2023-07-12,Customer Data,Medium,Active,Financial dataset record.,system
+2023-06-21,Security Reports,Critical,Under Review,Customer Data dataset record.,admin
+2023-11-07,HR,High,Under Review,HR dataset record.,admin
+2023-09-17,Financial,Critical,Deprecated,Customer Data dataset record.,admin
+2024-02-29,Financial,Medium,Under Review,Sales dataset record.,data_engineer
+2022-01-18,Sales,Low,Deprecated,Financial dataset record.,admin
+2022-03-30,Sales,Low,Active,Security Reports dataset record.,qa_team
+2023-08-10,Financial,Critical,Active,Security Reports dataset record.,data_engineer
+2023-02-01,Sales,Critical,Active,Sales dataset record.,system
+2024-01-06,Financial,Critical,Deprecated,Sales dataset record.,qa_team
+2024-03-03,Customer Data,Low,Deprecated,HR dataset record.,data_engineer
+2022-07-10,Sales,Medium,Under Review,Sales dataset record.,qa_team
+2023-09-22,Sales,Medium,Archived,Sales dataset record.,system
+2023-01-22,Financial,Low,Deprecated,Financial dataset record.,analyst01
+2024-04-22,Sales,High,Deprecated,Security Reports dataset record.,analyst01
+2023-01-22,Financial,Critical,Deprecated,HR dataset record.,analyst01
+2022-08-09,Security Reports,Critical,Under Review,Sales dataset record.,admin
+2023-12-23,Security Reports,Low,Deprecated,IT Logs dataset record.,admin
+2022-11-05,IT Logs,High,Archived,Financial dataset record.,system
+2022-11-15,IT Logs,Medium,Deprecated,Customer Data dataset record.,data_engineer
+2022-10-22,Financial,High,Under Review,Customer Data dataset record.,data_engineer
+2023-04-29,Security Reports,High,Active,HR dataset record.,qa_team
+2022-08-30,Security Reports,High,Deprecated,HR dataset record.,analyst01
+2022-08-25,Financial,High,Under Review,HR dataset record.,qa_team
+2022-01-13,HR,High,Under Review,HR dataset record.,qa_team
+2022-02-18,HR,Low,Active,Customer Data dataset record.,admin
+2022-08-18,IT Logs,High,Archived,HR dataset record.,admin
+2022-08-16,HR,Low,Deprecated,Financial dataset record.,analyst01
+2023-08-20,HR,Medium,Deprecated,IT Logs dataset record.,analyst01
+2023-04-19,IT Logs,Medium,Deprecated,HR dataset record.,system
+2023-04-13,HR,High,Deprecated,IT Logs dataset record.,system
+2023-04-10,Financial,High,Under Review,Security Reports dataset record.,analyst01
+2023-01-04,Financial,Medium,Archived,IT Logs dataset record.,system
+2023-08-03,HR,Critical,Active,Customer Data dataset record.,analyst01
+2022-06-01,IT Logs,Medium,Deprecated,Sales dataset record.,admin
+2022-08-15,IT Logs,Low,Under Review,HR dataset record.,system
+2022-04-03,Customer Data,Low,Archived,Financial dataset record.,data_engineer
+2022-10-13,Security Reports,High,Deprecated,HR dataset record.,system
+2022-09-02,IT Logs,Medium,Under Review,Customer Data dataset record.,analyst01
+2024-06-12,Financial,Low,Deprecated,IT Logs dataset record.,system
+2022-09-25,HR,High,Active,HR dataset record.,system
+2023-06-10,Security Reports,Medium,Archived,Financial dataset record.,admin
+2022-11-07,HR,Low,Deprecated,Financial dataset record.,analyst01
+2022-02-14,Financial,High,Archived,IT Logs dataset record.,data_engineer
+2022-12-22,Customer Data,Medium,Deprecated,Sales dataset record.,data_engineer
+2022-01-17,IT Logs,Medium,Deprecated,Customer Data dataset record.,data_engineer
+2022-10-08,IT Logs,High,Under Review,Financial dataset record.,qa_team
+2023-05-05,Security Reports,High,Deprecated,HR dataset record.,system
+2023-02-20,Security Reports,High,Archived,Sales dataset record.,qa_team
+2022-11-11,Financial,Medium,Under Review,IT Logs dataset record.,admin
+2023-04-22,Security Reports,High,Under Review,Sales dataset record.,data_engineer
+2023-09-18,Customer Data,Critical,Archived,HR dataset record.,data_engineer
+2022-01-06,Financial,Critical,Active,IT Logs dataset record.,data_engineer
+2022-05-09,Sales,Critical,Active,Financial dataset record.,system
+2023-05-09,Sales,Critical,Deprecated,Sales dataset record.,analyst01
+2022-11-09,Sales,Low,Deprecated,Security Reports dataset record.,system
+2022-12-01,HR,Medium,Active,IT Logs dataset record.,admin
+2023-01-25,Sales,Low,Deprecated,IT Logs dataset record.,system
+2023-07-31,Customer Data,Medium,Deprecated,Security Reports dataset record.,system
+2023-12-21,Customer Data,High,Archived,Sales dataset record.,system
+2022-01-25,Financial,Critical,Archived,Sales dataset record.,qa_team
+2023-06-28,HR,Critical,Active,HR dataset record.,data_engineer
+2024-04-28,Customer Data,Medium,Under Review,Sales dataset record.,admin
+2023-03-22,HR,High,Under Review,IT Logs dataset record.,data_engineer
+2022-03-18,Sales,Low,Active,Sales dataset record.,data_engineer
+2024-05-14,IT Logs,Low,Archived,Sales dataset record.,analyst01
+2022-01-15,Security Reports,Low,Under Review,Customer Data dataset record.,qa_team
+2024-04-06,Security Reports,Low,Under Review,Sales dataset record.,qa_team
+2022-03-03,Customer Data,High,Deprecated,Sales dataset record.,qa_team
+2023-06-02,Customer Data,Critical,Under Review,HR dataset record.,qa_team
+2023-01-26,IT Logs,Medium,Deprecated,IT Logs dataset record.,data_engineer
+2022-09-17,Sales,Medium,Active,HR dataset record.,admin
+2023-03-23,Customer Data,Medium,Archived,HR dataset record.,system
+2023-05-18,HR,High,Under Review,HR dataset record.,admin
+2024-06-09,HR,Critical,Archived,IT Logs dataset record.,analyst01
+2023-11-16,Customer Data,High,Under Review,Customer Data dataset record.,analyst01
+2023-02-15,Customer Data,Low,Under Review,IT Logs dataset record.,system
+2023-02-25,Sales,Low,Archived,Customer Data dataset record.,qa_team
+2022-11-05,HR,High,Archived,Security Reports dataset record.,system
+2024-01-27,HR,Low,Under Review,Financial dataset record.,qa_team
+2023-08-26,Customer Data,High,Archived,Security Reports dataset record.,data_engineer
+2022-11-20,HR,Low,Archived,IT Logs dataset record.,system
+2022-08-16,Security Reports,Medium,Deprecated,Security Reports dataset record.,admin
+2022-12-24,Financial,Low,Deprecated,HR dataset record.,system
+2023-12-07,HR,Medium,Deprecated,IT Logs dataset record.,system
+2022-03-29,Customer Data,High,Deprecated,Sales dataset record.,data_engineer
+2023-02-28,HR,High,Active,Customer Data dataset record.,analyst01
+2022-12-03,Financial,Critical,Deprecated,HR dataset record.,data_engineer
+2024-05-13,Customer Data,High,Archived,Customer Data dataset record.,admin
+2024-04-03,Financial,High,Archived,HR dataset record.,system
+2024-06-11,HR,Low,Active,IT Logs dataset record.,admin
+2023-12-02,IT Logs,Critical,Deprecated,Financial dataset record.,qa_team
+2022-07-08,IT Logs,Critical,Deprecated,Sales dataset record.,system
+2023-05-01,Customer Data,Low,Active,IT Logs dataset record.,admin
+2023-06-02,HR,Medium,Archived,Sales dataset record.,system
+2022-12-09,IT Logs,High,Archived,Security Reports dataset record.,qa_team
+2022-12-13,IT Logs,High,Active,Financial dataset record.,admin
+2023-06-01,IT Logs,High,Under Review,Financial dataset record.,qa_team
+2022-05-21,Customer Data,Low,Archived,Sales dataset record.,system
+2024-05-26,Financial,Critical,Active,Security Reports dataset record.,system
+2022-08-18,Security Reports,Medium,Active,IT Logs dataset record.,admin
+2022-03-18,Sales,Low,Deprecated,Financial dataset record.,qa_team
+2023-06-13,Financial,High,Archived,Security Reports dataset record.,admin
+2022-08-17,Financial,Critical,Archived,Sales dataset record.,admin
+2023-07-21,Sales,High,Deprecated,Financial dataset record.,analyst01
+2023-03-20,IT Logs,Medium,Active,IT Logs dataset record.,system
+2022-12-14,Sales,Low,Active,Customer Data dataset record.,analyst01
+2024-02-02,Security Reports,Low,Archived,IT Logs dataset record.,analyst01
+2023-06-02,Sales,Medium,Archived,Sales dataset record.,data_engineer
+2023-03-15,HR,Medium,Archived,HR dataset record.,system
+2022-08-03,HR,Low,Under Review,Sales dataset record.,analyst01
+2022-07-05,Financial,Critical,Archived,Financial dataset record.,data_engineer
+2023-02-22,Customer Data,High,Deprecated,HR dataset record.,admin
+2022-01-03,Sales,Medium,Deprecated,IT Logs dataset record.,system
+2024-05-08,IT Logs,Low,Under Review,Sales dataset record.,admin
+2022-10-12,HR,Medium,Under Review,Security Reports dataset record.,analyst01
+2024-01-24,Sales,Critical,Active,Security Reports dataset record.,admin
+2023-03-30,Financial,High,Active,Security Reports dataset record.,admin
+2024-02-04,Financial,Medium,Active,HR dataset record.,data_engineer
+2022-08-22,Sales,Medium,Under Review,Financial dataset record.,system
+2023-10-26,IT Logs,Low,Active,IT Logs dataset record.,system
+2023-05-31,Financial,Critical,Active,Sales dataset record.,admin
+2023-04-14,HR,Medium,Under Review,Sales dataset record.,analyst01
+2022-08-07,Financial,High,Deprecated,Customer Data dataset record.,admin
+2022-08-21,Sales,High,Under Review,Security Reports dataset record.,admin
+2024-06-03,Security Reports,Medium,Deprecated,Financial dataset record.,qa_team
+2023-11-22,Customer Data,High,Deprecated,HR dataset record.,data_engineer
+2023-12-21,Financial,Critical,Active,Customer Data dataset record.,system
+2024-03-18,Customer Data,High,Active,Sales dataset record.,data_engineer
+2024-02-12,Security Reports,Low,Deprecated,Security Reports dataset record.,analyst01
+2023-09-01,IT Logs,Medium,Under Review,HR dataset record.,data_engineer
+2023-06-15,HR,Medium,Deprecated,Sales dataset record.,system
+2022-01-22,Customer Data,High,Under Review,Sales dataset record.,qa_team
+2023-06-29,Customer Data,Medium,Archived,Security Reports dataset record.,system
+2022-01-08,IT Logs,Low,Under Review,Security Reports dataset record.,qa_team
+2023-06-23,Financial,High,Active,Financial dataset record.,qa_team
+2022-03-26,Financial,High,Active,IT Logs dataset record.,system
+2023-04-03,Security Reports,High,Under Review,Financial dataset record.,analyst01
+2023-08-10,IT Logs,High,Deprecated,Financial dataset record.,analyst01
+2022-05-11,Sales,Low,Deprecated,HR dataset record.,system
+2022-09-06,Security Reports,Low,Under Review,IT Logs dataset record.,system
+2023-08-17,Financial,Low,Deprecated,IT Logs dataset record.,system
+2023-01-16,HR,High,Active,Customer Data dataset record.,admin
+2024-03-29,Sales,Low,Archived,Customer Data dataset record.,admin
+2024-02-01,IT Logs,Critical,Under Review,Sales dataset record.,qa_team
+2022-08-23,Financial,Critical,Deprecated,Sales dataset record.,data_engineer
+2023-01-30,HR,Medium,Under Review,IT Logs dataset record.,data_engineer
+2024-05-07,Sales,Critical,Archived,Financial dataset record.,admin
+2024-05-09,Customer Data,Low,Active,Sales dataset record.,qa_team
+2024-05-10,HR,Low,Under Review,Sales dataset record.,analyst01
+2024-04-15,Customer Data,High,Deprecated,HR dataset record.,system
+2022-12-13,Financial,Low,Active,Security Reports dataset record.,qa_team
+2023-07-18,Financial,Low,Deprecated,HR dataset record.,data_engineer
+2022-06-19,HR,High,Deprecated,HR dataset record.,qa_team
+2024-01-08,Financial,Critical,Active,HR dataset record.,admin
+2023-03-01,Security Reports,High,Active,Financial dataset record.,admin
+2023-03-13,Financial,High,Active,Sales dataset record.,data_engineer
+2023-05-24,IT Logs,High,Deprecated,Security Reports dataset record.,qa_team
+2022-07-26,Sales,Critical,Active,Sales dataset record.,admin
+2023-07-30,Financial,High,Archived,IT Logs dataset record.,system
+2022-07-14,HR,Low,Archived,HR dataset record.,data_engineer
+2022-06-25,Customer Data,Low,Under Review,Customer Data dataset record.,system
+2022-09-24,Security Reports,Critical,Deprecated,Customer Data dataset record.,analyst01
+2023-09-19,Sales,High,Deprecated,Customer Data dataset record.,qa_team
+2022-06-07,IT Logs,Critical,Deprecated,Customer Data dataset record.,qa_team
+2024-04-27,IT Logs,Low,Active,Sales dataset record.,admin
+2023-11-27,Financial,Critical,Deprecated,HR dataset record.,analyst01
+2024-01-29,IT Logs,High,Under Review,HR dataset record.,qa_team
+2022-11-06,HR,Critical,Archived,Financial dataset record.,analyst01
+2022-08-28,Sales,High,Deprecated,Security Reports dataset record.,data_engineer
+2022-01-20,HR,Medium,Active,Customer Data dataset record.,admin
+2024-03-13,IT Logs,Critical,Deprecated,Customer Data dataset record.,analyst01
+2023-10-02,IT Logs,Medium,Deprecated,Customer Data dataset record.,data_engineer
+2023-09-26,HR,Medium,Archived,Customer Data dataset record.,data_engineer
+2022-03-31,HR,Medium,Active,HR dataset record.,data_engineer
+2023-03-22,Customer Data,Medium,Deprecated,Customer Data dataset record.,qa_team
+2022-07-19,IT Logs,Medium,Archived,Financial dataset record.,data_engineer
+2022-01-25,IT Logs,Low,Archived,Sales dataset record.,analyst01
+2022-01-25,IT Logs,High,Active,Sales dataset record.,analyst01
+2023-01-27,Customer Data,Medium,Active,Security Reports dataset record.,admin
+2023-12-15,Sales,High,Deprecated,Security Reports dataset record.,qa_team
+2022-01-15,Customer Data,Medium,Active,IT Logs dataset record.,qa_team
+2022-11-22,Customer Data,High,Archived,Financial dataset record.,system
+2022-03-01,Sales,Low,Active,Customer Data dataset record.,analyst01
+2023-01-17,Customer Data,Low,Archived,Security Reports dataset record.,analyst01
+2022-11-19,Sales,High,Under Review,Sales dataset record.,qa_team
+2022-01-11,Security Reports,Low,Active,Financial dataset record.,data_engineer
+2022-10-09,Security Reports,High,Deprecated,IT Logs dataset record.,data_engineer
+2024-05-05,Financial,Medium,Deprecated,Financial dataset record.,qa_team
+2024-04-04,Security Reports,Medium,Active,HR dataset record.,admin
+2022-06-14,HR,Low,Active,Financial dataset record.,system
+2023-02-12,Sales,High,Active,Financial dataset record.,system
+2023-12-01,Security Reports,Low,Deprecated,HR dataset record.,analyst01
+2023-02-18,Sales,Medium,Active,Customer Data dataset record.,system
+2024-03-02,Financial,Low,Deprecated,IT Logs dataset record.,data_engineer
+2022-03-29,HR,Critical,Deprecated,Financial dataset record.,admin
+2023-10-31,Sales,Critical,Active,IT Logs dataset record.,analyst01
+2022-08-14,IT Logs,Critical,Under Review,HR dataset record.,admin
+2022-06-05,Security Reports,Low,Under Review,Financial dataset record.,qa_team
+2023-10-02,Security Reports,Low,Archived,Financial dataset record.,qa_team
+2023-07-10,Security Reports,High,Archived,Sales dataset record.,data_engineer
+2022-03-04,Financial,Critical,Active,IT Logs dataset record.,data_engineer
+2022-03-26,Financial,Low,Active,Security Reports dataset record.,analyst01
+2022-11-20,Sales,Medium,Archived,Customer Data dataset record.,qa_team
+2023-10-17,Customer Data,High,Under Review,Sales dataset record.,system
+2024-05-08,Financial,Low,Archived,Security Reports dataset record.,analyst01
+2022-03-23,Financial,Low,Archived,Security Reports dataset record.,system
+2023-09-07,HR,High,Under Review,Financial dataset record.,qa_team
+2023-09-13,HR,Low,Under Review,IT Logs dataset record.,admin
+2022-04-05,Security Reports,Low,Deprecated,IT Logs dataset record.,data_engineer
+2023-10-20,HR,Low,Archived,IT Logs dataset record.,admin
+2023-08-03,Financial,Low,Under Review,Security Reports dataset record.,analyst01
+2023-12-23,IT Logs,High,Deprecated,HR dataset record.,analyst01
+2022-01-16,Customer Data,Critical,Active,HR dataset record.,analyst01
+2023-02-16,Financial,Critical,Deprecated,HR dataset record.,qa_team
+2023-05-05,HR,High,Deprecated,Customer Data dataset record.,qa_team
+2023-02-25,Security Reports,High,Under Review,Customer Data dataset record.,data_engineer
+2023-06-23,Security Reports,Critical,Active,Sales dataset record.,data_engineer
+2024-01-12,HR,High,Under Review,Security Reports dataset record.,analyst01
+2022-10-08,Financial,Low,Under Review,Sales dataset record.,data_engineer
+2022-02-14,IT Logs,Medium,Under Review,Customer Data dataset record.,qa_team
+2023-06-12,HR,High,Active,HR dataset record.,system
+2022-03-07,Financial,High,Active,HR dataset record.,system
+2022-07-12,Financial,High,Active,Customer Data dataset record.,analyst01
+2023-05-13,IT Logs,Critical,Active,HR dataset record.,admin
+2022-11-20,Security Reports,Low,Archived,HR dataset record.,analyst01
+2023-02-04,Sales,Medium,Deprecated,HR dataset record.,admin
+2023-12-19,HR,Low,Under Review,IT Logs dataset record.,system
+2024-01-09,Sales,High,Deprecated,Customer Data dataset record.,qa_team
+2022-02-20,Financial,Low,Under Review,Security Reports dataset record.,admin
+2022-10-15,Security Reports,Critical,Archived,IT Logs dataset record.,admin
+2023-09-28,Sales,Medium,Archived,Sales dataset record.,qa_team
+2022-06-10,Customer Data,Medium,Under Review,IT Logs dataset record.,data_engineer
+2024-01-02,IT Logs,High,Active,Security Reports dataset record.,data_engineer
+2022-05-06,Customer Data,Critical,Under Review,Financial dataset record.,analyst01
+2022-04-19,Customer Data,Low,Active,Sales dataset record.,data_engineer
+2023-03-13,HR,High,Deprecated,Sales dataset record.,qa_team
+2023-10-11,HR,Medium,Archived,IT Logs dataset record.,qa_team
+2023-04-18,HR,Low,Active,Security Reports dataset record.,data_engineer
+2023-09-02,Customer Data,Critical,Under Review,HR dataset record.,admin
+2022-11-01,Financial,Medium,Deprecated,Financial dataset record.,system
+2022-11-01,Customer Data,Critical,Active,Sales dataset record.,data_engineer
+2024-06-09,HR,Low,Active,Financial dataset record.,data_engineer
+2024-02-08,IT Logs,Low,Archived,Sales dataset record.,qa_team
+2023-12-20,Sales,High,Archived,Sales dataset record.,analyst01
+2022-05-20,IT Logs,High,Under Review,Security Reports dataset record.,qa_team
+2023-09-19,Financial,Critical,Active,IT Logs dataset record.,qa_team
+2023-01-02,IT Logs,High,Active,Customer Data dataset record.,admin
+2024-01-12,Customer Data,Low,Archived,Sales dataset record.,data_engineer
+2023-06-27,Sales,Medium,Active,HR dataset record.,admin
+2023-10-30,Security Reports,High,Archived,Customer Data dataset record.,system
+2022-01-24,Security Reports,Low,Under Review,Customer Data dataset record.,system
+2022-03-01,Financial,Critical,Archived,Sales dataset record.,qa_team
+2024-01-04,Financial,Low,Under Review,Customer Data dataset record.,system
+2022-04-22,Customer Data,Low,Archived,Security Reports dataset record.,admin
+2024-04-13,Financial,Low,Deprecated,IT Logs dataset record.,system
+2023-05-17,Security Reports,Medium,Active,HR dataset record.,analyst01
+2022-06-11,Sales,Low,Under Review,Security Reports dataset record.,qa_team
+2023-06-04,HR,Low,Archived,Financial dataset record.,data_engineer
+2023-08-08,Sales,Medium,Deprecated,IT Logs dataset record.,admin
+2024-03-17,Customer Data,Critical,Deprecated,IT Logs dataset record.,data_engineer
+2023-01-08,Sales,Medium,Archived,Customer Data dataset record.,data_engineer
+2024-06-08,Security Reports,Low,Under Review,Security Reports dataset record.,system
+2023-01-25,Sales,Critical,Under Review,Security Reports dataset record.,system
+2023-05-19,Security Reports,Medium,Archived,Customer Data dataset record.,admin
+2023-06-11,HR,Critical,Deprecated,HR dataset record.,data_engineer
+2024-02-20,Sales,Critical,Under Review,Security Reports dataset record.,analyst01
+2023-10-14,IT Logs,Low,Under Review,Sales dataset record.,system
+2023-05-09,HR,Medium,Active,Security Reports dataset record.,system
+2022-08-28,IT Logs,Critical,Under Review,Customer Data dataset record.,analyst01
+2022-02-11,HR,Critical,Under Review,Financial dataset record.,system
+2023-08-17,Customer Data,Low,Deprecated,Sales dataset record.,qa_team
+2022-08-10,Customer Data,Critical,Deprecated,IT Logs dataset record.,qa_team
+2022-10-27,Sales,Medium,Deprecated,Customer Data dataset record.,admin
+2023-10-23,IT Logs,Low,Deprecated,Security Reports dataset record.,analyst01
+2024-05-01,Sales,High,Deprecated,Customer Data dataset record.,analyst01
+2023-02-03,Customer Data,Critical,Deprecated,IT Logs dataset record.,analyst01
+2023-05-10,Sales,Critical,Archived,IT Logs dataset record.,admin
+2023-01-05,Security Reports,Medium,Under Review,Financial dataset record.,analyst01
+2024-02-01,Customer Data,Critical,Active,IT Logs dataset record.,admin
+2023-08-24,IT Logs,Low,Under Review,IT Logs dataset record.,qa_team
+2022-06-22,HR,High,Active,Financial dataset record.,admin
+2023-10-17,Sales,Medium,Deprecated,Security Reports dataset record.,analyst01
+2023-04-18,HR,Medium,Active,Security Reports dataset record.,system
+2023-02-06,Sales,Low,Under Review,Customer Data dataset record.,qa_team
+2024-02-06,HR,Medium,Under Review,Customer Data dataset record.,admin
+2023-06-24,IT Logs,Low,Archived,Sales dataset record.,system
+2022-06-04,HR,Medium,Deprecated,Security Reports dataset record.,data_engineer
+2022-10-26,Customer Data,Medium,Active,Sales dataset record.,data_engineer
+2023-09-25,IT Logs,Critical,Deprecated,Financial dataset record.,analyst01
+2023-01-18,Security Reports,Medium,Deprecated,Sales dataset record.,analyst01
+2022-08-13,Sales,Low,Deprecated,Security Reports dataset record.,system
+2023-03-14,Sales,Low,Under Review,Security Reports dataset record.,system
+2022-09-02,Customer Data,High,Active,IT Logs dataset record.,system
+2023-04-07,Financial,Critical,Active,Sales dataset record.,analyst01
+2022-11-15,IT Logs,Low,Archived,Customer Data dataset record.,data_engineer
+2024-05-19,HR,Low,Active,Customer Data dataset record.,admin
+2023-07-12,HR,Critical,Archived,Security Reports dataset record.,system
+2024-04-13,HR,High,Active,Financial dataset record.,analyst01
+2024-01-30,Security Reports,Critical,Archived,Security Reports dataset record.,admin
+2022-08-08,HR,Critical,Active,Customer Data dataset record.,qa_team
+2024-03-21,IT Logs,Low,Active,Sales dataset record.,admin
+2023-05-17,Customer Data,Low,Deprecated,HR dataset record.,qa_team
+2023-10-03,HR,Low,Under Review,Financial dataset record.,admin
+2023-06-14,Security Reports,Low,Under Review,Financial dataset record.,system
+2024-05-29,Financial,Low,Deprecated,Customer Data dataset record.,qa_team
+2022-03-09,Security Reports,Medium,Deprecated,Customer Data dataset record.,qa_team
+2023-10-31,Sales,Low,Deprecated,Customer Data dataset record.,system
+2022-07-31,Financial,High,Under Review,IT Logs dataset record.,admin
+2023-06-10,HR,High,Active,Financial dataset record.,system
+2023-01-14,Financial,Medium,Archived,Sales dataset record.,analyst01
+2022-09-30,Security Reports,Critical,Archived,HR dataset record.,system
+2024-01-26,Security Reports,Medium,Archived,IT Logs dataset record.,analyst01
+2022-02-02,HR,Critical,Archived,Security Reports dataset record.,admin
+2023-06-22,Security Reports,High,Deprecated,HR dataset record.,analyst01
+2022-09-22,HR,Medium,Archived,Financial dataset record.,admin
+2023-04-30,Financial,Critical,Archived,Security Reports dataset record.,qa_team
+2022-10-11,Security Reports,High,Deprecated,Sales dataset record.,data_engineer
+2022-02-19,Customer Data,Medium,Deprecated,Sales dataset record.,system
+2023-11-25,Financial,Critical,Deprecated,Sales dataset record.,admin
+2023-04-01,Security Reports,High,Under Review,Security Reports dataset record.,data_engineer
+2024-04-08,IT Logs,Low,Under Review,Customer Data dataset record.,data_engineer
+2023-06-15,IT Logs,High,Deprecated,Security Reports dataset record.,qa_team
+2022-08-19,Customer Data,Critical,Under Review,Customer Data dataset record.,data_engineer
+2022-08-17,HR,Critical,Deprecated,Customer Data dataset record.,analyst01
+2022-01-13,Financial,Critical,Active,Customer Data dataset record.,data_engineer
+2023-12-28,Financial,High,Archived,Sales dataset record.,data_engineer
+2022-12-14,Customer Data,High,Active,HR dataset record.,data_engineer
+2024-05-12,HR,Medium,Active,HR dataset record.,analyst01
+2024-05-07,Financial,Critical,Active,Financial dataset record.,qa_team
+2024-01-20,Financial,Critical,Archived,Security Reports dataset record.,admin
+2022-05-12,IT Logs,High,Deprecated,IT Logs dataset record.,system
+2023-09-18,IT Logs,Low,Active,IT Logs dataset record.,system
+2022-12-02,Customer Data,High,Active,HR dataset record.,data_engineer
+2022-01-01,IT Logs,High,Archived,IT Logs dataset record.,analyst01
+2024-02-04,Customer Data,Low,Archived,HR dataset record.,system
+2022-12-22,HR,High,Under Review,HR dataset record.,admin
+2024-04-13,Security Reports,High,Active,IT Logs dataset record.,qa_team
+2022-06-24,Financial,High,Deprecated,IT Logs dataset record.,system
+2022-10-25,Financial,Low,Deprecated,Financial dataset record.,admin
+2022-06-18,Financial,Critical,Under Review,Security Reports dataset record.,admin
+2022-10-01,IT Logs,High,Under Review,Sales dataset record.,qa_team
+2023-01-28,Security Reports,High,Under Review,Customer Data dataset record.,admin
+2022-02-06,Sales,High,Archived,Customer Data dataset record.,data_engineer
+2024-02-07,HR,Medium,Active,IT Logs dataset record.,system
+2022-03-29,HR,High,Deprecated,Sales dataset record.,admin
+2022-11-10,Customer Data,High,Under Review,Sales dataset record.,data_engineer
+2024-05-03,Security Reports,High,Deprecated,Security Reports dataset record.,analyst01
+2024-03-25,IT Logs,Critical,Under Review,Financial dataset record.,qa_team
+2022-10-21,Security Reports,Low,Archived,Customer Data dataset record.,admin
+2022-04-18,Security Reports,Medium,Active,Customer Data dataset record.,system
+2022-08-13,Sales,High,Archived,Security Reports dataset record.,data_engineer
+2022-06-18,IT Logs,Low,Deprecated,Financial dataset record.,data_engineer
+2022-02-05,Customer Data,Medium,Archived,Customer Data dataset record.,qa_team
+2023-06-16,IT Logs,Low,Active,HR dataset record.,data_engineer
+2023-03-15,Sales,Critical,Archived,Security Reports dataset record.,qa_team
+2022-05-06,Financial,Medium,Under Review,HR dataset record.,data_engineer
+2022-12-06,HR,High,Archived,Financial dataset record.,data_engineer
+2022-11-08,Sales,High,Under Review,IT Logs dataset record.,analyst01
+2022-03-25,Security Reports,Medium,Under Review,Sales dataset record.,data_engineer
+2022-07-25,HR,Critical,Under Review,Financial dataset record.,qa_team
+2023-09-13,Customer Data,High,Archived,Financial dataset record.,admin
+2022-04-01,Customer Data,Medium,Deprecated,Sales dataset record.,analyst01
+2022-10-08,IT Logs,Low,Archived,Financial dataset record.,analyst01
+2022-09-21,Financial,Critical,Archived,Customer Data dataset record.,data_engineer
+2023-02-01,Security Reports,High,Archived,HR dataset record.,system
+2024-06-10,Security Reports,Low,Under Review,Security Reports dataset record.,analyst01
+2024-02-12,IT Logs,High,Deprecated,Sales dataset record.,qa_team
+2023-04-21,Sales,Critical,Archived,Security Reports dataset record.,analyst01
+2022-05-06,Financial,Critical,Archived,Financial dataset record.,system
+2024-03-24,Security Reports,High,Active,IT Logs dataset record.,data_engineer
+2023-06-14,Customer Data,Critical,Archived,IT Logs dataset record.,analyst01
+2024-05-25,Financial,High,Deprecated,Customer Data dataset record.,admin
+2023-07-20,IT Logs,Critical,Active,HR dataset record.,system
+2023-11-06,IT Logs,Low,Archived,Customer Data dataset record.,data_engineer
+2023-09-05,Sales,Critical,Archived,Customer Data dataset record.,qa_team
+2023-11-28,Financial,Critical,Under Review,Security Reports dataset record.,analyst01
+2023-03-15,Sales,Medium,Active,Financial dataset record.,data_engineer
+2023-05-14,HR,Critical,Active,HR dataset record.,admin
+2022-04-23,Financial,Medium,Under Review,IT Logs dataset record.,qa_team
+2024-04-30,Security Reports,Low,Deprecated,Financial dataset record.,analyst01
+2023-11-16,Sales,High,Active,HR dataset record.,qa_team
+2023-08-16,IT Logs,Low,Archived,HR dataset record.,admin
+2023-04-21,Sales,Low,Under Review,Customer Data dataset record.,qa_team
+2022-07-02,Customer Data,High,Under Review,Sales dataset record.,admin
+2023-04-20,HR,High,Active,Financial dataset record.,qa_team
+2023-11-04,Financial,High,Deprecated,HR dataset record.,analyst01
+2023-08-10,Sales,Medium,Archived,IT Logs dataset record.,system
+2024-05-08,Financial,Low,Active,IT Logs dataset record.,admin
+2022-05-22,HR,Medium,Deprecated,Customer Data dataset record.,admin
+2022-11-25,Financial,Medium,Archived,Sales dataset record.,admin
+2022-10-16,HR,Critical,Under Review,Sales dataset record.,qa_team
+2022-11-12,Security Reports,Medium,Deprecated,IT Logs dataset record.,data_engineer
+2024-05-09,IT Logs,High,Active,Financial dataset record.,system
+2023-02-22,Financial,Medium,Deprecated,Financial dataset record.,data_engineer
+2023-02-20,IT Logs,Medium,Active,Sales dataset record.,analyst01
+2023-12-03,HR,Critical,Deprecated,Sales dataset record.,admin
+2022-07-09,Financial,Medium,Archived,Sales dataset record.,data_engineer
+2024-06-11,Financial,Medium,Active,Sales dataset record.,analyst01
+2022-06-20,Financial,High,Active,Security Reports dataset record.,data_engineer
+2022-11-22,Security Reports,Medium,Active,IT Logs dataset record.,data_engineer
+2023-04-08,Financial,Medium,Active,Customer Data dataset record.,admin
+2022-10-01,Financial,Medium,Under Review,Security Reports dataset record.,system
+2022-05-06,Customer Data,Low,Deprecated,Sales dataset record.,analyst01
+2022-03-08,Customer Data,Medium,Active,HR dataset record.,admin
+2023-05-11,Financial,Low,Archived,HR dataset record.,system
+2023-08-21,Security Reports,Medium,Active,Security Reports dataset record.,data_engineer
+2022-10-26,Customer Data,Medium,Deprecated,Security Reports dataset record.,qa_team
+2024-01-11,HR,Medium,Under Review,Security Reports dataset record.,analyst01
+2024-03-25,Security Reports,Medium,Active,HR dataset record.,system
+2024-03-22,Security Reports,Low,Under Review,Customer Data dataset record.,admin
+2024-02-03,Security Reports,Low,Deprecated,IT Logs dataset record.,admin
+2024-03-01,Customer Data,Medium,Deprecated,Financial dataset record.,analyst01
+2022-07-19,HR,High,Archived,Financial dataset record.,admin
+2022-03-05,HR,High,Archived,Sales dataset record.,system
+2023-11-01,Financial,High,Active,HR dataset record.,data_engineer
+2024-05-18,Security Reports,Medium,Under Review,Security Reports dataset record.,data_engineer
+2023-08-31,IT Logs,Low,Active,IT Logs dataset record.,admin
+2022-11-30,Financial,Low,Archived,Security Reports dataset record.,analyst01
+2023-08-17,HR,Medium,Deprecated,Sales dataset record.,admin
+2022-02-13,IT Logs,High,Active,Security Reports dataset record.,system
+2023-03-04,IT Logs,High,Deprecated,HR dataset record.,data_engineer
+2022-12-16,HR,Low,Deprecated,Sales dataset record.,data_engineer
+2023-04-11,Customer Data,Low,Deprecated,Customer Data dataset record.,qa_team
+2023-10-10,IT Logs,Critical,Active,Sales dataset record.,analyst01
+2022-12-05,IT Logs,Low,Under Review,Customer Data dataset record.,data_engineer
+2022-07-10,Financial,Medium,Active,Financial dataset record.,analyst01
+2022-04-21,Financial,Low,Deprecated,Financial dataset record.,admin
+2024-02-11,HR,Critical,Archived,Security Reports dataset record.,system
+2023-03-29,Security Reports,Critical,Under Review,Financial dataset record.,admin
+2022-05-20,Customer Data,Medium,Deprecated,Financial dataset record.,qa_team
+2023-01-26,Sales,Critical,Active,Financial dataset record.,admin
+2023-11-23,Sales,Medium,Archived,IT Logs dataset record.,data_engineer
+2023-02-03,Sales,Medium,Archived,IT Logs dataset record.,qa_team
+2023-05-21,Customer Data,Critical,Under Review,Security Reports dataset record.,admin
+2023-11-11,Financial,Low,Deprecated,Security Reports dataset record.,system
+2023-06-30,HR,Medium,Deprecated,Customer Data dataset record.,analyst01
+2023-10-22,IT Logs,High,Deprecated,Customer Data dataset record.,analyst01
+2022-05-27,Financial,Low,Under Review,Security Reports dataset record.,system
+2022-12-16,Financial,Critical,Active,IT Logs dataset record.,qa_team
+2022-06-27,HR,Low,Deprecated,Security Reports dataset record.,admin
+2024-06-07,HR,High,Deprecated,HR dataset record.,admin
+2024-01-22,Customer Data,Medium,Archived,Sales dataset record.,admin
+2022-10-06,Financial,Critical,Archived,IT Logs dataset record.,admin
+2023-03-04,IT Logs,Low,Deprecated,HR dataset record.,analyst01
+2024-01-26,Sales,Critical,Archived,Sales dataset record.,data_engineer
+2023-11-17,Financial,High,Archived,Financial dataset record.,qa_team
+2022-07-20,Customer Data,Critical,Deprecated,IT Logs dataset record.,data_engineer
+2022-03-04,HR,Critical,Deprecated,HR dataset record.,admin
+2022-03-24,Sales,Critical,Deprecated,Financial dataset record.,system
+2024-06-10,Sales,Medium,Under Review,Customer Data dataset record.,analyst01
+2022-12-27,Financial,Critical,Under Review,HR dataset record.,qa_team
+2024-02-28,Sales,Medium,Under Review,IT Logs dataset record.,data_engineer
+2024-01-05,HR,Medium,Deprecated,Security Reports dataset record.,qa_team
+2023-10-22,Customer Data,Critical,Active,Sales dataset record.,analyst01
+2022-06-12,Security Reports,Critical,Archived,Sales dataset record.,admin
+2023-09-13,Security Reports,Medium,Archived,Sales dataset record.,qa_team
+2022-09-16,Security Reports,High,Active,Sales dataset record.,system
+2023-05-04,Security Reports,Medium,Active,Financial dataset record.,qa_team
+2023-07-04,Customer Data,Critical,Deprecated,IT Logs dataset record.,admin
+2024-04-17,IT Logs,High,Archived,HR dataset record.,system
+2023-07-09,Sales,Low,Deprecated,Financial dataset record.,data_engineer
+2023-07-04,Sales,Critical,Active,Customer Data dataset record.,data_engineer
+2022-05-16,Financial,Medium,Under Review,HR dataset record.,analyst01
+2022-11-01,Customer Data,Critical,Deprecated,Customer Data dataset record.,admin
+2024-05-29,Customer Data,Low,Archived,IT Logs dataset record.,data_engineer
+2023-07-17,Customer Data,Critical,Archived,Sales dataset record.,system
+2023-08-08,Financial,Medium,Deprecated,Security Reports dataset record.,qa_team
+2024-02-27,Customer Data,Medium,Active,Customer Data dataset record.,analyst01
+2022-12-16,Financial,Critical,Deprecated,Security Reports dataset record.,analyst01
+2022-05-21,Security Reports,Low,Under Review,Financial dataset record.,system
+2022-07-29,Customer Data,Low,Deprecated,Customer Data dataset record.,data_engineer
+2024-03-17,Customer Data,Medium,Deprecated,Sales dataset record.,data_engineer
+2023-04-06,Customer Data,High,Archived,IT Logs dataset record.,admin
+2023-12-23,IT Logs,Critical,Archived,HR dataset record.,analyst01
+2023-12-17,HR,Critical,Active,Customer Data dataset record.,data_engineer
+2022-12-29,Security Reports,High,Under Review,Sales dataset record.,admin
+2022-02-08,Customer Data,High,Archived,Financial dataset record.,qa_team
+2022-10-04,HR,Critical,Under Review,Financial dataset record.,analyst01
+2024-03-15,Financial,Medium,Under Review,Sales dataset record.,qa_team
+2024-01-09,HR,Critical,Archived,Customer Data dataset record.,analyst01
+2024-01-09,Customer Data,Medium,Deprecated,IT Logs dataset record.,analyst01
+2023-10-03,Security Reports,Critical,Active,Security Reports dataset record.,qa_team
+2024-03-15,Customer Data,High,Deprecated,Security Reports dataset record.,analyst01
+2022-12-27,Security Reports,Critical,Under Review,Sales dataset record.,data_engineer
+2023-11-14,HR,High,Active,IT Logs dataset record.,admin
+2023-04-27,Financial,Low,Under Review,HR dataset record.,admin
+2023-06-10,Customer Data,High,Deprecated,Security Reports dataset record.,data_engineer
+2023-02-19,Security Reports,Medium,Deprecated,Financial dataset record.,analyst01
+2022-11-11,HR,Critical,Archived,Customer Data dataset record.,qa_team
+2022-07-15,Security Reports,Low,Archived,Financial dataset record.,analyst01
+2022-08-12,Sales,Medium,Deprecated,HR dataset record.,qa_team
+2022-06-14,Sales,Low,Deprecated,Customer Data dataset record.,system
+2022-10-27,Security Reports,Low,Active,HR dataset record.,admin
+2023-07-20,IT Logs,Critical,Under Review,Customer Data dataset record.,data_engineer
+2023-09-07,IT Logs,Medium,Deprecated,Financial dataset record.,system
+2022-02-21,Customer Data,Medium,Under Review,IT Logs dataset record.,qa_team
+2023-05-22,Security Reports,Low,Under Review,Customer Data dataset record.,analyst01
+2022-07-10,Financial,High,Under Review,HR dataset record.,qa_team
+2022-08-27,HR,High,Under Review,Security Reports dataset record.,data_engineer
+2023-12-27,Financial,High,Under Review,Sales dataset record.,admin
+2023-05-04,Sales,Medium,Under Review,Sales dataset record.,data_engineer
+2024-05-17,IT Logs,High,Active,HR dataset record.,analyst01
+2022-10-08,Sales,Critical,Active,Customer Data dataset record.,analyst01
+2024-05-15,Security Reports,Low,Deprecated,Financial dataset record.,system
+2022-06-05,Security Reports,Low,Deprecated,Sales dataset record.,qa_team
+2023-03-21,IT Logs,High,Active,Security Reports dataset record.,admin
+2024-02-09,IT Logs,Critical,Archived,Sales dataset record.,qa_team
+2022-01-17,IT Logs,Low,Active,Financial dataset record.,analyst01
+2022-08-09,Customer Data,Medium,Archived,Security Reports dataset record.,system
+2022-08-28,Customer Data,High,Deprecated,Security Reports dataset record.,system
+2023-05-08,Security Reports,Low,Deprecated,Security Reports dataset record.,analyst01
+2024-01-25,IT Logs,Critical,Under Review,Sales dataset record.,system
+2023-12-09,Security Reports,High,Active,Security Reports dataset record.,analyst01
+2024-03-01,IT Logs,High,Active,Sales dataset record.,system
+2023-07-12,Security Reports,Low,Active,HR dataset record.,qa_team
+2022-06-19,Security Reports,High,Archived,Security Reports dataset record.,qa_team
+2024-02-21,IT Logs,Medium,Archived,IT Logs dataset record.,data_engineer
+2022-11-21,Security Reports,Low,Under Review,HR dataset record.,admin
+2022-04-12,Customer Data,Low,Deprecated,Security Reports dataset record.,system
+2023-10-24,Customer Data,Medium,Deprecated,HR dataset record.,admin
+2022-07-30,IT Logs,High,Archived,Financial dataset record.,qa_team
+2023-06-20,Financial,Critical,Active,Financial dataset record.,qa_team
+2023-02-21,Customer Data,High,Archived,Customer Data dataset record.,admin
+2023-07-22,Sales,Low,Deprecated,Security Reports dataset record.,qa_team
+2022-11-08,Customer Data,Critical,Under Review,Security Reports dataset record.,qa_team
+2022-07-21,Financial,High,Under Review,IT Logs dataset record.,qa_team
+2022-11-07,Financial,Medium,Under Review,IT Logs dataset record.,qa_team
+2024-05-09,Sales,Critical,Under Review,HR dataset record.,qa_team
+2023-12-25,HR,Critical,Active,Financial dataset record.,system
+2022-09-04,HR,Low,Archived,HR dataset record.,qa_team
+2022-01-10,Customer Data,Medium,Deprecated,IT Logs dataset record.,system
+2022-12-26,IT Logs,Critical,Archived,Security Reports dataset record.,qa_team
+2022-10-02,Financial,Low,Active,Security Reports dataset record.,system
+2024-01-10,Security Reports,High,Under Review,Security Reports dataset record.,system
+2023-04-09,IT Logs,Critical,Archived,Security Reports dataset record.,qa_team
+2024-01-13,Financial,High,Active,HR dataset record.,system
+2023-04-17,Customer Data,Medium,Archived,Customer Data dataset record.,qa_team
+2023-11-11,Customer Data,High,Archived,Security Reports dataset record.,analyst01
+2022-03-20,Security Reports,Medium,Archived,Financial dataset record.,system
+2024-06-04,IT Logs,High,Deprecated,Sales dataset record.,data_engineer
+2022-05-21,Security Reports,High,Under Review,Security Reports dataset record.,data_engineer
+2023-01-10,Sales,Critical,Active,Customer Data dataset record.,analyst01
+2024-03-30,HR,Critical,Active,Security Reports dataset record.,qa_team
+2023-01-24,Sales,High,Archived,IT Logs dataset record.,analyst01
+2022-06-09,Financial,Low,Under Review,IT Logs dataset record.,analyst01
+2024-02-14,Sales,Critical,Active,Sales dataset record.,analyst01
+2024-03-08,Financial,Critical,Deprecated,HR dataset record.,system
+2023-04-05,Customer Data,Medium,Under Review,Customer Data dataset record.,analyst01
+2022-03-03,IT Logs,Medium,Under Review,Sales dataset record.,qa_team
+2023-07-27,IT Logs,Medium,Deprecated,Sales dataset record.,analyst01
+2023-03-26,IT Logs,Low,Active,Customer Data dataset record.,analyst01
+2023-12-01,Customer Data,Low,Under Review,Customer Data dataset record.,qa_team
+2023-01-31,Financial,Critical,Active,Security Reports dataset record.,data_engineer
+2022-07-01,Sales,Low,Under Review,Security Reports dataset record.,admin
+2024-04-02,Security Reports,Critical,Active,HR dataset record.,analyst01
+2023-04-02,Customer Data,Low,Deprecated,IT Logs dataset record.,system
+2022-07-09,Financial,High,Under Review,Security Reports dataset record.,system
+2023-11-03,Customer Data,Low,Active,Security Reports dataset record.,analyst01
+2024-06-18,Sales,Medium,Under Review,Security Reports dataset record.,qa_team
+2022-12-04,IT Logs,Critical,Deprecated,Security Reports dataset record.,analyst01
+2023-12-09,Sales,Critical,Active,HR dataset record.,qa_team
+2023-06-29,IT Logs,Low,Active,IT Logs dataset record.,admin
+2023-11-20,HR,Critical,Active,Customer Data dataset record.,qa_team
+2023-03-22,Customer Data,High,Archived,Financial dataset record.,system
+2023-01-26,Customer Data,Critical,Deprecated,Customer Data dataset record.,analyst01
+2024-06-06,Sales,Critical,Under Review,Security Reports dataset record.,analyst01
+2023-11-11,HR,Critical,Under Review,Security Reports dataset record.,system
+2024-03-21,IT Logs,Low,Deprecated,Sales dataset record.,data_engineer
+2023-12-23,Sales,High,Under Review,Financial dataset record.,system
+2022-10-18,HR,Low,Archived,IT Logs dataset record.,system
+2022-05-29,Security Reports,Critical,Active,Sales dataset record.,admin
+2023-05-06,HR,Low,Archived,IT Logs dataset record.,data_engineer
+2023-04-11,HR,Low,Archived,IT Logs dataset record.,qa_team
+2022-09-01,Financial,Medium,Deprecated,Financial dataset record.,system
+2023-01-18,Financial,Critical,Under Review,HR dataset record.,system
+2022-07-04,IT Logs,High,Active,IT Logs dataset record.,qa_team
+2024-06-17,Financial,Low,Deprecated,Financial dataset record.,data_engineer
+2024-05-06,Financial,High,Deprecated,Sales dataset record.,admin
+2023-05-28,HR,Low,Archived,HR dataset record.,data_engineer
+2022-12-14,Customer Data,Medium,Deprecated,HR dataset record.,system
+2023-10-16,Security Reports,Medium,Deprecated,HR dataset record.,data_engineer
+2023-02-15,HR,High,Archived,HR dataset record.,qa_team
+2022-05-13,Financial,Low,Deprecated,Sales dataset record.,qa_team
+2024-05-13,HR,High,Under Review,Financial dataset record.,analyst01
+2024-01-28,HR,Critical,Archived,HR dataset record.,data_engineer
+2023-12-07,Customer Data,High,Deprecated,Sales dataset record.,system
+2022-08-27,Customer Data,Medium,Deprecated,Sales dataset record.,system
+2024-02-11,Sales,Low,Deprecated,HR dataset record.,admin
+2022-10-02,IT Logs,Low,Active,Customer Data dataset record.,data_engineer
+2022-12-22,Financial,High,Under Review,Security Reports dataset record.,data_engineer
+2023-03-21,Customer Data,Medium,Archived,Security Reports dataset record.,admin
+2022-01-26,IT Logs,High,Active,Security Reports dataset record.,admin
+2023-04-07,Security Reports,Medium,Deprecated,Sales dataset record.,qa_team
+2022-06-30,Financial,High,Under Review,Financial dataset record.,analyst01
+2022-03-04,Sales,Medium,Under Review,Sales dataset record.,system
+2024-05-19,Customer Data,High,Active,IT Logs dataset record.,data_engineer
+2023-09-19,HR,Low,Archived,IT Logs dataset record.,admin
+2023-01-01,Financial,Medium,Under Review,Customer Data dataset record.,qa_team
+2023-10-13,Customer Data,Medium,Under Review,HR dataset record.,analyst01
+2023-10-03,HR,Low,Deprecated,IT Logs dataset record.,system
+2022-03-17,Financial,Low,Active,Financial dataset record.,admin
+2022-03-21,IT Logs,Low,Deprecated,Financial dataset record.,system
+2023-04-10,Customer Data,Low,Deprecated,Customer Data dataset record.,data_engineer
+2022-05-25,HR,High,Archived,Sales dataset record.,analyst01
+2022-07-13,Financial,Low,Under Review,Customer Data dataset record.,qa_team
+2022-12-17,Financial,Critical,Under Review,IT Logs dataset record.,data_engineer
+2024-05-13,Sales,Low,Under Review,Customer Data dataset record.,system
+2024-06-13,Security Reports,Critical,Archived,Financial dataset record.,system
+2022-03-06,HR,Medium,Active,HR dataset record.,admin
+2024-02-27,HR,Medium,Archived,Customer Data dataset record.,admin
+2024-03-01,HR,Critical,Under Review,Security Reports dataset record.,data_engineer
+2023-05-20,Customer Data,High,Under Review,Financial dataset record.,analyst01
+2023-05-16,Security Reports,Medium,Deprecated,Sales dataset record.,data_engineer
+2022-08-01,HR,Medium,Under Review,IT Logs dataset record.,admin
+2023-08-15,Sales,Critical,Archived,Financial dataset record.,admin
+2023-03-08,Security Reports,Critical,Archived,HR dataset record.,admin
+2022-05-08,Customer Data,High,Archived,Sales dataset record.,data_engineer
+2023-01-28,Financial,Medium,Active,Customer Data dataset record.,qa_team
+2024-01-13,Sales,Medium,Deprecated,HR dataset record.,qa_team
+2023-11-17,IT Logs,Low,Active,Financial dataset record.,data_engineer
+2023-12-07,Financial,Critical,Active,Customer Data dataset record.,admin
+2022-12-05,Financial,Medium,Deprecated,Security Reports dataset record.,admin
+2022-05-12,Sales,High,Active,IT Logs dataset record.,analyst01
+2024-01-01,Security Reports,Critical,Deprecated,Financial dataset record.,qa_team
+2023-08-19,IT Logs,Critical,Archived,Customer Data dataset record.,qa_team
+2022-08-24,Sales,Critical,Active,Customer Data dataset record.,system
+2022-07-23,Security Reports,Medium,Deprecated,Financial dataset record.,analyst01
+2022-01-23,Sales,Critical,Active,Security Reports dataset record.,system
+2023-06-23,IT Logs,High,Active,Financial dataset record.,analyst01
+2022-08-04,Sales,High,Deprecated,Sales dataset record.,qa_team
+2022-08-09,Security Reports,Low,Active,Financial dataset record.,analyst01
+2024-03-31,Security Reports,Medium,Active,Security Reports dataset record.,system
+2023-10-22,HR,Critical,Active,Security Reports dataset record.,analyst01
+2022-12-22,IT Logs,Medium,Active,Financial dataset record.,analyst01
+2024-03-30,HR,High,Under Review,IT Logs dataset record.,system
+2023-01-25,Sales,Medium,Archived,Sales dataset record.,analyst01
+2023-07-01,IT Logs,Low,Under Review,IT Logs dataset record.,data_engineer
+2022-05-18,Financial,Medium,Archived,Customer Data dataset record.,data_engineer
+2022-09-21,Financial,Low,Deprecated,HR dataset record.,admin
+2022-02-27,IT Logs,Low,Active,IT Logs dataset record.,qa_team
+2023-11-22,HR,Low,Archived,Security Reports dataset record.,system
+2024-04-27,Financial,Critical,Under Review,HR dataset record.,admin
+2022-01-07,IT Logs,High,Archived,Security Reports dataset record.,system
+2023-10-30,Sales,Medium,Under Review,Security Reports dataset record.,qa_team
+2022-07-16,Financial,Medium,Deprecated,Security Reports dataset record.,system
+2023-01-12,Security Reports,High,Under Review,IT Logs dataset record.,admin
+2022-01-21,Sales,High,Active,IT Logs dataset record.,analyst01
+2022-05-14,Security Reports,High,Deprecated,Customer Data dataset record.,admin
+2023-03-30,HR,Medium,Active,IT Logs dataset record.,admin
+2022-12-11,Customer Data,Medium,Archived,Sales dataset record.,system
+2023-05-25,Customer Data,Medium,Under Review,IT Logs dataset record.,analyst01
+2022-01-07,Security Reports,High,Archived,Financial dataset record.,admin
+2023-03-29,Customer Data,Low,Under Review,Sales dataset record.,analyst01
+2023-01-02,HR,High,Under Review,IT Logs dataset record.,admin
+2023-06-05,Sales,Low,Under Review,Sales dataset record.,analyst01
+2023-06-10,Security Reports,Medium,Deprecated,Financial dataset record.,system
+2023-12-13,Customer Data,Low,Archived,Financial dataset record.,data_engineer
+2023-01-16,HR,Critical,Active,HR dataset record.,qa_team
+2022-12-30,Financial,Medium,Under Review,IT Logs dataset record.,system
+2023-02-17,Security Reports,High,Deprecated,Sales dataset record.,analyst01
+2023-08-02,Financial,High,Deprecated,Financial dataset record.,admin
+2022-12-09,Customer Data,High,Archived,Financial dataset record.,analyst01
+2023-02-09,Financial,Critical,Archived,Customer Data dataset record.,analyst01
+2022-03-26,Customer Data,Critical,Deprecated,IT Logs dataset record.,qa_team
+2023-08-13,Financial,Low,Archived,Security Reports dataset record.,admin
+2024-06-14,Sales,High,Archived,Security Reports dataset record.,analyst01
+2024-04-16,Security Reports,Critical,Under Review,HR dataset record.,admin
+2022-05-21,Customer Data,Critical,Archived,Customer Data dataset record.,data_engineer
+2023-02-24,Financial,Medium,Archived,Customer Data dataset record.,admin
+2023-05-07,Financial,Medium,Archived,IT Logs dataset record.,system
+2022-04-15,Security Reports,High,Archived,Financial dataset record.,analyst01
+2023-05-26,HR,Medium,Archived,IT Logs dataset record.,data_engineer
+2024-06-04,Sales,High,Under Review,Sales dataset record.,analyst01
+2023-04-05,HR,High,Under Review,Customer Data dataset record.,system
+2023-12-12,Customer Data,Critical,Archived,Financial dataset record.,analyst01
+2023-01-03,Financial,Low,Active,Sales dataset record.,system
+2023-08-17,Security Reports,Low,Deprecated,Customer Data dataset record.,analyst01
+2022-12-19,Security Reports,Medium,Deprecated,Sales dataset record.,data_engineer
+2022-07-11,Customer Data,Medium,Active,HR dataset record.,analyst01
+2022-08-22,Security Reports,Medium,Active,IT Logs dataset record.,data_engineer
+2023-09-24,Customer Data,Low,Archived,Financial dataset record.,system
+2024-04-24,Security Reports,High,Active,HR dataset record.,data_engineer
+2023-04-22,Sales,Low,Active,Customer Data dataset record.,admin
+2022-12-29,IT Logs,Medium,Active,Customer Data dataset record.,data_engineer
+2024-02-05,Customer Data,Medium,Active,IT Logs dataset record.,data_engineer
+2022-02-26,Financial,Low,Deprecated,IT Logs dataset record.,qa_team
+2022-05-12,Customer Data,Medium,Archived,Security Reports dataset record.,system
+2022-06-21,IT Logs,Medium,Deprecated,Security Reports dataset record.,analyst01
+2022-10-03,Sales,Low,Deprecated,Customer Data dataset record.,system
+2023-11-16,IT Logs,Low,Active,Security Reports dataset record.,qa_team
+2022-11-20,Security Reports,Medium,Archived,Customer Data dataset record.,admin
+2023-03-20,Sales,Medium,Active,Customer Data dataset record.,data_engineer
+2022-02-07,HR,Low,Active,HR dataset record.,qa_team
+2024-01-22,Financial,High,Active,Sales dataset record.,admin
+2022-02-20,Security Reports,High,Under Review,Security Reports dataset record.,data_engineer
+2022-02-20,IT Logs,High,Active,Customer Data dataset record.,admin
+2022-02-10,IT Logs,High,Deprecated,Sales dataset record.,system
+2024-04-06,Financial,High,Deprecated,Financial dataset record.,admin
+2023-04-23,Financial,High,Deprecated,Customer Data dataset record.,admin
+2022-05-27,Customer Data,High,Archived,IT Logs dataset record.,data_engineer
+2022-11-19,IT Logs,High,Deprecated,Customer Data dataset record.,analyst01
+2024-02-19,HR,High,Under Review,HR dataset record.,admin
+2023-03-07,Security Reports,High,Archived,IT Logs dataset record.,data_engineer
+2022-11-07,Sales,Medium,Under Review,Customer Data dataset record.,system
+2024-01-22,HR,Medium,Archived,Sales dataset record.,data_engineer
+2022-09-07,HR,Critical,Archived,Security Reports dataset record.,qa_team
+2022-06-30,Financial,High,Deprecated,IT Logs dataset record.,system
+2024-03-30,Security Reports,Critical,Under Review,Security Reports dataset record.,system
+2023-02-23,IT Logs,Critical,Under Review,IT Logs dataset record.,analyst01
+2023-09-01,Security Reports,Medium,Deprecated,Financial dataset record.,system
+2022-10-04,IT Logs,High,Under Review,Sales dataset record.,analyst01
+2023-12-12,Sales,Critical,Deprecated,IT Logs dataset record.,qa_team
+2024-03-04,Sales,High,Deprecated,Customer Data dataset record.,analyst01
+2024-03-04,IT Logs,Critical,Archived,Sales dataset record.,admin
+2024-02-19,IT Logs,Critical,Active,Financial dataset record.,admin
+2022-05-19,IT Logs,Low,Active,IT Logs dataset record.,admin
+2022-04-28,Financial,High,Active,Security Reports dataset record.,data_engineer
+2024-05-29,HR,Medium,Under Review,Security Reports dataset record.,admin
+2022-06-28,Sales,Medium,Under Review,Financial dataset record.,admin
+2023-05-14,IT Logs,Critical,Under Review,Financial dataset record.,admin
+2023-08-27,Sales,High,Archived,HR dataset record.,admin
+2024-04-29,HR,Medium,Archived,Financial dataset record.,analyst01
+2022-02-14,Sales,Low,Archived,IT Logs dataset record.,data_engineer
+2023-07-15,Customer Data,Medium,Active,Customer Data dataset record.,analyst01
+2022-09-11,Customer Data,Critical,Archived,Sales dataset record.,qa_team
+2022-10-14,Financial,Critical,Active,Security Reports dataset record.,admin
+2022-04-17,Customer Data,Low,Active,Sales dataset record.,qa_team
+2023-10-07,HR,Low,Deprecated,Security Reports dataset record.,analyst01
+2023-09-15,Sales,Critical,Active,Customer Data dataset record.,data_engineer
+2023-03-07,Security Reports,Critical,Under Review,Security Reports dataset record.,system
