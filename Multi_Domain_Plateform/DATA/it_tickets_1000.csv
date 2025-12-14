@@ -1,0 +1,1001 @@
+date,ticket_type,severity,status,description,reported_by
+2023-10-08,Security Alert,Medium,In Progress,Network Issue reported by user.,system
+2024-04-10,Hardware Failure,Medium,Open,Email Problem reported by user.,employee02
+2024-03-19,Network Issue,Medium,Closed,Hardware Failure reported by user.,it_support
+2023-09-17,VPN Access,Critical,Closed,System Outage reported by user.,system
+2022-11-21,Network Issue,Critical,Open,Network Issue reported by user.,employee02
+2022-02-27,Hardware Failure,Critical,Open,VPN Access reported by user.,employee02
+2022-10-13,Network Issue,Critical,Closed,System Outage reported by user.,admin
+2023-03-15,Software Install,High,Open,System Outage reported by user.,security_team
+2024-01-18,Password Reset,Medium,Closed,System Outage reported by user.,employee01
+2022-01-23,Security Alert,Critical,In Progress,Password Reset reported by user.,security_team
+2023-12-20,System Outage,Low,Closed,Email Problem reported by user.,it_support
+2024-03-16,System Outage,High,Open,Security Alert reported by user.,admin
+2022-02-26,VPN Access,Low,Open,Email Problem reported by user.,security_team
+2023-05-23,Email Problem,Low,Open,Security Alert reported by user.,system
+2023-11-26,System Outage,Medium,Open,VPN Access reported by user.,admin
+2022-08-18,Software Install,Critical,In Progress,Email Problem reported by user.,it_support
+2022-11-25,Password Reset,High,In Progress,System Outage reported by user.,system
+2023-06-04,Network Issue,Low,In Progress,Security Alert reported by user.,employee01
+2023-08-26,Network Issue,Low,Resolved,System Outage reported by user.,it_support
+2022-01-14,Security Alert,Medium,Resolved,System Outage reported by user.,security_team
+2023-01-20,VPN Access,Critical,Closed,Password Reset reported by user.,employee01
+2022-06-08,VPN Access,Critical,Open,Hardware Failure reported by user.,employee01
+2022-03-21,Password Reset,Low,In Progress,Security Alert reported by user.,employee02
+2023-04-25,Hardware Failure,Medium,In Progress,Hardware Failure reported by user.,employee02
+2024-02-21,VPN Access,Medium,Open,Software Install reported by user.,employee01
+2023-06-13,Hardware Failure,Critical,Open,Network Issue reported by user.,employee02
+2023-09-21,System Outage,Critical,Open,VPN Access reported by user.,employee02
+2024-03-02,Security Alert,Medium,In Progress,VPN Access reported by user.,admin
+2022-11-04,Network Issue,Critical,Closed,Password Reset reported by user.,employee02
+2024-06-08,Network Issue,Low,Closed,Password Reset reported by user.,security_team
+2022-12-16,System Outage,Medium,In Progress,System Outage reported by user.,employee01
+2023-12-31,Hardware Failure,Critical,Resolved,Network Issue reported by user.,system
+2022-08-17,Password Reset,Low,Resolved,Hardware Failure reported by user.,employee01
+2022-06-20,System Outage,Low,In Progress,VPN Access reported by user.,employee02
+2024-02-10,System Outage,Medium,Resolved,System Outage reported by user.,it_support
+2023-07-26,System Outage,High,Resolved,Security Alert reported by user.,admin
+2023-07-21,Hardware Failure,Medium,Open,VPN Access reported by user.,employee02
+2022-06-20,Email Problem,Low,In Progress,Password Reset reported by user.,security_team
+2022-05-09,Security Alert,Critical,Closed,Network Issue reported by user.,employee01
+2023-01-08,VPN Access,Critical,Open,Network Issue reported by user.,admin
+2022-11-29,Software Install,Medium,Closed,Hardware Failure reported by user.,security_team
+2024-05-04,Network Issue,Low,Closed,Security Alert reported by user.,employee02
+2023-01-13,Network Issue,Medium,Resolved,Software Install reported by user.,it_support
+2022-10-23,Password Reset,Medium,Resolved,Software Install reported by user.,security_team
+2023-06-08,Software Install,Critical,Open,Hardware Failure reported by user.,system
+2022-06-15,Software Install,Low,In Progress,VPN Access reported by user.,it_support
+2023-01-08,Email Problem,Low,Closed,Security Alert reported by user.,it_support
+2022-09-27,Password Reset,High,In Progress,VPN Access reported by user.,employee01
+2022-09-09,Hardware Failure,Critical,Open,System Outage reported by user.,security_team
+2023-02-10,Software Install,High,Closed,Network Issue reported by user.,admin
+2023-12-25,System Outage,High,Open,VPN Access reported by user.,system
+2022-09-14,Software Install,Medium,Resolved,Email Problem reported by user.,security_team
+2022-11-26,Network Issue,Low,Resolved,Hardware Failure reported by user.,security_team
+2023-07-11,Email Problem,Critical,Resolved,Security Alert reported by user.,admin
+2023-11-01,Email Problem,High,Resolved,Network Issue reported by user.,security_team
+2022-05-12,Password Reset,High,Open,Password Reset reported by user.,employee02
+2022-04-12,Software Install,High,Open,Network Issue reported by user.,employee01
+2023-03-15,Hardware Failure,High,Resolved,System Outage reported by user.,employee01
+2022-05-24,System Outage,Critical,Open,Email Problem reported by user.,employee01
+2024-04-22,Email Problem,Low,In Progress,Email Problem reported by user.,employee02
+2022-01-13,Software Install,Medium,Closed,Software Install reported by user.,it_support
+2024-03-26,Software Install,High,Closed,System Outage reported by user.,employee02
+2024-04-10,Hardware Failure,Low,Closed,Email Problem reported by user.,security_team
+2022-10-10,VPN Access,Medium,In Progress,Password Reset reported by user.,security_team
+2023-05-11,Software Install,Low,Open,Password Reset reported by user.,employee02
+2022-04-01,Security Alert,High,Closed,Software Install reported by user.,admin
+2024-03-21,Software Install,Medium,In Progress,System Outage reported by user.,employee02
+2024-05-28,Email Problem,Critical,Resolved,Password Reset reported by user.,it_support
+2022-07-16,Security Alert,Critical,Closed,VPN Access reported by user.,security_team
+2024-02-28,Software Install,Low,Open,System Outage reported by user.,employee02
+2022-11-12,Security Alert,Critical,Open,System Outage reported by user.,it_support
+2022-04-11,Password Reset,High,Open,Hardware Failure reported by user.,system
+2023-04-04,Email Problem,Critical,Open,Hardware Failure reported by user.,admin
+2022-11-28,Security Alert,Critical,Resolved,Hardware Failure reported by user.,employee01
+2022-09-19,Hardware Failure,High,Resolved,Password Reset reported by user.,admin
+2023-06-27,VPN Access,High,Closed,VPN Access reported by user.,admin
+2023-04-30,Security Alert,Medium,Open,Network Issue reported by user.,security_team
+2023-06-10,Network Issue,Medium,In Progress,Security Alert reported by user.,employee02
+2022-01-29,Email Problem,Low,Open,Hardware Failure reported by user.,employee01
+2022-09-27,VPN Access,Low,Closed,Security Alert reported by user.,employee02
+2023-04-21,System Outage,Low,In Progress,Email Problem reported by user.,it_support
+2024-05-21,Hardware Failure,Medium,Open,Hardware Failure reported by user.,it_support
+2024-01-21,Security Alert,Critical,Resolved,Security Alert reported by user.,admin
+2024-04-07,Security Alert,Medium,Closed,VPN Access reported by user.,system
+2024-06-01,VPN Access,Low,In Progress,Software Install reported by user.,employee01
+2022-05-22,VPN Access,Low,Open,System Outage reported by user.,admin
+2022-12-28,Email Problem,Critical,Closed,Email Problem reported by user.,security_team
+2023-04-26,Security Alert,Medium,Open,Hardware Failure reported by user.,admin
+2023-06-14,System Outage,High,Closed,VPN Access reported by user.,it_support
+2022-05-25,Security Alert,Medium,Resolved,Software Install reported by user.,employee01
+2023-12-11,System Outage,Medium,Resolved,System Outage reported by user.,employee01
+2023-12-29,Email Problem,Critical,Closed,Network Issue reported by user.,admin
+2023-09-07,System Outage,Critical,Resolved,Software Install reported by user.,it_support
+2023-10-18,Security Alert,Medium,Closed,Security Alert reported by user.,employee02
+2023-09-22,Security Alert,Critical,Closed,Software Install reported by user.,employee01
+2022-06-05,Email Problem,Low,In Progress,Hardware Failure reported by user.,security_team
+2022-05-24,Email Problem,Critical,Open,Network Issue reported by user.,admin
+2022-06-29,Email Problem,Critical,In Progress,Password Reset reported by user.,it_support
+2023-10-31,Network Issue,Critical,Open,Password Reset reported by user.,employee02
+2022-07-17,Software Install,Low,Closed,Network Issue reported by user.,it_support
+2023-07-08,Password Reset,High,Resolved,System Outage reported by user.,employee02
+2023-05-30,Security Alert,High,Closed,VPN Access reported by user.,admin
+2022-03-17,Email Problem,Low,Closed,Email Problem reported by user.,admin
+2023-09-10,Password Reset,Critical,Resolved,Security Alert reported by user.,admin
+2023-11-16,Hardware Failure,High,Closed,Password Reset reported by user.,security_team
+2023-10-20,Security Alert,Medium,Closed,Security Alert reported by user.,system
+2024-04-02,Network Issue,Medium,Resolved,Password Reset reported by user.,system
+2023-08-13,Hardware Failure,Medium,Open,Software Install reported by user.,it_support
+2023-04-20,Network Issue,Medium,In Progress,Password Reset reported by user.,security_team
+2023-02-03,Hardware Failure,Medium,In Progress,Security Alert reported by user.,security_team
+2023-03-27,VPN Access,High,In Progress,System Outage reported by user.,it_support
+2023-06-27,System Outage,Medium,In Progress,System Outage reported by user.,system
+2023-08-16,VPN Access,Critical,Resolved,Security Alert reported by user.,employee02
+2023-11-13,Email Problem,Medium,Closed,System Outage reported by user.,employee02
+2024-06-06,Software Install,Low,Open,Email Problem reported by user.,it_support
+2022-12-29,System Outage,Critical,Resolved,Network Issue reported by user.,it_support
+2023-07-09,System Outage,High,Open,Security Alert reported by user.,system
+2022-06-23,System Outage,High,In Progress,Software Install reported by user.,admin
+2023-03-04,System Outage,High,Open,VPN Access reported by user.,security_team
+2024-02-08,System Outage,Low,Open,System Outage reported by user.,admin
+2022-02-02,System Outage,High,In Progress,Password Reset reported by user.,admin
+2023-07-03,VPN Access,Low,Open,System Outage reported by user.,admin
+2023-07-11,System Outage,Medium,In Progress,Hardware Failure reported by user.,employee02
+2022-11-11,Security Alert,Low,Open,Email Problem reported by user.,employee01
+2022-05-08,Network Issue,High,Closed,Hardware Failure reported by user.,security_team
+2024-06-08,Software Install,Critical,Resolved,Security Alert reported by user.,employee01
+2023-04-25,Email Problem,Medium,In Progress,Email Problem reported by user.,employee02
+2023-04-07,VPN Access,Medium,Closed,System Outage reported by user.,admin
+2024-01-15,Software Install,High,Resolved,VPN Access reported by user.,admin
+2024-03-07,Password Reset,High,In Progress,Network Issue reported by user.,security_team
+2022-09-10,Hardware Failure,Low,Open,VPN Access reported by user.,employee02
+2022-09-15,Password Reset,High,Resolved,VPN Access reported by user.,employee01
+2024-02-05,Password Reset,Low,Resolved,Password Reset reported by user.,employee02
+2023-07-28,Software Install,Medium,Closed,Password Reset reported by user.,admin
+2022-07-01,Hardware Failure,Critical,Resolved,Security Alert reported by user.,system
+2022-04-05,Hardware Failure,Critical,Resolved,VPN Access reported by user.,it_support
+2022-11-26,Software Install,High,Open,Email Problem reported by user.,admin
+2023-07-08,Software Install,High,In Progress,Software Install reported by user.,employee02
+2022-02-14,Email Problem,High,In Progress,Email Problem reported by user.,admin
+2023-12-30,Hardware Failure,Medium,In Progress,Hardware Failure reported by user.,it_support
+2023-02-04,Network Issue,Medium,In Progress,Network Issue reported by user.,employee01
+2022-12-19,Hardware Failure,High,In Progress,Email Problem reported by user.,employee01
+2024-01-28,Hardware Failure,High,Closed,Security Alert reported by user.,employee01
+2022-11-11,System Outage,Critical,Resolved,Hardware Failure reported by user.,system
+2022-03-09,Hardware Failure,High,Closed,Security Alert reported by user.,employee01
+2022-07-01,Software Install,Medium,Closed,VPN Access reported by user.,security_team
+2023-07-11,VPN Access,Critical,Open,Hardware Failure reported by user.,admin
+2023-11-29,Security Alert,High,Resolved,Network Issue reported by user.,security_team
+2022-06-28,Network Issue,High,Open,Password Reset reported by user.,system
+2022-09-25,System Outage,Medium,Open,Hardware Failure reported by user.,employee02
+2023-05-12,System Outage,Medium,Open,Hardware Failure reported by user.,system
+2023-11-17,Password Reset,High,Closed,VPN Access reported by user.,it_support
+2023-11-09,System Outage,High,Resolved,Hardware Failure reported by user.,employee02
+2023-07-25,Network Issue,Low,Closed,Network Issue reported by user.,employee01
+2024-05-20,System Outage,Critical,Resolved,Hardware Failure reported by user.,it_support
+2023-07-04,Email Problem,Critical,In Progress,System Outage reported by user.,security_team
+2022-09-15,System Outage,Low,In Progress,Password Reset reported by user.,employee01
+2023-03-25,Security Alert,Critical,Closed,Network Issue reported by user.,admin
+2022-01-17,System Outage,High,Resolved,Password Reset reported by user.,system
+2022-03-21,Hardware Failure,High,Closed,Network Issue reported by user.,admin
+2022-08-24,Network Issue,Medium,Closed,Password Reset reported by user.,admin
+2023-03-01,VPN Access,High,Resolved,Security Alert reported by user.,security_team
+2024-02-17,VPN Access,Critical,Resolved,Hardware Failure reported by user.,security_team
+2022-01-22,Security Alert,Critical,In Progress,VPN Access reported by user.,system
+2022-01-20,VPN Access,Critical,Open,Hardware Failure reported by user.,employee01
+2022-04-23,System Outage,Medium,Open,Network Issue reported by user.,system
+2023-08-12,System Outage,High,Open,Email Problem reported by user.,system
+2023-04-20,Network Issue,Medium,In Progress,Password Reset reported by user.,employee01
+2022-08-03,Network Issue,Medium,Resolved,System Outage reported by user.,system
+2022-12-19,Email Problem,High,In Progress,System Outage reported by user.,security_team
+2024-05-23,Network Issue,Critical,In Progress,Email Problem reported by user.,it_support
+2023-07-11,VPN Access,Critical,Resolved,Password Reset reported by user.,system
+2023-07-16,Security Alert,Low,In Progress,System Outage reported by user.,system
+2023-05-31,Network Issue,Medium,Closed,Hardware Failure reported by user.,admin
+2023-12-20,Email Problem,High,Open,Network Issue reported by user.,employee01
+2023-07-18,Password Reset,Medium,In Progress,Network Issue reported by user.,employee01
+2023-05-02,Email Problem,Low,In Progress,Security Alert reported by user.,it_support
+2022-12-23,Network Issue,Medium,Closed,Email Problem reported by user.,it_support
+2023-05-29,Hardware Failure,Low,Resolved,Hardware Failure reported by user.,admin
+2022-04-19,Email Problem,Medium,Open,Hardware Failure reported by user.,system
+2024-04-27,Email Problem,Medium,In Progress,Security Alert reported by user.,admin
+2023-01-31,Software Install,Critical,Closed,Password Reset reported by user.,employee02
+2023-01-26,VPN Access,Critical,Closed,Security Alert reported by user.,admin
+2023-11-21,Email Problem,Critical,Resolved,Password Reset reported by user.,admin
+2023-06-15,Network Issue,Medium,Resolved,Security Alert reported by user.,employee02
+2022-02-16,Password Reset,Low,Resolved,Password Reset reported by user.,security_team
+2024-04-16,Email Problem,Critical,In Progress,Hardware Failure reported by user.,security_team
+2024-02-08,Software Install,High,In Progress,System Outage reported by user.,admin
+2022-07-20,VPN Access,Low,Resolved,Email Problem reported by user.,system
+2023-12-19,Password Reset,Low,Closed,VPN Access reported by user.,employee01
+2022-12-28,Email Problem,Critical,Resolved,Email Problem reported by user.,employee02
+2024-03-05,Security Alert,Critical,Resolved,Security Alert reported by user.,security_team
+2022-12-27,Password Reset,Medium,Resolved,VPN Access reported by user.,employee02
+2023-03-06,Hardware Failure,Medium,Closed,Software Install reported by user.,employee02
+2024-02-12,Email Problem,Critical,Open,VPN Access reported by user.,employee02
+2022-06-14,Hardware Failure,High,Closed,System Outage reported by user.,system
+2024-06-08,Network Issue,High,In Progress,VPN Access reported by user.,system
+2023-06-27,Software Install,Critical,In Progress,Security Alert reported by user.,employee01
+2023-05-27,VPN Access,High,Open,Email Problem reported by user.,employee01
+2023-10-15,System Outage,Low,In Progress,Email Problem reported by user.,admin
+2022-12-31,System Outage,Low,Open,Hardware Failure reported by user.,system
+2022-06-08,Network Issue,Medium,Closed,Software Install reported by user.,system
+2022-09-20,System Outage,High,Open,Hardware Failure reported by user.,admin
+2023-09-13,VPN Access,Low,Resolved,Hardware Failure reported by user.,employee02
+2022-04-29,System Outage,Critical,Closed,Security Alert reported by user.,system
+2024-05-21,Network Issue,Critical,Open,Email Problem reported by user.,employee02
+2022-04-21,System Outage,Medium,Resolved,Hardware Failure reported by user.,admin
+2023-12-29,Security Alert,High,Open,Security Alert reported by user.,system
+2022-02-03,Network Issue,High,Open,Security Alert reported by user.,employee01
+2024-03-05,Password Reset,Low,Open,Hardware Failure reported by user.,employee01
+2023-10-21,Hardware Failure,Critical,Closed,Security Alert reported by user.,employee01
+2023-10-03,VPN Access,Low,Closed,System Outage reported by user.,it_support
+2023-08-06,Security Alert,Low,Resolved,System Outage reported by user.,security_team
+2024-04-06,Security Alert,Critical,Closed,Password Reset reported by user.,employee02
+2023-07-25,Password Reset,High,Open,Software Install reported by user.,employee02
+2023-05-07,Hardware Failure,Low,Closed,Email Problem reported by user.,employee02
+2023-07-10,Security Alert,Medium,In Progress,Network Issue reported by user.,security_team
+2022-02-07,Network Issue,Critical,Closed,Password Reset reported by user.,system
+2023-12-06,Password Reset,Medium,Open,System Outage reported by user.,it_support
+2022-06-21,Network Issue,Critical,Closed,Security Alert reported by user.,admin
+2024-03-20,Email Problem,Critical,Open,Hardware Failure reported by user.,employee02
+2023-05-20,Email Problem,Critical,Open,System Outage reported by user.,security_team
+2022-08-04,Network Issue,Critical,Open,Password Reset reported by user.,it_support
+2024-01-13,Password Reset,Critical,Open,VPN Access reported by user.,employee01
+2023-01-28,Security Alert,Low,Open,Software Install reported by user.,security_team
+2022-03-15,System Outage,Low,Closed,Network Issue reported by user.,it_support
+2023-02-06,System Outage,High,In Progress,Email Problem reported by user.,admin
+2023-03-24,Network Issue,High,In Progress,Security Alert reported by user.,employee01
+2022-05-10,VPN Access,Critical,Open,Software Install reported by user.,it_support
+2022-03-03,System Outage,High,Resolved,Email Problem reported by user.,admin
+2024-02-12,VPN Access,Critical,In Progress,Software Install reported by user.,system
+2024-05-19,Password Reset,Low,Open,Password Reset reported by user.,system
+2023-08-31,Software Install,Low,Resolved,Network Issue reported by user.,system
+2024-05-14,Email Problem,Low,Resolved,Hardware Failure reported by user.,security_team
+2023-02-07,Email Problem,Medium,In Progress,VPN Access reported by user.,employee02
+2023-09-11,Hardware Failure,High,Open,Software Install reported by user.,it_support
+2023-07-11,Password Reset,Low,In Progress,Hardware Failure reported by user.,security_team
+2023-11-04,Hardware Failure,Medium,Closed,Security Alert reported by user.,employee02
+2023-07-01,System Outage,High,In Progress,Email Problem reported by user.,employee01
+2023-10-30,Security Alert,Critical,Open,Software Install reported by user.,employee02
+2023-06-16,Email Problem,Low,Closed,Password Reset reported by user.,admin
+2022-12-17,Hardware Failure,High,Closed,VPN Access reported by user.,employee01
+2023-09-16,System Outage,Low,Resolved,Software Install reported by user.,security_team
+2022-09-07,Security Alert,Medium,In Progress,Hardware Failure reported by user.,system
+2022-01-18,System Outage,Low,Closed,Software Install reported by user.,system
+2022-03-13,Password Reset,Low,Open,Hardware Failure reported by user.,security_team
+2022-01-11,Network Issue,High,In Progress,Email Problem reported by user.,system
+2023-02-21,Software Install,Medium,Open,Hardware Failure reported by user.,employee02
+2022-10-13,Security Alert,Critical,Open,Security Alert reported by user.,admin
+2024-05-23,Software Install,High,Resolved,Security Alert reported by user.,it_support
+2024-04-26,Network Issue,Critical,Resolved,Hardware Failure reported by user.,system
+2022-04-08,System Outage,High,Resolved,Security Alert reported by user.,system
+2023-12-09,System Outage,High,Closed,Hardware Failure reported by user.,it_support
+2024-04-26,Security Alert,High,In Progress,Hardware Failure reported by user.,system
+2023-08-31,Password Reset,Critical,Open,Network Issue reported by user.,admin
+2022-10-28,Security Alert,High,Closed,Network Issue reported by user.,employee02
+2022-09-29,System Outage,Low,In Progress,Security Alert reported by user.,it_support
+2023-08-08,Password Reset,Low,Resolved,Security Alert reported by user.,system
+2023-02-10,Password Reset,Low,Closed,VPN Access reported by user.,admin
+2022-07-23,System Outage,Medium,Closed,Security Alert reported by user.,employee01
+2023-03-22,Email Problem,High,In Progress,Hardware Failure reported by user.,security_team
+2022-03-12,System Outage,Medium,Open,Software Install reported by user.,admin
+2024-06-10,System Outage,Low,Closed,Email Problem reported by user.,admin
+2023-04-26,Email Problem,Critical,Closed,Security Alert reported by user.,security_team
+2023-11-17,Password Reset,Low,Open,Email Problem reported by user.,it_support
+2023-11-30,Password Reset,Medium,In Progress,Hardware Failure reported by user.,admin
+2022-01-16,Security Alert,High,Closed,Hardware Failure reported by user.,security_team
+2023-08-05,Hardware Failure,High,Resolved,Hardware Failure reported by user.,employee02
+2023-09-22,Security Alert,Critical,In Progress,VPN Access reported by user.,admin
+2022-10-15,VPN Access,High,Closed,System Outage reported by user.,admin
+2022-02-01,Email Problem,Critical,Closed,Password Reset reported by user.,employee01
+2023-06-16,Security Alert,Critical,In Progress,Security Alert reported by user.,security_team
+2023-03-25,Network Issue,Medium,Closed,Security Alert reported by user.,employee01
+2024-03-13,Hardware Failure,Critical,In Progress,Network Issue reported by user.,employee02
+2022-08-11,Email Problem,Medium,Open,System Outage reported by user.,security_team
+2024-03-01,Password Reset,Critical,In Progress,System Outage reported by user.,system
+2024-06-02,Email Problem,Critical,Closed,Software Install reported by user.,admin
+2022-07-19,Hardware Failure,Critical,In Progress,Hardware Failure reported by user.,admin
+2024-01-22,Password Reset,Low,Open,Network Issue reported by user.,admin
+2022-11-13,Software Install,Low,In Progress,Security Alert reported by user.,employee02
+2022-09-06,Email Problem,Medium,In Progress,System Outage reported by user.,it_support
+2023-01-28,Security Alert,Low,Resolved,Network Issue reported by user.,employee02
+2023-11-15,VPN Access,High,Resolved,VPN Access reported by user.,system
+2023-09-19,Email Problem,High,In Progress,Security Alert reported by user.,admin
+2023-10-27,VPN Access,Low,In Progress,Hardware Failure reported by user.,system
+2022-04-11,Software Install,Critical,Closed,Security Alert reported by user.,employee02
+2023-02-18,Email Problem,Critical,In Progress,Software Install reported by user.,system
+2022-02-17,Network Issue,Critical,In Progress,Hardware Failure reported by user.,it_support
+2023-04-08,Security Alert,High,Closed,Security Alert reported by user.,admin
+2023-09-13,VPN Access,High,Closed,Password Reset reported by user.,employee01
+2022-07-23,Password Reset,Low,Closed,VPN Access reported by user.,it_support
+2024-02-23,Security Alert,Critical,In Progress,Email Problem reported by user.,system
+2023-11-10,Network Issue,Low,Open,Security Alert reported by user.,system
+2024-05-03,Password Reset,Critical,Resolved,Email Problem reported by user.,employee01
+2022-04-23,System Outage,Low,Open,Software Install reported by user.,it_support
+2024-05-27,Email Problem,High,Resolved,System Outage reported by user.,admin
+2023-12-13,System Outage,Low,Open,Network Issue reported by user.,employee02
+2023-06-23,System Outage,Medium,In Progress,System Outage reported by user.,employee01
+2023-09-24,Security Alert,Low,In Progress,Software Install reported by user.,admin
+2023-03-06,System Outage,Critical,In Progress,Security Alert reported by user.,employee02
+2022-11-30,Security Alert,Medium,Closed,Email Problem reported by user.,system
+2024-05-15,Password Reset,Medium,Closed,Software Install reported by user.,it_support
+2023-04-11,Email Problem,High,Closed,Hardware Failure reported by user.,employee02
+2022-06-09,VPN Access,High,Open,VPN Access reported by user.,employee01
+2023-07-30,System Outage,Medium,Resolved,Security Alert reported by user.,it_support
+2023-01-21,Software Install,Low,Open,System Outage reported by user.,admin
+2023-01-07,System Outage,Critical,Closed,Password Reset reported by user.,employee01
+2023-02-05,VPN Access,High,In Progress,Security Alert reported by user.,system
+2022-03-25,Hardware Failure,Critical,Resolved,VPN Access reported by user.,employee02
+2023-07-07,Password Reset,High,Open,Password Reset reported by user.,employee01
+2022-04-19,Security Alert,High,Open,Hardware Failure reported by user.,system
+2022-05-02,Email Problem,High,Closed,System Outage reported by user.,employee01
+2023-11-06,Password Reset,Medium,Resolved,Password Reset reported by user.,employee01
+2022-01-31,Hardware Failure,Low,Closed,System Outage reported by user.,security_team
+2023-10-01,System Outage,High,Closed,VPN Access reported by user.,security_team
+2022-08-29,System Outage,High,Resolved,Network Issue reported by user.,admin
+2023-01-08,Password Reset,High,Resolved,Software Install reported by user.,security_team
+2024-05-08,Network Issue,High,Resolved,Network Issue reported by user.,employee02
+2023-11-30,Network Issue,Low,Closed,Software Install reported by user.,system
+2022-11-08,Password Reset,Medium,Resolved,Security Alert reported by user.,employee01
+2023-02-04,Software Install,Critical,Resolved,System Outage reported by user.,system
+2022-10-19,Security Alert,High,Resolved,Software Install reported by user.,security_team
+2022-11-27,Security Alert,Critical,Resolved,System Outage reported by user.,employee01
+2023-03-15,VPN Access,Medium,In Progress,Network Issue reported by user.,employee01
+2024-05-10,Security Alert,Critical,Closed,Email Problem reported by user.,employee02
+2023-06-20,VPN Access,Medium,Open,Security Alert reported by user.,employee01
+2023-07-05,System Outage,Low,Closed,System Outage reported by user.,security_team
+2022-10-21,VPN Access,Critical,Closed,Email Problem reported by user.,employee02
+2023-02-11,Software Install,Critical,Open,VPN Access reported by user.,system
+2023-01-07,Network Issue,Low,Open,Email Problem reported by user.,it_support
+2023-03-06,Security Alert,High,In Progress,Security Alert reported by user.,it_support
+2022-06-30,Email Problem,Critical,In Progress,Security Alert reported by user.,employee02
+2022-10-29,Password Reset,Medium,In Progress,Software Install reported by user.,it_support
+2023-09-04,Email Problem,Critical,Open,Software Install reported by user.,it_support
+2023-02-18,Software Install,Low,Closed,Software Install reported by user.,security_team
+2023-06-07,System Outage,Medium,In Progress,Password Reset reported by user.,employee01
+2023-08-04,System Outage,High,Open,Email Problem reported by user.,security_team
+2022-05-10,Email Problem,Medium,In Progress,VPN Access reported by user.,system
+2023-10-20,Hardware Failure,High,Closed,System Outage reported by user.,employee01
+2022-07-20,Hardware Failure,Critical,Open,Hardware Failure reported by user.,system
+2024-05-29,VPN Access,High,Closed,Hardware Failure reported by user.,employee02
+2023-03-29,Security Alert,Low,In Progress,Email Problem reported by user.,security_team
+2022-01-04,Email Problem,Critical,Closed,Security Alert reported by user.,employee01
+2022-06-13,System Outage,Low,Closed,Network Issue reported by user.,security_team
+2024-03-29,Password Reset,Medium,Resolved,System Outage reported by user.,employee01
+2022-04-27,Software Install,Low,In Progress,Software Install reported by user.,system
+2023-04-14,Network Issue,Critical,Closed,Password Reset reported by user.,employee01
+2022-11-25,VPN Access,Low,Resolved,Hardware Failure reported by user.,system
+2023-04-23,Software Install,Medium,Closed,System Outage reported by user.,it_support
+2023-12-11,Hardware Failure,Critical,In Progress,System Outage reported by user.,employee02
+2023-01-24,Hardware Failure,Critical,Closed,Software Install reported by user.,admin
+2024-01-14,Network Issue,Medium,Closed,Security Alert reported by user.,employee02
+2023-02-27,Email Problem,High,Open,Security Alert reported by user.,employee02
+2023-05-30,Software Install,Critical,Open,VPN Access reported by user.,employee02
+2022-06-22,Email Problem,High,Resolved,Hardware Failure reported by user.,employee01
+2022-12-19,Hardware Failure,Critical,Resolved,Hardware Failure reported by user.,employee01
+2022-04-05,System Outage,High,Resolved,System Outage reported by user.,employee01
+2022-02-20,System Outage,Low,Closed,Hardware Failure reported by user.,employee01
+2024-05-14,Email Problem,Medium,In Progress,Hardware Failure reported by user.,it_support
+2023-06-22,Security Alert,High,Open,Password Reset reported by user.,employee01
+2023-09-11,Password Reset,High,Resolved,VPN Access reported by user.,admin
+2022-12-13,Email Problem,Low,In Progress,Security Alert reported by user.,security_team
+2024-04-23,System Outage,Low,Resolved,Hardware Failure reported by user.,employee01
+2023-05-31,VPN Access,High,Closed,System Outage reported by user.,admin
+2023-08-17,System Outage,Medium,Resolved,Software Install reported by user.,employee02
+2022-07-03,System Outage,Medium,Closed,System Outage reported by user.,admin
+2023-04-11,Software Install,Medium,In Progress,Email Problem reported by user.,admin
+2024-05-24,Software Install,Critical,Open,Security Alert reported by user.,admin
+2023-03-05,Software Install,High,Resolved,Security Alert reported by user.,employee02
+2022-12-11,Email Problem,Low,Closed,VPN Access reported by user.,employee01
+2023-12-25,Software Install,High,In Progress,Password Reset reported by user.,it_support
+2024-02-28,Hardware Failure,Medium,Closed,Hardware Failure reported by user.,admin
+2022-02-05,System Outage,High,Open,Email Problem reported by user.,employee01
+2023-05-12,Hardware Failure,High,Closed,Password Reset reported by user.,employee02
+2023-08-31,Password Reset,Critical,Open,Security Alert reported by user.,employee01
+2024-02-24,Network Issue,Medium,Closed,Security Alert reported by user.,admin
+2022-05-05,Network Issue,Critical,Closed,Software Install reported by user.,employee01
+2022-07-08,Security Alert,Medium,In Progress,VPN Access reported by user.,system
+2022-12-17,Security Alert,Medium,Open,Password Reset reported by user.,it_support
+2023-04-14,Network Issue,High,In Progress,VPN Access reported by user.,it_support
+2022-10-02,Security Alert,Critical,In Progress,Password Reset reported by user.,security_team
+2022-10-01,System Outage,Medium,Open,System Outage reported by user.,employee01
+2022-01-10,Password Reset,High,Resolved,Security Alert reported by user.,employee01
+2023-05-22,Network Issue,Critical,In Progress,Password Reset reported by user.,employee02
+2024-01-06,Password Reset,Medium,Open,Security Alert reported by user.,admin
+2023-07-02,Password Reset,Medium,In Progress,VPN Access reported by user.,it_support
+2023-04-17,System Outage,High,Closed,Email Problem reported by user.,admin
+2023-10-06,Network Issue,Medium,In Progress,Hardware Failure reported by user.,system
+2023-08-08,Email Problem,Low,Closed,Email Problem reported by user.,it_support
+2022-10-02,Hardware Failure,Low,Closed,Network Issue reported by user.,employee01
+2022-12-05,Email Problem,High,Closed,Hardware Failure reported by user.,system
+2023-12-02,Hardware Failure,High,Resolved,Hardware Failure reported by user.,it_support
+2024-04-03,Hardware Failure,Critical,Resolved,Security Alert reported by user.,admin
+2022-01-08,Security Alert,Medium,Open,Software Install reported by user.,it_support
+2024-02-04,System Outage,High,In Progress,Network Issue reported by user.,admin
+2023-10-21,System Outage,Critical,Resolved,Password Reset reported by user.,employee02
+2023-09-30,Software Install,High,Resolved,Hardware Failure reported by user.,employee02
+2023-02-22,Security Alert,Medium,Resolved,System Outage reported by user.,it_support
+2022-08-05,Password Reset,High,In Progress,Software Install reported by user.,employee01
+2023-01-15,Email Problem,High,Closed,Network Issue reported by user.,system
+2023-02-09,Email Problem,Low,In Progress,System Outage reported by user.,employee02
+2024-01-11,Email Problem,Low,In Progress,Security Alert reported by user.,system
+2022-03-07,Email Problem,Medium,Open,Email Problem reported by user.,admin
+2023-08-21,VPN Access,High,Closed,Hardware Failure reported by user.,security_team
+2022-08-17,System Outage,Critical,Open,VPN Access reported by user.,it_support
+2024-04-23,Network Issue,High,Open,System Outage reported by user.,employee02
+2022-02-21,Network Issue,Medium,Resolved,Network Issue reported by user.,security_team
+2023-03-01,Software Install,Critical,In Progress,Email Problem reported by user.,admin
+2022-12-23,Security Alert,Low,Resolved,VPN Access reported by user.,admin
+2024-05-20,Software Install,Low,Closed,Security Alert reported by user.,admin
+2023-01-26,Hardware Failure,Critical,In Progress,Email Problem reported by user.,it_support
+2023-09-19,Hardware Failure,High,Resolved,Software Install reported by user.,security_team
+2023-10-20,Password Reset,Medium,Closed,Hardware Failure reported by user.,system
+2022-06-03,Hardware Failure,Critical,Resolved,Software Install reported by user.,admin
+2022-11-03,Password Reset,Medium,Resolved,Software Install reported by user.,security_team
+2022-09-29,Password Reset,Low,In Progress,Network Issue reported by user.,security_team
+2023-06-18,Network Issue,High,Closed,VPN Access reported by user.,employee01
+2024-06-16,Software Install,Low,Resolved,Email Problem reported by user.,employee02
+2023-06-23,System Outage,Low,Resolved,Password Reset reported by user.,it_support
+2023-05-11,VPN Access,Low,Open,VPN Access reported by user.,it_support
+2022-04-18,VPN Access,High,Closed,Password Reset reported by user.,system
+2022-08-17,VPN Access,Critical,Open,VPN Access reported by user.,security_team
+2023-11-01,Password Reset,Critical,Open,VPN Access reported by user.,employee02
+2024-02-07,VPN Access,Low,Closed,Software Install reported by user.,admin
+2023-11-27,System Outage,Critical,In Progress,Network Issue reported by user.,employee01
+2022-02-13,Password Reset,Medium,Resolved,Email Problem reported by user.,employee01
+2024-03-29,Hardware Failure,High,Closed,Software Install reported by user.,employee01
+2023-01-25,Security Alert,Low,Resolved,Network Issue reported by user.,admin
+2022-09-02,VPN Access,Critical,In Progress,VPN Access reported by user.,employee02
+2022-05-11,Hardware Failure,Medium,Closed,Password Reset reported by user.,admin
+2023-10-14,Email Problem,Low,Resolved,Email Problem reported by user.,system
+2022-01-07,System Outage,Low,Open,VPN Access reported by user.,system
+2022-12-18,Password Reset,High,Open,Email Problem reported by user.,employee02
+2023-08-31,Email Problem,Low,Resolved,Password Reset reported by user.,security_team
+2022-09-08,Password Reset,Critical,In Progress,Software Install reported by user.,admin
+2023-01-23,VPN Access,Low,Closed,System Outage reported by user.,employee01
+2022-11-24,VPN Access,Medium,Closed,Hardware Failure reported by user.,admin
+2023-06-07,VPN Access,High,Resolved,Security Alert reported by user.,admin
+2022-05-22,Software Install,Medium,In Progress,VPN Access reported by user.,system
+2024-04-04,Email Problem,Critical,In Progress,VPN Access reported by user.,system
+2024-01-10,VPN Access,Low,Closed,Network Issue reported by user.,admin
+2022-09-01,Network Issue,Low,Resolved,Network Issue reported by user.,system
+2023-12-26,Hardware Failure,Low,Open,Software Install reported by user.,employee01
+2022-03-21,Software Install,Medium,Closed,Password Reset reported by user.,it_support
+2023-05-20,Software Install,Low,In Progress,VPN Access reported by user.,admin
+2023-03-20,Network Issue,Medium,In Progress,Security Alert reported by user.,employee02
+2023-02-22,Software Install,Medium,Open,Hardware Failure reported by user.,employee02
+2023-12-22,Hardware Failure,High,Closed,Network Issue reported by user.,it_support
+2022-09-10,Hardware Failure,Medium,Open,VPN Access reported by user.,it_support
+2023-09-07,Security Alert,Critical,In Progress,Email Problem reported by user.,admin
+2023-04-24,System Outage,High,In Progress,Software Install reported by user.,employee01
+2023-07-25,VPN Access,Critical,In Progress,Email Problem reported by user.,system
+2023-07-13,VPN Access,High,Closed,System Outage reported by user.,admin
+2024-03-20,Network Issue,Medium,Closed,Network Issue reported by user.,system
+2024-06-16,Security Alert,High,Closed,Hardware Failure reported by user.,admin
+2022-05-25,Password Reset,Medium,Closed,Email Problem reported by user.,security_team
+2022-06-02,Network Issue,Medium,Resolved,Network Issue reported by user.,system
+2023-11-16,Password Reset,Medium,Resolved,VPN Access reported by user.,employee02
+2024-05-20,Network Issue,High,Closed,Hardware Failure reported by user.,employee02
+2024-02-05,Hardware Failure,Medium,Open,Password Reset reported by user.,security_team
+2023-12-12,System Outage,Medium,Open,Security Alert reported by user.,admin
+2023-03-02,Security Alert,Medium,Open,Hardware Failure reported by user.,security_team
+2024-04-30,Password Reset,Critical,In Progress,Security Alert reported by user.,security_team
+2022-08-04,Password Reset,Critical,In Progress,Password Reset reported by user.,security_team
+2023-07-03,Email Problem,Medium,Open,System Outage reported by user.,it_support
+2023-02-24,Hardware Failure,Critical,Resolved,VPN Access reported by user.,employee01
+2023-08-29,Network Issue,High,Closed,Security Alert reported by user.,employee02
+2023-11-05,Security Alert,Critical,Closed,System Outage reported by user.,admin
+2024-03-31,VPN Access,Critical,Closed,VPN Access reported by user.,admin
+2022-03-06,Security Alert,Medium,Open,Password Reset reported by user.,system
+2024-03-30,VPN Access,Critical,In Progress,Security Alert reported by user.,admin
+2022-06-08,Email Problem,Low,Resolved,VPN Access reported by user.,admin
+2022-02-25,Password Reset,Critical,Closed,Hardware Failure reported by user.,admin
+2023-10-31,System Outage,High,In Progress,System Outage reported by user.,admin
+2023-08-24,Software Install,Low,In Progress,Network Issue reported by user.,it_support
+2023-07-29,Software Install,Low,Resolved,Security Alert reported by user.,employee02
+2023-02-08,VPN Access,Medium,Resolved,VPN Access reported by user.,security_team
+2023-07-29,System Outage,High,In Progress,Email Problem reported by user.,security_team
+2022-04-06,System Outage,Critical,Open,Email Problem reported by user.,it_support
+2023-11-28,System Outage,Low,Open,Network Issue reported by user.,employee02
+2022-05-22,System Outage,Critical,Closed,VPN Access reported by user.,admin
+2022-04-04,Email Problem,Critical,Closed,Hardware Failure reported by user.,security_team
+2023-06-22,Email Problem,High,Resolved,Network Issue reported by user.,security_team
+2022-02-26,Network Issue,Low,Closed,VPN Access reported by user.,it_support
+2022-07-04,VPN Access,Medium,In Progress,Hardware Failure reported by user.,system
+2024-06-05,Hardware Failure,High,Resolved,Security Alert reported by user.,system
+2023-11-11,Hardware Failure,Low,In Progress,Security Alert reported by user.,employee01
+2022-05-13,Network Issue,Critical,In Progress,Email Problem reported by user.,admin
+2023-02-16,VPN Access,Medium,Open,Software Install reported by user.,employee02
+2023-09-13,VPN Access,Critical,Open,Network Issue reported by user.,employee01
+2023-06-17,Hardware Failure,Critical,Resolved,Email Problem reported by user.,employee02
+2024-01-29,Hardware Failure,Critical,In Progress,System Outage reported by user.,employee01
+2022-03-08,Software Install,Low,Resolved,System Outage reported by user.,employee02
+2024-03-16,VPN Access,Critical,Closed,Email Problem reported by user.,system
+2024-05-14,System Outage,Medium,Closed,Email Problem reported by user.,it_support
+2022-02-27,Password Reset,High,Resolved,System Outage reported by user.,employee02
+2022-09-09,Hardware Failure,Critical,Closed,Network Issue reported by user.,employee01
+2023-07-25,Hardware Failure,Low,Closed,Password Reset reported by user.,security_team
+2023-02-17,VPN Access,Critical,Open,Email Problem reported by user.,security_team
+2023-06-11,Network Issue,Low,Closed,VPN Access reported by user.,employee01
+2023-11-22,Network Issue,High,Resolved,Password Reset reported by user.,security_team
+2022-04-25,Email Problem,Medium,In Progress,Hardware Failure reported by user.,security_team
+2024-02-21,Password Reset,Medium,Open,Network Issue reported by user.,employee01
+2024-02-09,Network Issue,Low,Open,Security Alert reported by user.,admin
+2023-01-28,System Outage,High,Resolved,VPN Access reported by user.,admin
+2024-05-17,VPN Access,Medium,Open,System Outage reported by user.,it_support
+2022-03-12,Email Problem,Medium,In Progress,Network Issue reported by user.,security_team
+2023-12-01,Network Issue,Medium,Open,Security Alert reported by user.,system
+2023-08-12,Email Problem,Low,Open,Password Reset reported by user.,it_support
+2022-05-22,Network Issue,Critical,Resolved,VPN Access reported by user.,admin
+2022-11-04,Hardware Failure,High,Resolved,Network Issue reported by user.,it_support
+2022-11-25,System Outage,Medium,In Progress,System Outage reported by user.,it_support
+2022-03-17,Hardware Failure,Critical,Open,Email Problem reported by user.,employee02
+2023-07-15,Email Problem,Medium,Open,VPN Access reported by user.,system
+2022-10-29,Network Issue,Medium,Open,VPN Access reported by user.,employee01
+2022-11-06,Software Install,Critical,In Progress,System Outage reported by user.,admin
+2022-08-17,Hardware Failure,Low,Closed,VPN Access reported by user.,employee02
+2022-01-03,Hardware Failure,Critical,Resolved,Software Install reported by user.,admin
+2022-09-15,VPN Access,Low,In Progress,Password Reset reported by user.,it_support
+2022-10-11,Software Install,High,Resolved,Hardware Failure reported by user.,admin
+2022-05-03,Software Install,High,Closed,Network Issue reported by user.,it_support
+2024-05-09,Email Problem,High,Resolved,System Outage reported by user.,security_team
+2022-10-20,VPN Access,Medium,Resolved,VPN Access reported by user.,system
+2023-04-15,Security Alert,Critical,Open,Security Alert reported by user.,employee01
+2023-11-04,System Outage,Critical,In Progress,Software Install reported by user.,it_support
+2023-09-19,Password Reset,Low,Resolved,Security Alert reported by user.,employee02
+2023-05-02,Password Reset,Critical,Open,Security Alert reported by user.,system
+2024-06-19,Password Reset,Medium,Resolved,System Outage reported by user.,employee01
+2023-06-17,VPN Access,Medium,Closed,Hardware Failure reported by user.,employee01
+2022-03-26,Hardware Failure,High,In Progress,VPN Access reported by user.,employee02
+2023-06-08,System Outage,Low,In Progress,Security Alert reported by user.,it_support
+2022-06-25,System Outage,High,Closed,Password Reset reported by user.,it_support
+2023-07-30,Software Install,Critical,Closed,Security Alert reported by user.,employee01
+2023-06-04,System Outage,High,Open,Password Reset reported by user.,it_support
+2024-02-14,Email Problem,High,In Progress,VPN Access reported by user.,security_team
+2024-03-05,Hardware Failure,High,Closed,System Outage reported by user.,security_team
+2024-02-21,Email Problem,Critical,Resolved,Email Problem reported by user.,it_support
+2022-12-28,Software Install,Medium,Open,System Outage reported by user.,admin
+2022-02-09,VPN Access,High,Open,Password Reset reported by user.,it_support
+2023-02-19,Password Reset,Medium,Open,Hardware Failure reported by user.,admin
+2023-10-22,Security Alert,Low,Open,Security Alert reported by user.,system
+2022-06-17,System Outage,Critical,Open,Password Reset reported by user.,security_team
+2023-07-29,VPN Access,Critical,In Progress,System Outage reported by user.,admin
+2024-05-20,VPN Access,High,In Progress,Email Problem reported by user.,security_team
+2023-08-08,VPN Access,Low,In Progress,Hardware Failure reported by user.,admin
+2022-10-03,Hardware Failure,Low,In Progress,Security Alert reported by user.,employee02
+2022-05-22,Network Issue,High,Resolved,Password Reset reported by user.,security_team
+2023-08-01,Hardware Failure,Medium,In Progress,System Outage reported by user.,it_support
+2024-02-24,Password Reset,Critical,In Progress,System Outage reported by user.,employee01
+2023-10-20,Hardware Failure,Critical,In Progress,Network Issue reported by user.,employee02
+2022-04-21,System Outage,Critical,Closed,System Outage reported by user.,admin
+2024-01-21,Software Install,High,In Progress,Software Install reported by user.,employee01
+2024-04-22,VPN Access,Low,Open,Security Alert reported by user.,employee01
+2023-08-04,Software Install,Low,Open,Hardware Failure reported by user.,security_team
+2022-10-26,Network Issue,Low,Open,System Outage reported by user.,employee01
+2023-07-14,Hardware Failure,Low,In Progress,Email Problem reported by user.,employee02
+2023-12-31,Network Issue,High,Closed,Software Install reported by user.,employee02
+2023-02-23,System Outage,High,Closed,Security Alert reported by user.,employee02
+2022-06-26,Password Reset,High,Resolved,Security Alert reported by user.,security_team
+2023-07-11,Password Reset,Medium,Closed,Hardware Failure reported by user.,system
+2022-09-04,Email Problem,Critical,Resolved,Password Reset reported by user.,employee02
+2022-04-29,VPN Access,Medium,Resolved,System Outage reported by user.,security_team
+2023-02-04,VPN Access,Medium,Open,Hardware Failure reported by user.,security_team
+2022-12-04,Email Problem,Medium,In Progress,Software Install reported by user.,system
+2022-12-16,Hardware Failure,Low,In Progress,Security Alert reported by user.,security_team
+2022-11-23,Network Issue,Low,Resolved,System Outage reported by user.,system
+2022-05-10,Network Issue,Medium,Closed,Hardware Failure reported by user.,it_support
+2023-02-23,Hardware Failure,High,Open,Network Issue reported by user.,system
+2022-04-14,Email Problem,Low,Closed,System Outage reported by user.,it_support
+2024-01-18,Email Problem,High,Open,System Outage reported by user.,admin
+2023-02-15,VPN Access,Critical,In Progress,Hardware Failure reported by user.,admin
+2022-03-16,Password Reset,Medium,Resolved,Email Problem reported by user.,employee01
+2024-04-25,Password Reset,High,Closed,Software Install reported by user.,employee01
+2022-09-22,Software Install,High,Resolved,Network Issue reported by user.,it_support
+2022-01-07,Password Reset,Low,Open,Password Reset reported by user.,admin
+2022-08-23,Network Issue,Medium,Open,System Outage reported by user.,it_support
+2023-05-31,Security Alert,Critical,Resolved,Email Problem reported by user.,it_support
+2023-05-12,System Outage,Medium,Open,Email Problem reported by user.,employee02
+2024-01-31,VPN Access,Medium,Resolved,Hardware Failure reported by user.,security_team
+2022-06-28,Software Install,Critical,Closed,Password Reset reported by user.,system
+2022-12-08,Password Reset,High,In Progress,System Outage reported by user.,employee02
+2022-06-16,Security Alert,Medium,Closed,Email Problem reported by user.,employee02
+2024-02-28,Email Problem,Low,Open,Security Alert reported by user.,employee02
+2024-06-16,Network Issue,High,Closed,Password Reset reported by user.,admin
+2024-03-11,VPN Access,Medium,In Progress,Software Install reported by user.,employee01
+2024-05-17,System Outage,High,In Progress,Email Problem reported by user.,employee01
+2022-12-08,Password Reset,Medium,Resolved,Password Reset reported by user.,admin
+2023-05-03,System Outage,Low,In Progress,Software Install reported by user.,admin
+2023-05-06,Software Install,High,Resolved,Network Issue reported by user.,admin
+2022-12-29,Network Issue,Medium,Resolved,Network Issue reported by user.,admin
+2024-02-12,System Outage,Medium,In Progress,Email Problem reported by user.,employee01
+2023-12-14,Email Problem,High,Closed,Email Problem reported by user.,security_team
+2022-12-06,Password Reset,Low,Open,Security Alert reported by user.,security_team
+2023-04-04,System Outage,High,In Progress,Network Issue reported by user.,it_support
+2023-08-27,Password Reset,Medium,Resolved,Security Alert reported by user.,it_support
+2022-01-26,Security Alert,Low,Open,Security Alert reported by user.,system
+2024-05-31,Network Issue,Medium,Open,Software Install reported by user.,security_team
+2023-03-17,Security Alert,Low,Open,Email Problem reported by user.,admin
+2024-01-03,Email Problem,Low,Closed,Email Problem reported by user.,system
+2023-02-20,Password Reset,Medium,Open,Network Issue reported by user.,employee01
+2023-01-16,Security Alert,High,Resolved,Software Install reported by user.,system
+2022-09-17,System Outage,Critical,In Progress,Software Install reported by user.,security_team
+2023-10-27,Password Reset,Low,Resolved,Network Issue reported by user.,security_team
+2023-03-15,Security Alert,High,Resolved,Hardware Failure reported by user.,employee02
+2022-03-23,Password Reset,Low,Open,System Outage reported by user.,employee01
+2023-01-10,Network Issue,Medium,Open,Password Reset reported by user.,employee01
+2023-07-10,Network Issue,Medium,In Progress,Security Alert reported by user.,system
+2023-09-04,Network Issue,High,In Progress,Email Problem reported by user.,admin
+2022-07-13,Network Issue,Medium,In Progress,Hardware Failure reported by user.,admin
+2023-11-12,Software Install,Low,Open,Email Problem reported by user.,employee02
+2022-10-10,Network Issue,High,In Progress,Password Reset reported by user.,it_support
+2024-05-30,Hardware Failure,Critical,Resolved,System Outage reported by user.,it_support
+2024-05-18,Hardware Failure,High,Open,Hardware Failure reported by user.,system
+2022-06-01,Hardware Failure,Low,Resolved,Security Alert reported by user.,it_support
+2022-09-06,System Outage,High,In Progress,System Outage reported by user.,admin
+2023-09-14,Network Issue,Medium,In Progress,Hardware Failure reported by user.,employee01
+2024-03-30,Hardware Failure,Low,Closed,Network Issue reported by user.,it_support
+2024-05-23,Network Issue,Low,In Progress,System Outage reported by user.,employee02
+2023-09-24,Security Alert,High,Closed,System Outage reported by user.,security_team
+2022-07-20,Network Issue,Critical,In Progress,Security Alert reported by user.,employee01
+2023-05-19,VPN Access,Medium,Open,System Outage reported by user.,admin
+2023-04-20,System Outage,Medium,Open,Password Reset reported by user.,employee02
+2022-02-27,Network Issue,Critical,Closed,Email Problem reported by user.,admin
+2023-05-28,Security Alert,Medium,Open,System Outage reported by user.,employee02
+2023-01-06,Software Install,Medium,Resolved,Hardware Failure reported by user.,employee01
+2023-11-12,Security Alert,Critical,Open,System Outage reported by user.,admin
+2022-08-08,Hardware Failure,High,Resolved,VPN Access reported by user.,system
+2023-12-04,System Outage,Critical,In Progress,System Outage reported by user.,security_team
+2022-02-03,Security Alert,Medium,In Progress,System Outage reported by user.,admin
+2024-04-14,Network Issue,High,Closed,Hardware Failure reported by user.,it_support
+2022-10-26,Email Problem,Critical,Resolved,Email Problem reported by user.,employee02
+2022-02-24,System Outage,Critical,Closed,Software Install reported by user.,security_team
+2023-10-12,Password Reset,Medium,Closed,Hardware Failure reported by user.,employee01
+2024-05-31,Password Reset,Medium,Open,System Outage reported by user.,admin
+2022-06-07,System Outage,Low,Resolved,Network Issue reported by user.,employee01
+2023-10-22,VPN Access,Critical,In Progress,VPN Access reported by user.,employee01
+2023-01-22,Security Alert,Low,Closed,System Outage reported by user.,it_support
+2024-01-04,Software Install,Low,Resolved,VPN Access reported by user.,system
+2022-11-10,Hardware Failure,Medium,Closed,System Outage reported by user.,security_team
+2023-03-07,Email Problem,Critical,Closed,Email Problem reported by user.,it_support
+2023-04-14,Network Issue,Critical,Open,VPN Access reported by user.,employee02
+2022-01-06,Network Issue,Medium,Open,Email Problem reported by user.,employee02
+2022-10-19,Password Reset,High,In Progress,Password Reset reported by user.,employee01
+2022-05-31,Hardware Failure,Low,In Progress,System Outage reported by user.,system
+2023-01-29,Security Alert,Medium,Open,Hardware Failure reported by user.,employee02
+2023-02-12,Security Alert,Critical,Closed,VPN Access reported by user.,employee02
+2023-04-01,Security Alert,Critical,Open,System Outage reported by user.,admin
+2022-01-10,VPN Access,High,Open,Software Install reported by user.,admin
+2023-06-03,VPN Access,High,Resolved,Email Problem reported by user.,employee01
+2024-04-08,Security Alert,Medium,Resolved,Email Problem reported by user.,admin
+2023-11-11,Network Issue,Medium,Open,Password Reset reported by user.,admin
+2023-07-18,Software Install,Critical,Open,Email Problem reported by user.,system
+2022-05-19,Hardware Failure,Critical,Resolved,VPN Access reported by user.,security_team
+2023-01-10,System Outage,Critical,Open,Software Install reported by user.,employee02
+2024-01-24,Security Alert,High,Open,VPN Access reported by user.,it_support
+2024-05-20,VPN Access,High,Closed,VPN Access reported by user.,employee01
+2024-01-28,System Outage,Medium,Open,Password Reset reported by user.,employee01
+2022-03-26,VPN Access,Critical,Closed,VPN Access reported by user.,admin
+2022-07-23,Security Alert,Critical,Open,VPN Access reported by user.,admin
+2023-02-19,VPN Access,Medium,In Progress,System Outage reported by user.,system
+2023-04-09,Network Issue,Low,Closed,VPN Access reported by user.,employee02
+2023-04-19,VPN Access,High,Resolved,Network Issue reported by user.,it_support
+2022-03-28,Password Reset,High,Resolved,Email Problem reported by user.,it_support
+2022-08-25,Email Problem,Critical,In Progress,System Outage reported by user.,system
+2022-09-15,Password Reset,Critical,Closed,Network Issue reported by user.,employee01
+2022-12-15,System Outage,Medium,Closed,VPN Access reported by user.,employee02
+2022-01-03,System Outage,Critical,Open,System Outage reported by user.,employee02
+2023-09-30,Email Problem,Critical,Closed,Email Problem reported by user.,employee02
+2022-03-17,Password Reset,High,In Progress,Password Reset reported by user.,employee01
+2022-04-06,Password Reset,Critical,Resolved,VPN Access reported by user.,security_team
+2023-02-14,System Outage,High,Closed,Security Alert reported by user.,system
+2024-06-05,Security Alert,Low,In Progress,Password Reset reported by user.,employee02
+2022-11-18,Network Issue,High,Closed,Hardware Failure reported by user.,it_support
+2023-03-10,VPN Access,Low,Open,Software Install reported by user.,employee02
+2022-02-04,Hardware Failure,Medium,Closed,Password Reset reported by user.,admin
+2024-06-14,Hardware Failure,Low,Resolved,Hardware Failure reported by user.,system
+2023-10-01,Software Install,High,Resolved,Security Alert reported by user.,system
+2023-08-12,Security Alert,Critical,In Progress,Software Install reported by user.,employee01
+2022-09-12,VPN Access,High,Open,Software Install reported by user.,employee01
+2022-08-24,VPN Access,Critical,In Progress,Password Reset reported by user.,it_support
+2023-01-13,Software Install,High,Open,Password Reset reported by user.,employee02
+2022-12-05,Security Alert,High,In Progress,System Outage reported by user.,it_support
+2022-10-08,Software Install,High,Closed,VPN Access reported by user.,employee02
+2024-04-24,Network Issue,Low,In Progress,Network Issue reported by user.,employee01
+2023-02-19,Hardware Failure,Critical,Closed,Network Issue reported by user.,employee02
+2024-03-28,Software Install,High,Open,Network Issue reported by user.,system
+2022-03-20,System Outage,Critical,In Progress,VPN Access reported by user.,employee01
+2023-08-24,Security Alert,High,In Progress,Software Install reported by user.,employee01
+2024-04-29,Hardware Failure,Critical,In Progress,Security Alert reported by user.,security_team
+2023-02-14,VPN Access,Medium,Resolved,Network Issue reported by user.,employee01
+2023-09-15,Network Issue,High,Closed,Security Alert reported by user.,it_support
+2023-02-07,Software Install,Low,In Progress,Security Alert reported by user.,employee02
+2024-06-01,VPN Access,Medium,Closed,Hardware Failure reported by user.,it_support
+2023-11-09,System Outage,Critical,Resolved,Email Problem reported by user.,employee01
+2023-11-21,Software Install,Critical,Closed,Password Reset reported by user.,system
+2022-09-06,Network Issue,High,Open,System Outage reported by user.,security_team
+2023-01-21,Network Issue,High,Open,Password Reset reported by user.,it_support
+2022-02-26,Email Problem,High,Open,System Outage reported by user.,it_support
+2023-09-03,Password Reset,Critical,Closed,Security Alert reported by user.,employee02
+2024-02-22,Network Issue,Low,Closed,Security Alert reported by user.,it_support
+2022-10-30,Network Issue,High,Closed,Software Install reported by user.,employee01
+2024-02-28,Email Problem,Low,Closed,Security Alert reported by user.,it_support
+2023-11-16,Email Problem,Low,Resolved,Network Issue reported by user.,security_team
+2022-05-07,Software Install,Medium,In Progress,Software Install reported by user.,system
+2023-10-11,System Outage,Critical,Open,Security Alert reported by user.,security_team
+2022-04-22,System Outage,Critical,In Progress,Email Problem reported by user.,system
+2023-05-28,System Outage,Medium,Closed,System Outage reported by user.,security_team
+2022-05-01,Security Alert,Critical,In Progress,Email Problem reported by user.,security_team
+2022-03-29,VPN Access,High,In Progress,Network Issue reported by user.,admin
+2023-07-25,Email Problem,Low,In Progress,Hardware Failure reported by user.,it_support
+2023-08-11,Software Install,Medium,In Progress,System Outage reported by user.,security_team
+2022-03-21,System Outage,Low,Closed,Hardware Failure reported by user.,security_team
+2023-01-11,Email Problem,High,In Progress,Software Install reported by user.,employee02
+2023-08-29,Network Issue,High,Resolved,Email Problem reported by user.,employee02
+2023-01-22,Security Alert,Low,Closed,VPN Access reported by user.,employee02
+2023-08-09,Hardware Failure,Low,Open,System Outage reported by user.,system
+2024-04-10,Hardware Failure,Low,Open,Password Reset reported by user.,it_support
+2022-01-23,Security Alert,High,Closed,Email Problem reported by user.,employee02
+2022-05-19,Software Install,Medium,Open,VPN Access reported by user.,admin
+2023-01-14,Email Problem,Critical,In Progress,VPN Access reported by user.,system
+2023-04-20,VPN Access,Critical,In Progress,Network Issue reported by user.,employee02
+2023-12-18,Hardware Failure,Medium,Resolved,VPN Access reported by user.,employee02
+2024-05-10,Security Alert,High,Resolved,System Outage reported by user.,security_team
+2022-05-11,System Outage,Critical,Open,Security Alert reported by user.,employee02
+2023-05-03,VPN Access,Critical,In Progress,Hardware Failure reported by user.,employee01
+2023-10-05,VPN Access,Low,Open,Security Alert reported by user.,system
+2024-04-15,Security Alert,Critical,Open,System Outage reported by user.,employee02
+2023-10-18,Security Alert,Critical,Open,System Outage reported by user.,it_support
+2023-01-12,VPN Access,Critical,Open,Email Problem reported by user.,security_team
+2022-07-25,System Outage,High,Resolved,Email Problem reported by user.,system
+2023-12-02,VPN Access,Low,Resolved,Email Problem reported by user.,admin
+2022-06-15,Hardware Failure,Critical,Closed,Hardware Failure reported by user.,employee02
+2022-07-02,Password Reset,Critical,Resolved,Hardware Failure reported by user.,system
+2023-07-09,Hardware Failure,Medium,Closed,Hardware Failure reported by user.,admin
+2023-08-24,VPN Access,Medium,Resolved,Security Alert reported by user.,employee02
+2024-05-11,Network Issue,Medium,Resolved,Network Issue reported by user.,employee02
+2022-11-29,Password Reset,High,Closed,Password Reset reported by user.,system
+2023-01-25,System Outage,Low,Closed,Network Issue reported by user.,employee02
+2024-02-22,System Outage,Medium,Open,System Outage reported by user.,it_support
+2024-03-28,Security Alert,High,In Progress,Password Reset reported by user.,security_team
+2022-09-11,Email Problem,Low,Closed,Email Problem reported by user.,security_team
+2024-06-16,Software Install,Medium,Closed,Hardware Failure reported by user.,system
+2022-06-05,VPN Access,Medium,Open,Security Alert reported by user.,employee01
+2022-06-07,Hardware Failure,High,Open,Network Issue reported by user.,security_team
+2022-04-04,Hardware Failure,Critical,Open,Password Reset reported by user.,it_support
+2024-01-15,Security Alert,Low,Open,Hardware Failure reported by user.,system
+2022-11-28,Security Alert,Medium,Closed,Security Alert reported by user.,security_team
+2023-10-27,Security Alert,Critical,Closed,Software Install reported by user.,it_support
+2024-01-12,System Outage,Medium,Open,Email Problem reported by user.,system
+2023-01-12,Security Alert,Low,Open,Software Install reported by user.,it_support
+2024-04-18,System Outage,Critical,Open,VPN Access reported by user.,employee02
+2023-09-15,Password Reset,Low,Open,VPN Access reported by user.,employee01
+2023-12-15,System Outage,Critical,Closed,Password Reset reported by user.,admin
+2022-06-02,Security Alert,High,Closed,VPN Access reported by user.,employee01
+2024-03-06,Security Alert,Medium,In Progress,VPN Access reported by user.,system
+2022-05-27,Network Issue,Critical,Open,Security Alert reported by user.,admin
+2023-02-16,System Outage,Critical,Open,Network Issue reported by user.,it_support
+2022-05-15,Email Problem,Medium,In Progress,Email Problem reported by user.,it_support
+2022-04-19,Password Reset,Critical,Resolved,Hardware Failure reported by user.,system
+2023-03-20,VPN Access,Medium,Resolved,Network Issue reported by user.,employee02
+2022-07-20,System Outage,Critical,Resolved,Network Issue reported by user.,system
+2022-02-14,Network Issue,Medium,Open,System Outage reported by user.,it_support
+2022-08-16,Network Issue,Critical,Open,Network Issue reported by user.,employee01
+2023-01-26,System Outage,Low,Closed,Password Reset reported by user.,it_support
+2023-11-06,Network Issue,Medium,Resolved,VPN Access reported by user.,employee02
+2022-11-14,VPN Access,Critical,In Progress,Hardware Failure reported by user.,employee02
+2022-05-24,Network Issue,Medium,Open,Software Install reported by user.,system
+2022-03-29,Password Reset,High,Resolved,System Outage reported by user.,employee01
+2024-03-24,Hardware Failure,Low,Open,System Outage reported by user.,it_support
+2023-06-27,Security Alert,Low,Resolved,Password Reset reported by user.,admin
+2023-04-23,VPN Access,Medium,Resolved,Network Issue reported by user.,security_team
+2023-03-20,Password Reset,Medium,Open,Hardware Failure reported by user.,security_team
+2023-01-09,VPN Access,Critical,Closed,Hardware Failure reported by user.,employee02
+2024-02-29,Security Alert,Low,Closed,Email Problem reported by user.,it_support
+2024-04-20,VPN Access,Critical,Closed,Network Issue reported by user.,security_team
+2022-07-11,Password Reset,Critical,Resolved,VPN Access reported by user.,admin
+2023-10-10,Network Issue,Low,Resolved,Security Alert reported by user.,admin
+2024-02-01,Hardware Failure,Medium,Open,VPN Access reported by user.,employee01
+2023-03-25,Password Reset,Medium,In Progress,Password Reset reported by user.,admin
+2022-05-14,Software Install,Medium,Closed,Software Install reported by user.,employee01
+2022-07-24,Software Install,Low,Resolved,Hardware Failure reported by user.,security_team
+2023-06-01,Hardware Failure,Critical,Resolved,Hardware Failure reported by user.,employee01
+2023-11-16,Software Install,Low,Open,VPN Access reported by user.,employee01
+2024-05-02,Network Issue,Medium,In Progress,Software Install reported by user.,employee01
+2022-11-23,VPN Access,Medium,In Progress,Password Reset reported by user.,it_support
+2023-12-14,Security Alert,Critical,Closed,Security Alert reported by user.,system
+2022-06-22,Hardware Failure,Critical,Closed,Software Install reported by user.,it_support
+2023-04-17,System Outage,Medium,Resolved,VPN Access reported by user.,security_team
+2022-05-25,Security Alert,Low,Open,Software Install reported by user.,employee01
+2022-04-03,Security Alert,Low,Closed,Email Problem reported by user.,it_support
+2022-12-10,Network Issue,Critical,In Progress,Software Install reported by user.,system
+2023-11-02,Software Install,Medium,Closed,Email Problem reported by user.,admin
+2023-10-14,Security Alert,Low,In Progress,System Outage reported by user.,employee02
+2024-04-16,Security Alert,Medium,Closed,System Outage reported by user.,employee01
+2022-10-27,Security Alert,High,Closed,Email Problem reported by user.,it_support
+2023-02-08,Software Install,Low,Resolved,Hardware Failure reported by user.,admin
+2022-05-10,Network Issue,Critical,In Progress,VPN Access reported by user.,security_team
+2022-06-11,Password Reset,Low,Closed,Hardware Failure reported by user.,employee01
+2022-05-06,Software Install,Medium,Resolved,Password Reset reported by user.,employee01
+2023-04-07,Software Install,Low,In Progress,System Outage reported by user.,employee02
+2023-06-16,VPN Access,Critical,Open,Software Install reported by user.,security_team
+2022-04-29,Password Reset,Medium,In Progress,Hardware Failure reported by user.,security_team
+2022-10-13,Hardware Failure,High,In Progress,Network Issue reported by user.,security_team
+2022-11-29,Email Problem,High,In Progress,Software Install reported by user.,employee02
+2023-11-05,Network Issue,High,Closed,Security Alert reported by user.,system
+2024-03-20,Password Reset,Medium,Resolved,Network Issue reported by user.,system
+2024-01-07,Network Issue,Low,Resolved,Email Problem reported by user.,system
+2022-06-06,Hardware Failure,Low,Closed,Password Reset reported by user.,admin
+2022-06-16,VPN Access,High,Closed,Hardware Failure reported by user.,security_team
+2023-01-07,System Outage,Medium,Resolved,System Outage reported by user.,employee01
+2023-02-15,System Outage,Critical,Resolved,Email Problem reported by user.,admin
+2023-11-27,Software Install,Critical,Closed,Security Alert reported by user.,employee02
+2022-05-20,Software Install,Medium,In Progress,System Outage reported by user.,it_support
+2024-04-08,System Outage,High,In Progress,Software Install reported by user.,admin
+2022-11-09,Hardware Failure,Critical,Open,VPN Access reported by user.,employee02
+2022-01-27,Security Alert,Low,Resolved,Email Problem reported by user.,system
+2022-05-31,Email Problem,High,In Progress,Network Issue reported by user.,employee01
+2023-02-04,Email Problem,Critical,Closed,VPN Access reported by user.,employee01
+2023-04-07,Email Problem,Low,Open,Password Reset reported by user.,employee02
+2022-06-07,System Outage,High,Open,Network Issue reported by user.,employee02
+2023-06-10,Software Install,Medium,Closed,Security Alert reported by user.,system
+2022-06-04,Hardware Failure,Critical,In Progress,Password Reset reported by user.,system
+2023-07-03,Password Reset,Critical,Closed,Password Reset reported by user.,security_team
+2023-06-10,Hardware Failure,Low,Closed,Password Reset reported by user.,security_team
+2023-11-12,System Outage,Low,Open,Password Reset reported by user.,employee01
+2023-06-25,Hardware Failure,High,In Progress,Software Install reported by user.,admin
+2023-04-05,Password Reset,Medium,In Progress,Network Issue reported by user.,employee01
+2023-07-12,Email Problem,High,Resolved,Security Alert reported by user.,admin
+2024-06-15,Software Install,High,Open,Password Reset reported by user.,admin
+2022-11-28,VPN Access,Low,Closed,Hardware Failure reported by user.,employee02
+2022-09-14,VPN Access,Critical,In Progress,Password Reset reported by user.,security_team
+2024-02-01,Software Install,Medium,Closed,Hardware Failure reported by user.,system
+2022-07-21,System Outage,High,Closed,System Outage reported by user.,system
+2022-10-06,Email Problem,Medium,Open,Network Issue reported by user.,system
+2022-05-07,VPN Access,Medium,Resolved,VPN Access reported by user.,employee02
+2024-03-26,Email Problem,Low,Open,Software Install reported by user.,employee02
+2022-10-27,Network Issue,Low,Closed,Password Reset reported by user.,employee02
+2023-07-05,Email Problem,Low,Closed,VPN Access reported by user.,employee02
+2022-04-04,Network Issue,Critical,Resolved,Software Install reported by user.,employee01
+2024-01-19,System Outage,Medium,In Progress,Password Reset reported by user.,employee02
+2023-04-02,Software Install,Low,Resolved,Hardware Failure reported by user.,employee01
+2022-10-04,Network Issue,High,Open,VPN Access reported by user.,security_team
+2023-12-24,Security Alert,High,Closed,Software Install reported by user.,admin
+2022-07-13,Password Reset,High,Closed,Security Alert reported by user.,it_support
+2022-10-01,Security Alert,Critical,Resolved,Network Issue reported by user.,employee01
+2023-03-16,Software Install,Low,Resolved,System Outage reported by user.,security_team
+2022-02-06,VPN Access,Medium,Resolved,Email Problem reported by user.,system
+2023-09-01,Network Issue,High,Resolved,Password Reset reported by user.,employee02
+2023-01-05,Software Install,Medium,Open,VPN Access reported by user.,security_team
+2023-10-15,Software Install,High,Closed,Network Issue reported by user.,admin
+2023-06-11,Password Reset,Critical,Resolved,Software Install reported by user.,employee02
+2022-05-14,System Outage,Medium,Resolved,Password Reset reported by user.,admin
+2022-08-08,Software Install,Medium,Resolved,Security Alert reported by user.,system
+2022-11-10,Network Issue,Critical,In Progress,Password Reset reported by user.,admin
+2023-03-03,Software Install,Low,Open,Hardware Failure reported by user.,security_team
+2023-03-12,Email Problem,Medium,Resolved,VPN Access reported by user.,it_support
+2023-11-28,System Outage,Critical,Closed,Security Alert reported by user.,security_team
+2024-05-10,Hardware Failure,Medium,In Progress,Software Install reported by user.,system
+2022-11-15,VPN Access,Medium,Resolved,Software Install reported by user.,system
+2023-01-11,System Outage,High,Resolved,Network Issue reported by user.,employee02
+2024-01-17,VPN Access,Low,In Progress,Network Issue reported by user.,employee02
+2022-07-29,Hardware Failure,High,In Progress,Software Install reported by user.,employee02
+2023-12-24,System Outage,Low,Resolved,Hardware Failure reported by user.,admin
+2024-04-27,VPN Access,Critical,Closed,System Outage reported by user.,employee02
+2023-09-27,System Outage,Medium,Resolved,Hardware Failure reported by user.,employee02
+2023-07-24,System Outage,Medium,Open,Hardware Failure reported by user.,security_team
+2022-07-14,Software Install,Critical,Closed,Software Install reported by user.,security_team
+2022-12-17,Password Reset,Low,Closed,System Outage reported by user.,system
+2023-03-06,Software Install,High,Resolved,Software Install reported by user.,employee02
+2022-01-16,VPN Access,Low,Closed,Password Reset reported by user.,it_support
+2024-01-31,VPN Access,High,In Progress,Email Problem reported by user.,employee02
+2024-04-29,Password Reset,Critical,In Progress,Email Problem reported by user.,employee02
+2023-05-08,Network Issue,Medium,Open,Hardware Failure reported by user.,employee01
+2024-04-21,Hardware Failure,Low,Resolved,Email Problem reported by user.,employee01
+2022-02-08,Network Issue,High,Resolved,Network Issue reported by user.,employee02
+2023-03-19,Security Alert,Medium,Resolved,Network Issue reported by user.,employee02
+2024-01-05,Email Problem,Medium,Resolved,Password Reset reported by user.,employee02
+2022-07-17,Hardware Failure,High,Open,Software Install reported by user.,employee01
+2022-10-14,Network Issue,High,In Progress,VPN Access reported by user.,employee02
+2024-03-22,Software Install,Low,In Progress,Network Issue reported by user.,employee02
+2022-09-27,Software Install,Low,Open,Email Problem reported by user.,employee02
+2022-09-04,Network Issue,Low,In Progress,Software Install reported by user.,it_support
+2023-03-26,Network Issue,Medium,Closed,Network Issue reported by user.,employee02
+2023-09-02,Email Problem,Low,Open,Security Alert reported by user.,admin
+2022-01-23,Network Issue,High,Closed,Security Alert reported by user.,system
+2024-01-16,Security Alert,Low,In Progress,Hardware Failure reported by user.,security_team
+2022-03-21,Hardware Failure,Low,Resolved,Hardware Failure reported by user.,system
+2022-04-27,VPN Access,Medium,Open,Security Alert reported by user.,security_team
+2023-11-12,Hardware Failure,Critical,Closed,Hardware Failure reported by user.,admin
+2023-07-30,Password Reset,Medium,Open,Network Issue reported by user.,system
+2022-07-29,Email Problem,Low,Open,VPN Access reported by user.,it_support
+2024-04-30,Software Install,Low,Open,Software Install reported by user.,admin
+2023-04-06,Email Problem,High,In Progress,Network Issue reported by user.,security_team
+2023-12-10,Email Problem,High,Resolved,Network Issue reported by user.,system
+2024-05-29,System Outage,Medium,Closed,Email Problem reported by user.,admin
+2022-08-14,Software Install,High,Open,Software Install reported by user.,employee02
+2023-02-24,Password Reset,Low,Resolved,System Outage reported by user.,security_team
+2024-05-31,Network Issue,Medium,In Progress,Security Alert reported by user.,system
+2022-10-05,VPN Access,High,Resolved,Password Reset reported by user.,system
+2024-03-18,Hardware Failure,Low,Resolved,System Outage reported by user.,security_team
+2022-07-24,Security Alert,Medium,Resolved,Hardware Failure reported by user.,employee02
+2023-12-15,Hardware Failure,Medium,Closed,System Outage reported by user.,employee02
+2022-03-07,Hardware Failure,Low,Open,System Outage reported by user.,system
+2022-09-22,Hardware Failure,High,Open,Network Issue reported by user.,system
+2024-02-24,Security Alert,Low,In Progress,VPN Access reported by user.,security_team
+2024-03-05,Software Install,Low,Closed,System Outage reported by user.,system
+2022-09-18,Email Problem,Critical,Closed,Password Reset reported by user.,system
+2023-08-19,System Outage,Medium,Resolved,Network Issue reported by user.,security_team
+2022-10-17,System Outage,Critical,Resolved,Password Reset reported by user.,employee01
+2022-06-15,Password Reset,High,Open,Password Reset reported by user.,system
+2024-03-27,Software Install,Low,Closed,Password Reset reported by user.,it_support
+2023-12-25,Email Problem,Medium,Closed,VPN Access reported by user.,employee01
+2023-10-20,System Outage,Critical,Resolved,Hardware Failure reported by user.,it_support
+2022-07-17,Hardware Failure,Medium,Open,Network Issue reported by user.,security_team
+2022-05-14,Hardware Failure,Low,Resolved,Security Alert reported by user.,it_support
+2022-07-10,VPN Access,Medium,Resolved,Hardware Failure reported by user.,system
+2023-03-07,Software Install,Medium,Closed,Software Install reported by user.,security_team
+2023-08-14,VPN Access,Medium,Resolved,Software Install reported by user.,system
+2022-07-01,Password Reset,Critical,Resolved,Hardware Failure reported by user.,admin
+2022-07-21,Email Problem,Low,Closed,Hardware Failure reported by user.,employee02
+2023-11-10,Email Problem,High,Closed,Email Problem reported by user.,it_support
+2022-10-31,VPN Access,Medium,In Progress,VPN Access reported by user.,it_support
+2023-07-07,VPN Access,Critical,Closed,Password Reset reported by user.,admin
+2023-09-10,Security Alert,Low,In Progress,Email Problem reported by user.,it_support
+2023-04-05,Email Problem,Low,Closed,Email Problem reported by user.,employee02
+2023-04-09,Network Issue,Critical,Closed,Network Issue reported by user.,employee01
+2022-03-20,Software Install,High,Resolved,Hardware Failure reported by user.,security_team
+2022-11-23,Security Alert,High,Closed,Password Reset reported by user.,system
+2023-04-26,Password Reset,Low,In Progress,Software Install reported by user.,security_team
+2023-06-18,Network Issue,Medium,Open,VPN Access reported by user.,admin
+2022-12-26,Hardware Failure,Medium,In Progress,System Outage reported by user.,security_team
+2022-03-29,Network Issue,Low,Open,Network Issue reported by user.,security_team
+2022-11-17,Software Install,Medium,In Progress,Password Reset reported by user.,employee01
+2024-02-13,Hardware Failure,Low,In Progress,Security Alert reported by user.,system
+2022-11-24,Hardware Failure,High,Resolved,Password Reset reported by user.,system
+2023-03-13,Password Reset,Low,Open,Password Reset reported by user.,system
+2023-09-19,Network Issue,Critical,Open,System Outage reported by user.,system
+2023-07-18,Network Issue,High,In Progress,Password Reset reported by user.,admin
+2023-07-30,Software Install,High,Open,VPN Access reported by user.,employee02
+2022-11-20,Network Issue,Medium,Resolved,Network Issue reported by user.,admin
+2024-04-17,Security Alert,Low,Closed,Hardware Failure reported by user.,security_team
+2023-07-23,Hardware Failure,High,In Progress,VPN Access reported by user.,system
+2024-04-08,Security Alert,Critical,Resolved,Network Issue reported by user.,employee02
+2023-10-15,Password Reset,Critical,Resolved,VPN Access reported by user.,it_support
+2023-05-18,Software Install,Low,In Progress,Password Reset reported by user.,employee01
+2023-09-28,Network Issue,Critical,In Progress,VPN Access reported by user.,admin
+2023-06-19,Hardware Failure,Critical,In Progress,Password Reset reported by user.,system
+2022-06-13,Security Alert,Critical,Resolved,Hardware Failure reported by user.,employee02
+2022-06-28,Network Issue,Low,Resolved,Email Problem reported by user.,employee02
+2022-08-08,Network Issue,Low,Closed,VPN Access reported by user.,employee01
+2023-11-13,Security Alert,Medium,Resolved,Hardware Failure reported by user.,it_support
+2023-10-28,System Outage,Low,Closed,VPN Access reported by user.,security_team
+2022-07-10,System Outage,Medium,Closed,Hardware Failure reported by user.,security_team
+2022-11-10,Hardware Failure,Low,In Progress,Hardware Failure reported by user.,it_support
+2022-11-21,VPN Access,High,Closed,Network Issue reported by user.,system
+2023-09-15,System Outage,High,Open,Security Alert reported by user.,it_support
+2024-01-18,Software Install,Low,Closed,Email Problem reported by user.,system
+2022-05-12,Hardware Failure,High,Open,Password Reset reported by user.,admin
+2024-06-09,System Outage,Critical,In Progress,Hardware Failure reported by user.,security_team
+2023-04-30,System Outage,High,Closed,Password Reset reported by user.,employee01
+2022-03-08,Hardware Failure,Low,In Progress,Hardware Failure reported by user.,system
+2023-03-04,Security Alert,Low,Closed,Password Reset reported by user.,admin
+2022-05-03,Password Reset,Critical,Resolved,System Outage reported by user.,security_team
+2022-09-05,VPN Access,Low,Open,Password Reset reported by user.,system
+2023-04-09,Software Install,High,Open,Network Issue reported by user.,system
+2022-06-07,Network Issue,Low,Resolved,VPN Access reported by user.,it_support
+2023-07-02,Password Reset,Medium,Closed,Software Install reported by user.,employee02
+2022-01-10,VPN Access,Critical,In Progress,VPN Access reported by user.,employee02
+2024-06-18,Security Alert,Critical,Open,Software Install reported by user.,security_team
+2024-06-05,Software Install,High,Closed,Security Alert reported by user.,employee01
+2023-03-20,Network Issue,Critical,Closed,Password Reset reported by user.,it_support
+2022-01-28,Password Reset,Low,Resolved,Security Alert reported by user.,admin
+2023-10-29,Network Issue,Medium,Closed,VPN Access reported by user.,it_support
+2022-05-01,Password Reset,Critical,Closed,Security Alert reported by user.,employee01
+2022-08-25,Password Reset,Medium,Resolved,Email Problem reported by user.,it_support
+2023-04-11,VPN Access,Critical,Resolved,VPN Access reported by user.,it_support
+2023-11-23,Password Reset,Medium,Closed,Hardware Failure reported by user.,employee02
+2023-03-03,Software Install,Low,Open,Network Issue reported by user.,employee02
+2022-09-13,VPN Access,Medium,Closed,VPN Access reported by user.,it_support
+2024-01-09,Password Reset,Low,Resolved,Password Reset reported by user.,admin
+2023-11-28,Network Issue,Critical,Closed,System Outage reported by user.,security_team
+2024-03-20,Hardware Failure,Low,Open,Email Problem reported by user.,employee01
+2023-03-26,Security Alert,High,Open,Password Reset reported by user.,admin
+2023-03-17,Hardware Failure,Medium,Closed,Software Install reported by user.,system
+2023-10-20,Network Issue,Medium,In Progress,Password Reset reported by user.,employee01
+2023-04-08,Network Issue,High,In Progress,System Outage reported by user.,employee02
+2024-04-22,Hardware Failure,High,Closed,Email Problem reported by user.,employee02
+2022-05-10,System Outage,Critical,Resolved,Password Reset reported by user.,it_support
+2024-06-14,Password Reset,High,Open,System Outage reported by user.,employee01
+2022-11-16,Software Install,Medium,Open,Network Issue reported by user.,employee02
+2023-02-09,Password Reset,Medium,In Progress,Software Install reported by user.,admin
+2024-06-01,VPN Access,Low,In Progress,Password Reset reported by user.,admin
+2023-12-08,Password Reset,High,Open,Network Issue reported by user.,security_team
+2023-12-18,Hardware Failure,Low,Resolved,Network Issue reported by user.,security_team
+2022-05-07,Network Issue,Low,Open,VPN Access reported by user.,employee02
+2023-08-30,Email Problem,Low,Closed,Password Reset reported by user.,admin
+2023-06-08,Password Reset,Low,In Progress,Password Reset reported by user.,employee02
+2024-04-18,Security Alert,Medium,Open,System Outage reported by user.,system
+2023-03-16,Email Problem,Low,Closed,Hardware Failure reported by user.,employee01
+2023-10-20,Hardware Failure,Medium,Resolved,Email Problem reported by user.,employee01
